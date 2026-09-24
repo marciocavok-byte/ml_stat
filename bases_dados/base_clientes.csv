@@ -1,0 +1,1301 @@
+id_cliente,nome,email,telefone,renda_mensal,score_credito,historico_inadimplente,localidade_interesse,tipo_imovel_interesse,data_cadastro
+CLI-50000,Stella Ferreira,vcassiano@example.org,+55 61 7098-5646,29368.0,588.0,,Lago Sul,Casa,
+CLI-50001,Vitor Gabriel da Rosa,kfreitas@example.org,67 5524-9327,13006.0,810.0,1.0,,Casa,2026-07-09
+CLI-50002,Ravy Duarte,qlopes@example.org,+55 87 5884-8907,42934.0,870.0,,Sudoeste / Octogonal,Casa,2025-12-30
+CLI-50003,Heloisa Lima,garciadiego@example.org,21 7324-6828,9718.0,864.0,0.0,Jardim Botânico,Casa,2026-02-23
+CLI-50004,Davi Miguel Mendonça,macedomelina@example.org,+55 73 3610-9761,19177.0,979.0,0.0,Sudoeste / Octogonal,Apartamento,2025-10-19
+CLI-50005,Mirella Pacheco,tgarcia@example.com,48 4999-3618,6659.0,310.0,1.0,Águas Lindas de Goiás,Casa,2025-11-02
+CLI-50006,Kamilly Pinto,cporto@example.net,+55 18 6647-2377,3795.0,554.0,0.0,Taguatinga,Casa,2025-10-24
+CLI-50007,Carlos Eduardo Guerra,ygomes@example.net,64 9728-3432,31839.0,672.0,0.0,Asa Sul,,2026-03-21
+CLI-50008,Maria Isis Melo,sousaluiz-fernando@example.com,,9589.0,427.0,0.0,,Apartamento,2026-08-02
+CLI-50009,Lucca Mendonça,pedro-henriquecassiano@example.net,+55 48 7786-0829,11417.0,899.0,0.0,Guará,Casa,2026-03-22
+CLI-50010,Brayan Macedo,ravy67@example.org,+55 88 6628-4016,3181.0,675.0,1.0,Valparaíso de Goiás,Casa,2026-08-24
+CLI-50011,João Pedro da Cruz,portofrancisco@example.com,71 4463-2570,42259.0,962.0,0.0,Asa Sul,Apartamento,2026-03-10
+CLI-50012,Manuela da Mata,,32 1363-1971,7643.0,401.0,,Águas Claras,,2026-01-29
+CLI-50013,Josué da Cunha,isabellapinto@example.net,53 3774-6883,5414.0,322.0,0.0,Valparaíso de Goiás,Casa,
+CLI-50014,Kamilly Cardoso,pedro-lucas96@example.net,77 4977-7130,3510.0,683.0,0.0,Ceilândia,Apartamento,2026-07-18
+CLI-50015,Sr. José Pedro da Rosa,ian12@example.net,49 7155-9146,12581.0,625.0,0.0,Jardim Botânico,Apartamento,2026-02-03
+CLI-50016,Raquel Costela,,+55 53 2086-3553,4929.0,843.0,0.0,Ceilândia,Apartamento,2026-08-25
+CLI-50017,Elisa Fogaça,pedro-lucascavalcanti@example.com,+55 28 3575-8086,,,1.0,,Casa,2026-09-23
+CLI-50018,Isis Sampaio,da-mataluana@example.org,+55 98 6547-0281,10884.0,,0.0,Guará,Apartamento,2026-02-19
+CLI-50019,Mirella Alves,sousalorena@example.com,+55 42 4063-4618,29623.0,899.0,0.0,Lago Norte,Apartamento,2026-07-05
+CLI-50020,Srta. Ana Cecília Gomes,oliviaalves@example.com,+55 41 8721-0146,30142.0,793.0,1.0,Asa Sul,Casa,2026-06-24
+CLI-50021,Ana Luiza Fonseca,garciaisabella@example.net,79 3066-1761,4301.0,,0.0,Taguatinga,Casa,2026-02-28
+CLI-50022,Maysa Azevedo,andradeliam@example.org,+55 14 1893-1179,13677.0,,0.0,Jardim Botânico,Apartamento,2026-07-29
+CLI-50023,,,,3842.0,429.0,0.0,,Apartamento,2026-08-28
+CLI-50024,Lucas Gabriel da Rocha,anthony-gabriel66@example.org,+55 32 9441-5365,6940.0,386.0,1.0,Taguatinga,Apartamento,2026-06-20
+CLI-50025,,franciscocirino@example.org,35 2192-0160,5512.0,660.0,0.0,Ceilândia,Casa,2026-07-25
+CLI-50026,Dr. Rafael Costa,da-pazjoao-vitor@example.com,73 3627-2737,4953.0,747.0,0.0,Valparaíso de Goiás,Apartamento,2026-07-23
+CLI-50027,Ana Vitória Araújo,das-nevesmaite@example.com,82 6731-8390,11880.0,528.0,0.0,Jardim Botânico,Casa,2026-08-19
+CLI-50028,Ester Pires,da-rosavitoria@example.com,+55 43 2165-4776,5683.0,726.0,0.0,Valparaíso de Goiás,Casa,2025-11-27
+CLI-50029,Srta. Letícia Albuquerque,luiz-miguelda-costa@example.org,+55 37 4885-7632,30389.0,564.0,0.0,Noroeste,Casa,
+CLI-50030,Aylla Cavalcanti,qpimenta@example.com,48 1911-5143,4512.0,353.0,1.0,Valparaíso de Goiás,Casa,2025-10-15
+CLI-50031,Luana Sampaio,dmartins@example.com,+55 14 7341-0333,,,0.0,Águas Claras,Apartamento,2026-09-23
+CLI-50032,Dra. Ana Laura Cassiano,sda-mata@example.com,44 8265-7831,8072.0,487.0,1.0,Jardim Botânico,Casa,2025-11-06
+CLI-50033,Francisco Cassiano,rferreira@example.org,+55 96 7015-1326,5969.0,880.0,0.0,Samambaia,Casa,2026-01-11
+CLI-50034,Olivia Freitas,abreuoliver@example.org,43 2053-3077,6103.0,668.0,0.0,Ceilândia,Apartamento,2026-02-21
+CLI-50035,Dr. Vinicius Cunha,cvargas@example.net,97 9747-4621,11736.0,945.0,0.0,Jardim Botânico,Apartamento,2026-06-25
+CLI-50036,Sara Nascimento,ocunha@example.com,81 5717-0562,13350.0,671.0,0.0,Jardim Botânico,Casa,2026-07-11
+CLI-50037,Srta. Yasmin Ferreira,otto12@example.org,43 9623-1742,12340.0,393.0,1.0,Guará,Apartamento,2026-03-21
+CLI-50038,Ana Julia Azevedo,rsilva@example.org,83 6948-0706,5782.0,523.0,0.0,Águas Lindas de Goiás,Apartamento,2026-08-28
+CLI-50039,Luna Moura,carlos-eduardopinto@example.org,77 0994-2575,5418.0,786.0,0.0,Águas Lindas de Goiás,Casa,2026-07-06
+CLI-50040,Vitória Rezende,tda-cunha@example.net,+55 79 2537-6171,34118.0,337.0,1.0,Lago Norte,Casa,2025-12-30
+CLI-50041,Jade Alves,luiz-felipe20@example.net,+55 75 6824-9732,6800.0,645.0,0.0,Valparaíso de Goiás,Casa,2026-03-22
+CLI-50042,Ana Sophia Souza,scostela@example.com,+55 98 5456-3683,9834.0,764.0,,Águas Claras,Apartamento,2026-01-09
+CLI-50043,Bruna Lopes,guilhermemonteiro@example.org,+55 99 7816-1219,32829.0,643.0,0.0,Lago Sul,Casa,2026-04-30
+CLI-50044,Bianca Almeida,raul89@example.com,+55 17 0154-6512,25464.0,810.0,0.0,Sudoeste / Octogonal,,
+CLI-50045,Sofia Cassiano,,+55 65 3548-6986,12034.0,691.0,0.0,Jardim Botânico,Apartamento,2025-11-25
+CLI-50046,Gabrielly Correia,kpires@example.com,54 6446-8558,13474.0,450.0,0.0,Jardim Botânico,Apartamento,2026-07-10
+CLI-50047,Sophie Silva,xpereira@example.com,+55 81 7517-1446,9016.0,948.0,0.0,Jardim Botânico,Casa,2026-06-30
+CLI-50048,Sr. Pedro Miguel Pacheco,kmarques@example.org,+55 46 9401-8125,10605.0,620.0,0.0,Jardim Botânico,Apartamento,2025-12-08
+CLI-50049,Vitor Moura,palves@example.org,51 1237-5856,4556.0,344.0,1.0,Ceilândia,Casa,2026-07-01
+CLI-50050,Lavínia Teixeira,cavalcantemaria@example.net,46 3068-8675,5278.0,747.0,0.0,Ceilândia,,2026-06-07
+CLI-50051,Murilo Brito,maria-fernandaabreu@example.net,89 2746-1774,3441.0,379.0,0.0,Ceilândia,Apartamento,2026-05-31
+CLI-50052,Maria Vitória Carvalho,portoluan@example.net,99 5836-7694,41549.0,385.0,1.0,Sudoeste / Octogonal,Apartamento,2026-04-01
+CLI-50053,Bruna Nunes,,+55 28 3790-7683,5793.0,735.0,1.0,Ceilândia,,2026-05-23
+CLI-50054,Elisa Ribeiro,ana-sophiamacedo@example.com,74 9376-7596,5309.0,343.0,1.0,Taguatinga,Casa,2026-05-26
+CLI-50055,Srta. Marina Pimenta,joanapeixoto@example.org,27 2283-1727,3481.0,558.0,,Samambaia,Casa,2026-06-15
+CLI-50056,Luiz Henrique Sales,,65 7603-8029,44538.0,404.0,1.0,Noroeste,Apartamento,2026-02-19
+CLI-50057,Pedro Lucas Silva,manuela10@example.net,+55 32 6747-8077,,511.0,0.0,Jardim Botânico,Apartamento,2026-01-07
+CLI-50058,Calebe Costela,novaesvinicius@example.com,0500 574 3848,,497.0,1.0,Jardim Botânico,Casa,2026-05-21
+CLI-50059,,mariah14@example.org,71 4949-3921,10835.0,491.0,1.0,Jardim Botânico,Casa,2025-12-23
+CLI-50060,Milena Andrade,ana-luizagoncalves@example.org,+55 16 8861-2733,8443.0,542.0,,Jardim Botânico,Casa,2026-05-17
+CLI-50061,Pedro Melo,luiz-fernando26@example.net,,9463.0,936.0,0.0,Guará,Casa,2025-09-28
+CLI-50062,Catarina Peixoto,ana-carolina89@example.net,,6959.0,717.0,0.0,Taguatinga,Apartamento,2025-12-22
+CLI-50063,Pedro Ramos,murilosousa@example.com,15 5770-3004,30207.0,730.0,0.0,Asa Norte,Apartamento,2026-03-10
+CLI-50064,Dra. Isabel Almeida,noah70@example.org,,,412.0,0.0,Águas Lindas de Goiás,Apartamento,2025-12-27
+CLI-50065,Manuela Siqueira,uleao@example.net,+55 71 8191-2853,6809.0,328.0,0.0,Ceilândia,Apartamento,
+CLI-50066,Matteo da Rosa,,+55 82 8052-6208,6533.0,503.0,0.0,Valparaíso de Goiás,Casa,2026-01-29
+CLI-50067,Sarah Rocha,lorenzo17@example.com,37 1449-6788,22311.0,,0.0,Asa Norte,Apartamento,2026-07-31
+CLI-50068,Hellena Castro,dsouza@example.org,+55 94 3260-7896,13388.0,869.0,0.0,Águas Claras,Casa,2026-02-24
+CLI-50069,Ian Borges,salesana-cecilia@example.org,21 3135-5172,29553.0,437.0,1.0,Noroeste,Apartamento,2026-03-09
+CLI-50070,Sr. Valentim Gonçalves,rsa@example.org,66 3756-5736,41284.0,524.0,0.0,Asa Norte,Apartamento,2026-03-20
+CLI-50071,Sra. Rebeca Brito,caldeiraclara@example.net,42 8693-7391,4697.0,,1.0,Valparaíso de Goiás,Casa,2026-01-13
+CLI-50072,,carlos-eduardogomes@example.org,+55 94 0426-7638,,799.0,0.0,Samambaia,Apartamento,2026-06-01
+CLI-50073,Bárbara Souza,kalbuquerque@example.com,87 7199-9741,10900.0,,0.0,Águas Claras,Apartamento,2025-12-31
+CLI-50074,Thales Costela,anamoraes@example.org,74 3324-2805,3100.0,649.0,0.0,Águas Lindas de Goiás,Casa,2025-09-26
+CLI-50075,Luan Aparecida,isis02@example.com,51 2160-4227,7070.0,494.0,1.0,Jardim Botânico,Casa,2026-08-29
+CLI-50076,Hellena Moreira,xviana@example.com,+55 44 0116-6271,3026.0,913.0,0.0,Valparaíso de Goiás,Apartamento,2026-03-25
+CLI-50077,Oliver Mendonça,kcirino@example.net,+55 48 8780-9465,3171.0,525.0,0.0,Ceilândia,Casa,2026-01-28
+CLI-50078,Leandro da Mota,xabreu@example.com,+55 55 2546-8481,5969.0,,0.0,Valparaíso de Goiás,Apartamento,
+CLI-50079,Kaique Ramos,machadobryan@example.net,46 3989-7892,4480.0,573.0,0.0,Taguatinga,Apartamento,2025-12-27
+CLI-50080,Sarah Cassiano,vianaisaque@example.net,+55 53 3197-9576,13729.0,,0.0,,Apartamento,2026-08-26
+CLI-50081,Isaque da Costa,marcela50@example.com,+55 92 5253-5128,,490.0,0.0,Lago Sul,Apartamento,2025-11-29
+CLI-50082,Lucas Gabriel Fogaça,,19 7829-9769,7375.0,416.0,0.0,Guará,Casa,2026-05-08
+CLI-50083,Dra. Ana Laura Souza,miguel91@example.net,86 2197-7947,3275.0,322.0,1.0,,Apartamento,
+CLI-50084,Ana Cecília Leão,teixeiraravy@example.com,65 9883-0737,5656.0,453.0,1.0,Valparaíso de Goiás,Apartamento,2026-02-18
+CLI-50085,Aylla Rios,zramos@example.com,+55 69 7542-6554,6203.0,392.0,1.0,Taguatinga,Apartamento,2025-11-08
+CLI-50086,Alícia Teixeira,heloisa40@example.net,73 1153-9844,10385.0,460.0,0.0,Guará,Casa,2026-08-03
+CLI-50087,Eduardo Moraes,esther05@example.net,81 8433-3913,12767.0,653.0,0.0,Águas Claras,Apartamento,2026-01-29
+CLI-50088,João Pedro Caldeira,zcunha@example.net,63 4269-2265,7004.0,534.0,0.0,Guará,Apartamento,2026-05-29
+CLI-50089,Isis Alves,bianca21@example.com,+55 54 4325-8945,4978.0,320.0,1.0,Ceilândia,Apartamento,2025-12-27
+CLI-50090,Alexia Santos,lavinianovaes@example.net,53 4258-4436,3536.0,413.0,0.0,Taguatinga,Casa,2026-02-17
+CLI-50091,Mirella da Cunha,yago39@example.org,+55 27 9762-2290,5840.0,442.0,0.0,Taguatinga,Casa,2025-11-12
+CLI-50092,Elisa da Costa,isis96@example.org,+55 15 9260-5258,6534.0,490.0,0.0,Águas Lindas de Goiás,Casa,2025-12-04
+CLI-50093,Ana Julia Ferreira,matteo14@example.org,31 3863-3362,5917.0,626.0,0.0,Águas Lindas de Goiás,Apartamento,2026-03-02
+CLI-50094,Antony Mendonça,luiza66@example.org,94 1016-2883,4537.0,586.0,0.0,Taguatinga,Apartamento,2026-06-20
+CLI-50095,Cauã Araújo,xfogaca@example.com,+55 64 2868-9668,21194.0,684.0,0.0,Sudoeste / Octogonal,Casa,2026-07-23
+CLI-50096,Benjamim Silva,rebeca26@example.net,24 2546-1132,8208.0,456.0,1.0,Guará,Apartamento,2026-08-13
+CLI-50097,José Moraes,upacheco@example.org,0800 902 5953,11728.0,880.0,0.0,Jardim Botânico,Apartamento,
+CLI-50098,Sra. Júlia Pacheco,aparecidaalexia@example.net,+55 86 1463-0369,14146.0,437.0,1.0,Guará,Apartamento,
+CLI-50099,Lara Vieira,luiz-gustavocampos@example.com,45 0983-8370,8199.0,776.0,0.0,Jardim Botânico,Apartamento,2026-06-05
+CLI-50100,,luigioliveira@example.com,84 2945-0341,4155.0,691.0,0.0,Águas Lindas de Goiás,Apartamento,2025-10-28
+CLI-50101,Sr. Arthur da Paz,csilva@example.net,45 3990-0495,11245.0,902.0,0.0,Jardim Botânico,Apartamento,2026-06-01
+CLI-50102,Luiz Gustavo Lima,ileao@example.net,65 1154-7838,4961.0,418.0,1.0,Águas Lindas de Goiás,Casa,2026-01-23
+CLI-50103,Sophie das Neves,bryannascimento@example.org,+55 24 1963-4170,3149.0,769.0,1.0,Águas Lindas de Goiás,,2026-02-01
+CLI-50104,Luísa Ferreira,fogacaluiza@example.net,,9640.0,990.0,0.0,Águas Claras,Casa,2026-01-16
+CLI-50105,Francisco Gonçalves,heloisa34@example.net,19 9373-9940,31417.0,368.0,1.0,Noroeste,Casa,2026-09-06
+CLI-50106,Davi Miguel Ramos,nicolecostela@example.org,45 7180-6694,5901.0,823.0,0.0,Valparaíso de Goiás,Apartamento,2025-09-25
+CLI-50107,Valentina da Mata,camila73@example.net,53 7158-8674,13023.0,,0.0,Águas Claras,Casa,
+CLI-50108,Dr. Thiago Pinto,salesana-beatriz@example.net,+55 49 1105-6553,3614.0,404.0,,Valparaíso de Goiás,Casa,
+CLI-50109,,jcostela@example.com,95 8762-7827,5347.0,980.0,0.0,Samambaia,Apartamento,2025-10-28
+CLI-50110,Isabel Pastor,vianabenicio@example.net,+55 84 9765-8192,4018.0,723.0,0.0,Águas Lindas de Goiás,Apartamento,2026-07-07
+CLI-50111,Eduarda Porto,ana-beatrizteixeira@example.org,,5002.0,359.0,1.0,Samambaia,Apartamento,2026-06-18
+CLI-50112,Antonella Cassiano,arthur96@example.net,+55 14 0770-6472,6811.0,485.0,1.0,Taguatinga,Apartamento,2026-08-11
+CLI-50113,Dom Albuquerque,gomescaleb@example.net,+55 42 0891-0379,12074.0,954.0,0.0,Guará,Apartamento,2026-07-22
+CLI-50114,Luiz Gustavo Pimenta,ana-luiza00@example.net,+55 68 9518-0354,3281.0,360.0,0.0,Samambaia,Casa,2026-04-23
+CLI-50115,Enzo Gabriel Moreira,joao-guilhermerezende@example.net,,11425.0,788.0,0.0,Águas Claras,Apartamento,2026-01-05
+CLI-50116,Dr. Anthony Correia,bteixeira@example.org,65 5300-9853,5743.0,850.0,0.0,Taguatinga,Casa,2026-09-13
+CLI-50117,Laís Abreu,joaosilveira@example.com,28 8788-6916,4221.0,794.0,0.0,Taguatinga,Apartamento,2025-12-27
+CLI-50118,Luan das Neves,camposmariah@example.org,27 9779-4618,,765.0,0.0,Taguatinga,Apartamento,2026-03-08
+CLI-50119,,ana-ceciliacavalcanti@example.com,+55 21 3658-4850,6098.0,540.0,0.0,Valparaíso de Goiás,Apartamento,2026-01-24
+CLI-50120,Mirella Nascimento,rhaviteixeira@example.com,,5273.0,369.0,1.0,,Casa,2026-05-26
+CLI-50121,Zoe Moraes,cavalcantimaria-alice@example.net,+55 15 6692-1534,4377.0,,0.0,Águas Lindas de Goiás,Apartamento,2026-04-11
+CLI-50122,Dr. Vinícius Abreu,carlos-eduardocastro@example.net,+55 61 1466-5708,4972.0,766.0,,Samambaia,,2026-06-04
+CLI-50123,Sra. Luísa Fogaça,mcavalcante@example.com,96 7745-8481,6147.0,637.0,0.0,,Apartamento,2026-08-26
+CLI-50124,Josué Andrade,kda-luz@example.net,+55 82 2160-3321,14369.0,472.0,0.0,Guará,Casa,2026-09-15
+CLI-50125,Maysa Costela,,+55 53 5317-5314,4689.0,329.0,0.0,Valparaíso de Goiás,Apartamento,2025-10-12
+CLI-50126,Davi Macedo,,+55 28 9516-5671,11244.0,987.0,0.0,Guará,Apartamento,2026-05-06
+CLI-50127,Noah Correia,ayla97@example.org,+55 73 0331-9553,,785.0,0.0,Asa Sul,Casa,2026-05-02
+CLI-50128,Kaique Cassiano,pachecorafaela@example.net,+55 27 6302-0039,4285.0,950.0,0.0,Ceilândia,Casa,2025-12-11
+CLI-50129,Liz Ramos,rafaelanovaes@example.com,43 2322-4697,14755.0,329.0,1.0,Jardim Botânico,Apartamento,2025-10-24
+CLI-50130,Luana Santos,pietranovaes@example.org,87 3998-0380,14559.0,416.0,1.0,Guará,Casa,2025-12-01
+CLI-50131,Bento Costa,leomoura@example.net,+55 63 5104-7640,33256.0,717.0,0.0,Lago Norte,Apartamento,2026-04-06
+CLI-50132,Srta. Emilly da Rocha,,+55 93 4481-5482,10294.0,978.0,0.0,Jardim Botânico,Casa,2025-11-15
+CLI-50133,Maria Laura da Cruz,juan35@example.com,+55 27 1458-3010,5427.0,910.0,0.0,Samambaia,Apartamento,2026-07-15
+CLI-50134,,ecamargo@example.org,+55 27 1408-5907,3355.0,799.0,0.0,Samambaia,Casa,2025-12-14
+CLI-50135,Cauã Rezende,andrademaria-clara@example.org,95 8692-1084,,331.0,1.0,Lago Norte,Apartamento,2026-03-02
+CLI-50136,Paulo Rezende,da-costaluiza@example.com,+55 79 8435-5450,13965.0,400.0,1.0,Guará,Casa,2026-01-29
+CLI-50137,Dr. Calebe Montenegro,camila01@example.com,46 8899-3960,9305.0,873.0,0.0,Águas Claras,Casa,2026-06-28
+CLI-50138,Sra. Maria Luiza Mendonça,,17 9420-4216,3578.0,520.0,0.0,Samambaia,Casa,2025-12-15
+CLI-50139,Sr. Marcos Vinicius Albuquerque,uborges@example.org,,4636.0,,1.0,Samambaia,Apartamento,
+CLI-50140,Guilherme Souza,joao-guilherme70@example.net,69 9658-7141,3705.0,553.0,0.0,,Apartamento,2026-02-06
+CLI-50141,Sr. Luigi Aragão,maria-vitoriavargas@example.org,+55 22 6280-2677,18409.0,817.0,0.0,Asa Sul,Apartamento,2026-09-15
+CLI-50142,Beatriz da Conceição,cmontenegro@example.net,,13003.0,923.0,0.0,,Casa,2025-11-22
+CLI-50143,,benjamimcardoso@example.com,+55 32 5649-5801,5201.0,627.0,0.0,Valparaíso de Goiás,Casa,2026-06-30
+CLI-50144,,otto07@example.net,+55 38 3126-9866,15423.0,824.0,0.0,Lago Sul,Apartamento,2026-07-18
+CLI-50145,José Pedro Costa,cavalcanteemanuelly@example.com,+55 87 8675-9777,3395.0,906.0,0.0,Valparaíso de Goiás,Casa,2026-09-10
+CLI-50146,,maria-alice04@example.net,0800 419 4399,4567.0,467.0,0.0,,Apartamento,2026-08-17
+CLI-50147,Stephany Cassiano,ana-cecilia56@example.net,0500 204 7642,20497.0,318.0,1.0,Lago Sul,Apartamento,2026-07-27
+CLI-50148,Sra. Kamilly Moreira,gcaldeira@example.org,16 4389-3210,,904.0,0.0,Lago Sul,Apartamento,2026-04-23
+CLI-50149,Luiz Felipe Azevedo,samuellopes@example.com,51 8773-5099,14656.0,,0.0,Jardim Botânico,Casa,2026-01-27
+CLI-50150,Arthur Miguel Almeida,pachecomarcela@example.com,12 3379-9447,13402.0,966.0,0.0,Guará,Casa,2026-05-15
+CLI-50151,Sr. Bryan da Conceição,franciscosales@example.net,65 9464-0138,6826.0,596.0,0.0,Águas Lindas de Goiás,Casa,2026-02-13
+CLI-50152,Emanuelly Farias,davi-lucca63@example.com,+55 95 1663-9699,3041.0,633.0,0.0,Ceilândia,Casa,2026-05-19
+CLI-50153,Isadora Costela,guerrapedro-henrique@example.net,96 4465-8924,6096.0,,0.0,Águas Lindas de Goiás,Apartamento,2025-11-04
+CLI-50154,Marcelo Fogaça,aylacarvalho@example.org,49 1977-8475,6560.0,,0.0,Valparaíso de Goiás,Apartamento,2026-01-30
+CLI-50155,Arthur Moraes,luiz-gustavoborges@example.com,92 0044-9211,5584.0,349.0,1.0,Ceilândia,Apartamento,2026-06-05
+CLI-50156,Thomas Silveira,teixeiraisaque@example.com,+55 66 1155-4366,23583.0,488.0,0.0,Lago Norte,Apartamento,2025-11-10
+CLI-50157,Maitê Sousa,antonio31@example.net,18 9768-5424,3608.0,698.0,0.0,Ceilândia,,2025-12-23
+CLI-50158,Sr. Pedro Miguel Santos,ngarcia@example.com,+55 65 0509-7869,8977.0,,0.0,,,2025-09-30
+CLI-50159,Maria Helena Sampaio,andradeagatha@example.org,+55 71 9628-2575,4939.0,606.0,0.0,Taguatinga,Casa,2026-08-31
+CLI-50160,Emilly Vargas,andradethomas@example.net,14 0532-7231,11021.0,696.0,0.0,Águas Claras,Apartamento,2025-11-04
+CLI-50161,João Lucas da Cunha,rduarte@example.com,11 5830-5135,4959.0,723.0,0.0,Ceilândia,Casa,2026-09-04
+CLI-50162,Vitor Fogaça,,+55 98 6387-6447,3038.0,545.0,0.0,Águas Lindas de Goiás,Apartamento,2025-12-12
+CLI-50163,Ayla Mendonça,mporto@example.org,+55 92 2189-4078,41726.0,565.0,0.0,Lago Sul,Casa,2026-05-16
+CLI-50164,Daniel Siqueira,manuelacampos@example.org,+55 42 7792-4197,8567.0,577.0,0.0,Guará,Casa,2025-10-03
+CLI-50165,,ana-carolina18@example.com,62 8787-1230,3067.0,735.0,0.0,Taguatinga,Casa,2026-06-19
+CLI-50166,Dom Silveira,mouradaniela@example.org,+55 42 4154-0396,10134.0,526.0,0.0,Jardim Botânico,Apartamento,2026-08-05
+CLI-50167,Maria Eduarda Camargo,mateuscosta@example.org,+55 66 7388-8965,33267.0,821.0,0.0,Asa Sul,Casa,2026-02-16
+CLI-50168,Srta. Ana Luiza Sampaio,icampos@example.com,+55 97 3803-1288,6326.0,711.0,0.0,Taguatinga,Apartamento,2026-04-11
+CLI-50169,Renan Fonseca,riosluiza@example.org,19 6894-7523,9646.0,593.0,0.0,Águas Claras,Apartamento,2026-01-07
+CLI-50170,Sr. Miguel Brito,ana-vitoriagoncalves@example.com,+55 55 7088-1457,5666.0,563.0,0.0,Águas Lindas de Goiás,Casa,2026-04-26
+CLI-50171,Guilherme Cirino,fariaslucas@example.org,+55 17 9155-0478,5584.0,,1.0,Águas Lindas de Goiás,Casa,2026-02-26
+CLI-50172,José Pedro da Luz,ycardoso@example.net,86 2674-8631,21045.0,778.0,0.0,Asa Sul,Apartamento,2026-01-15
+CLI-50173,Ravi Lucca Nogueira,vda-mota@example.net,65 5670-0974,6091.0,846.0,,Valparaíso de Goiás,Apartamento,2026-06-14
+CLI-50174,Cecília Rocha,almeidaanna-liz@example.net,+55 82 3920-6999,30181.0,563.0,0.0,Sudoeste / Octogonal,Casa,2026-03-29
+CLI-50175,Léo da Mata,piresmaria-julia@example.org,+55 46 1175-1649,3571.0,978.0,0.0,Taguatinga,Apartamento,2025-11-18
+CLI-50176,Lara Aragão,davi-luizda-paz@example.org,21 1189-7363,,776.0,0.0,Águas Lindas de Goiás,Apartamento,2026-02-19
+CLI-50177,Benjamin Gonçalves,kda-rocha@example.com,+55 79 9126-9017,8774.0,425.0,1.0,Guará,Casa,2026-06-12
+CLI-50178,Anthony Gabriel Abreu,eloanovais@example.org,91 0041-4784,8119.0,714.0,0.0,Águas Claras,Apartamento,2026-05-17
+CLI-50179,Diogo Moura,da-motadavi-miguel@example.com,+55 15 2057-4321,6969.0,592.0,0.0,,Casa,2026-03-16
+CLI-50180,Ísis Fogaça,danilo44@example.net,33 9359-1162,9421.0,810.0,0.0,Guará,Casa,2026-05-15
+CLI-50181,Davi Lucas Cassiano,zoe56@example.com,+55 51 3896-6952,4412.0,839.0,0.0,Águas Lindas de Goiás,Apartamento,2026-03-26
+CLI-50182,Sr. Bruno Brito,lguerra@example.org,63 6843-9453,7742.0,904.0,0.0,Águas Claras,Casa,2026-06-24
+CLI-50183,Ryan Melo,cavalcanteantony@example.org,+55 82 1035-0850,6005.0,345.0,0.0,Valparaíso de Goiás,Casa,
+CLI-50184,,,71 7951-5635,11886.0,503.0,,,Casa,2026-04-25
+CLI-50185,,sarah85@example.net,+55 87 0056-8589,3452.0,393.0,0.0,Águas Lindas de Goiás,Casa,2025-10-18
+CLI-50186,Maria Isis Moraes,camposnatalia@example.net,+55 12 9326-2516,,849.0,0.0,Guará,Apartamento,2026-04-20
+CLI-50187,Clara Novais,eduardosiqueira@example.net,93 3213-3617,6432.0,516.0,0.0,Ceilândia,Apartamento,2026-06-13
+CLI-50188,Alícia Costa,montenegrovinicius@example.net,,22003.0,426.0,0.0,Asa Sul,Casa,2026-09-18
+CLI-50189,Ayla Andrade,luanagarcia@example.com,+55 63 5002-7588,3631.0,590.0,0.0,Ceilândia,Apartamento,2026-04-13
+CLI-50190,Juliana Peixoto,enzo-gabriel56@example.org,+55 19 1049-0419,3532.0,451.0,1.0,Valparaíso de Goiás,Casa,2026-01-17
+CLI-50191,Antonella Ramos,,+55 12 8537-3281,13609.0,852.0,0.0,Jardim Botânico,Casa,2026-04-23
+CLI-50192,Cauã Monteiro,ravycaldeira@example.org,12 7121-8993,3294.0,809.0,0.0,Taguatinga,Casa,2025-09-27
+CLI-50193,Dr. Josué Correia,bryan25@example.com,+55 67 8334-9227,5250.0,969.0,0.0,Samambaia,Casa,2026-08-06
+CLI-50194,Thiago Dias,emanuellanunes@example.com,37 0390-5241,8620.0,743.0,0.0,Guará,,2026-03-18
+CLI-50195,Dr. Nathan Freitas,pachecojoao-felipe@example.com,15 4736-1372,21029.0,899.0,,Noroeste,Apartamento,2026-09-19
+CLI-50196,Pietra Borges,jose-pedroda-conceicao@example.net,+55 73 7173-6151,11501.0,472.0,1.0,,Apartamento,2026-06-09
+CLI-50197,Dra. Sara Oliveira,sofiadias@example.net,17 1187-1948,10842.0,990.0,0.0,Jardim Botânico,Casa,2026-06-29
+CLI-50198,Matheus da Conceição,clara49@example.com,71 5395-0308,38410.0,957.0,0.0,Sudoeste / Octogonal,Casa,2026-03-22
+CLI-50199,Ana Lívia Vargas,alvesjosue@example.org,0500 137 1380,5047.0,565.0,0.0,Samambaia,Casa,2026-02-05
+CLI-50200,Lunna Dias,silvaalexandre@example.net,+55 77 0155-0188,30683.0,959.0,0.0,Asa Norte,Apartamento,
+CLI-50201,Pedro Lucas Gonçalves,jadecirino@example.com,67 0747-6457,13826.0,528.0,0.0,Jardim Botânico,Casa,2026-08-19
+CLI-50202,Maria Moreira,gustavo-henriquefonseca@example.com,65 1562-2424,3332.0,909.0,0.0,Taguatinga,Casa,
+CLI-50203,Arthur Gabriel Teixeira,,+55 69 4243-3978,6069.0,352.0,1.0,Ceilândia,Apartamento,2026-08-08
+CLI-50204,Ravy Nogueira,sleao@example.org,+55 49 5408-1815,3611.0,962.0,0.0,Valparaíso de Goiás,Casa,2026-05-20
+CLI-50205,,carolinacassiano@example.net,82 3679-5011,13282.0,916.0,0.0,Águas Claras,Casa,2026-07-11
+CLI-50206,Nina da Conceição,cavalcantiaurora@example.org,+55 69 9139-8566,8236.0,602.0,0.0,Águas Claras,Casa,2026-01-17
+CLI-50207,Nathan Caldeira,pedro-lucas89@example.net,+55 38 4354-2051,3356.0,574.0,0.0,Samambaia,Casa,2025-11-06
+CLI-50208,Gabriela Novais,mendesisabel@example.org,+55 92 3131-3451,11885.0,866.0,0.0,Jardim Botânico,Casa,2025-10-25
+CLI-50209,Bento Ribeiro,xaraujo@example.org,+55 87 5019-5032,5141.0,787.0,0.0,Samambaia,Casa,2026-05-23
+CLI-50210,Levi Casa Grande,lucas-gabrielcunha@example.org,49 9483-2782,3730.0,336.0,1.0,,Apartamento,2025-10-13
+CLI-50211,Catarina Peixoto,jose-pedrosiqueira@example.com,83 5124-2170,3823.0,549.0,0.0,,,2026-02-23
+CLI-50212,Luiz Otávio Mendonça,,47 5087-5235,6597.0,974.0,0.0,Valparaíso de Goiás,Casa,2026-01-21
+CLI-50213,Benjamim Pereira,pmoreira@example.org,92 8549-3245,13887.0,509.0,0.0,Águas Claras,Apartamento,2026-03-28
+CLI-50214,Maria Isis Cirino,fabreu@example.org,+55 68 2607-2981,24021.0,708.0,0.0,Asa Norte,Casa,2026-01-28
+CLI-50215,Enzo Costela,emoraes@example.net,12 7159-0260,4171.0,414.0,1.0,Águas Lindas de Goiás,Apartamento,2025-12-08
+CLI-50216,Breno Fernandes,joaquimda-mata@example.com,+55 82 4431-4368,6319.0,771.0,0.0,Samambaia,Casa,2026-02-18
+CLI-50217,Laís Araújo,carolinasantos@example.com,,10858.0,834.0,0.0,,Casa,2025-09-25
+CLI-50218,Srta. Eloá Aparecida,da-cruzalicia@example.com,+55 15 2143-6906,28851.0,824.0,,Asa Sul,Casa,2026-06-04
+CLI-50219,Erick Mendonça,eduardo28@example.com,46 3938-7661,3592.0,399.0,1.0,Águas Lindas de Goiás,Casa,
+CLI-50220,Luiz Miguel Sales,ycavalcante@example.org,82 6168-0277,8244.0,977.0,0.0,Águas Claras,Casa,2026-08-03
+CLI-50221,Sr. Antônio Machado,davi-miguel10@example.net,42 2184-2513,8510.0,454.0,0.0,Guará,Casa,2025-11-13
+CLI-50222,Ana Beatriz Caldeira,,,33455.0,347.0,1.0,Noroeste,,2026-01-25
+CLI-50223,José Pedro Freitas,maria-flormachado@example.net,41 1306-3639,5257.0,503.0,0.0,Valparaíso de Goiás,,2026-06-23
+CLI-50224,Cauã Sales,eloah18@example.org,+55 31 0610-4958,3399.0,791.0,,Samambaia,Apartamento,2025-11-19
+CLI-50225,Emilly da Conceição,ravy19@example.org,67 8601-5556,8123.0,618.0,0.0,Jardim Botânico,Casa,2026-08-02
+CLI-50226,Vitor da Paz,hcamara@example.com,+55 18 2364-1054,11629.0,706.0,0.0,Guará,Casa,2026-01-06
+CLI-50227,Sofia Martins,albuquerqueisis@example.com,+55 69 9278-6937,5114.0,878.0,0.0,Valparaíso de Goiás,Casa,2026-07-11
+CLI-50228,Srta. Nicole Peixoto,leandroda-rosa@example.org,+55 93 0961-5844,5377.0,645.0,0.0,Taguatinga,Apartamento,2026-05-05
+CLI-50229,Pedro Miguel Novaes,maria-sophia49@example.com,71 1212-7973,16990.0,435.0,1.0,Noroeste,Casa,
+CLI-50230,Rael Brito,aandrade@example.net,+55 68 2091-7512,12761.0,551.0,,Águas Claras,Casa,2026-03-27
+CLI-50231,Gabriela Viana,lmendonca@example.net,21 6357-3865,6001.0,449.0,1.0,Samambaia,Casa,2025-11-20
+CLI-50232,Davi Lucca Pires,bryangarcia@example.com,51 2015-5013,4703.0,410.0,1.0,Valparaíso de Goiás,Casa,2025-11-23
+CLI-50233,Josué Porto,sousaeduardo@example.org,+55 67 4475-2844,14379.0,811.0,0.0,Jardim Botânico,Apartamento,2025-11-14
+CLI-50234,Leandro Pereira,maria-cecilia20@example.net,34 1273-6710,8134.0,742.0,0.0,Jardim Botânico,Apartamento,2025-10-02
+CLI-50235,Mariah Ramos,brayancostela@example.com,34 6572-5438,5816.0,,0.0,Ceilândia,Apartamento,2026-07-25
+CLI-50236,Ravi Lucca da Cunha,aribeiro@example.org,+55 53 0128-7510,5990.0,348.0,1.0,Águas Lindas de Goiás,Apartamento,2026-08-07
+CLI-50237,Kevin Lima,jsouza@example.org,19 9274-1533,7916.0,849.0,0.0,Jardim Botânico,Casa,2026-05-20
+CLI-50238,Gabriela Costela,gabrielvieira@example.org,+55 97 4883-8582,6718.0,407.0,1.0,Samambaia,Casa,2025-10-04
+CLI-50239,Rebeca Mendonça,dda-cunha@example.net,,6818.0,628.0,0.0,Taguatinga,,2026-05-11
+CLI-50240,Sr. Josué Rezende,bfernandes@example.org,+55 74 9792-4399,6047.0,555.0,0.0,Águas Lindas de Goiás,Casa,2025-10-16
+CLI-50241,Dra. Kamilly Pimenta,danilo12@example.org,+55 16 8815-1079,13044.0,643.0,0.0,Águas Claras,Casa,2026-05-29
+CLI-50242,Hadassa Peixoto,bernardocampos@example.com,68 3917-1085,33163.0,724.0,0.0,Asa Norte,Apartamento,2026-08-10
+CLI-50243,Isabelly Leão,wbarbosa@example.com,0800 391 8925,3881.0,511.0,0.0,Valparaíso de Goiás,Casa,2026-07-30
+CLI-50244,Sra. Ana Julia da Cruz,da-cruzrenan@example.net,+55 95 7347-4539,9340.0,806.0,1.0,Guará,Casa,2025-12-25
+CLI-50245,Heloísa Barros,ealmeida@example.org,38 4853-6282,44591.0,720.0,0.0,Lago Sul,Casa,2026-07-18
+CLI-50246,Rhavi Gonçalves,britomilena@example.org,+55 19 8105-0297,4255.0,675.0,0.0,Samambaia,Apartamento,2026-06-28
+CLI-50247,Luiz Miguel Mendonça,zcostela@example.org,83 3418-8471,5362.0,691.0,0.0,Ceilândia,Apartamento,2026-03-17
+CLI-50248,Sr. João Miguel Leão,peixotoagatha@example.net,65 9378-1585,4453.0,785.0,0.0,Águas Lindas de Goiás,Casa,2025-12-02
+CLI-50249,Diego Caldeira,souzalucas-gabriel@example.org,+55 41 0612-2031,14698.0,541.0,0.0,Jardim Botânico,Apartamento,2025-12-24
+CLI-50250,Liz Cardoso,pimentaasafe@example.net,+55 85 6914-0714,11334.0,779.0,0.0,Jardim Botânico,Casa,2026-08-04
+CLI-50251,Amanda Pastor,beatrizcassiano@example.org,+55 98 7824-0562,12196.0,775.0,0.0,Guará,Casa,2026-04-08
+CLI-50252,Luna Albuquerque,albuquerquesofia@example.net,64 5670-8879,3331.0,953.0,0.0,Valparaíso de Goiás,Apartamento,2026-03-06
+CLI-50253,Giovanna Araújo,da-rosacalebe@example.net,38 9121-2813,5569.0,825.0,0.0,Taguatinga,Casa,2026-08-02
+CLI-50254,Bruna Rocha,monteiroana-clara@example.com,+55 88 5502-8374,14944.0,,0.0,Águas Claras,Apartamento,2025-11-17
+CLI-50255,Sr. Enzo da Luz,daniela30@example.net,98 1576-4448,5787.0,393.0,1.0,Valparaíso de Goiás,Apartamento,2026-04-30
+CLI-50256,Heitor Cardoso,caioazevedo@example.net,13 2912-7620,38595.0,869.0,0.0,Lago Norte,,2025-10-13
+CLI-50257,Camila da Cunha,thiago38@example.com,44 0935-1328,41171.0,565.0,0.0,Lago Norte,Apartamento,2025-10-25
+CLI-50258,Matteo Moura,marcelosousa@example.com,+55 91 3635-1155,31358.0,719.0,0.0,,Apartamento,2026-01-28
+CLI-50259,Sabrina da Cruz,fviana@example.org,,16752.0,459.0,1.0,Asa Norte,Casa,2026-06-17
+CLI-50260,Davi Lucca Cavalcante,das-nevesarthur@example.com,66 6833-6835,3406.0,398.0,1.0,Águas Lindas de Goiás,Apartamento,2026-06-09
+CLI-50261,Dra. Kamilly Almeida,teixeirajoao-gabriel@example.net,+55 89 9345-4156,11768.0,508.0,0.0,Jardim Botânico,Casa,2025-11-11
+CLI-50262,Sr. Samuel Jesus,fsilveira@example.net,+55 99 8930-2807,11061.0,982.0,0.0,Águas Claras,Casa,2025-11-09
+CLI-50263,Dr. Igor Viana,afogaca@example.net,75 5674-5474,12801.0,,1.0,Águas Claras,Apartamento,2026-07-13
+CLI-50264,Cauê Alves,cirinoanthony@example.com,+55 84 6305-3869,5625.0,594.0,0.0,Ceilândia,Casa,2026-05-07
+CLI-50265,Marcela Viana,acavalcante@example.com,+55 79 0148-4616,10822.0,877.0,0.0,Guará,Apartamento,2026-04-29
+CLI-50266,Ana Vitória Nunes,levi52@example.net,28 4697-2226,9973.0,452.0,0.0,Águas Claras,Apartamento,2025-11-24
+CLI-50267,Enrico Casa Grande,qribeiro@example.net,+55 14 4964-8116,6610.0,474.0,0.0,Águas Lindas de Goiás,Casa,2026-01-08
+CLI-50268,Dr. Luiz Felipe Correia,marinajesus@example.com,+55 73 7739-1651,6396.0,309.0,1.0,Valparaíso de Goiás,Apartamento,2026-07-23
+CLI-50269,Thiago Lopes,pferreira@example.com,,8251.0,594.0,1.0,Guará,Apartamento,2026-05-14
+CLI-50270,Sr. Yago Novaes,melina29@example.org,+55 84 8341-4039,10339.0,399.0,0.0,Jardim Botânico,Casa,2026-09-21
+CLI-50271,Sophie Pacheco,britozoe@example.net,22 5217-6965,5847.0,367.0,1.0,Águas Lindas de Goiás,Apartamento,2026-01-10
+CLI-50272,Laura Nogueira,pastorbrenda@example.org,+55 11 2303-7818,4226.0,927.0,0.0,Taguatinga,Apartamento,2026-02-09
+CLI-50273,Davi Cirino,tvieira@example.net,+55 71 4307-9358,4588.0,,0.0,Valparaíso de Goiás,Apartamento,2025-10-21
+CLI-50274,Vitor Gabriel Freitas,kamillyda-mata@example.org,+55 53 1911-9488,5089.0,602.0,0.0,Samambaia,Apartamento,2026-06-09
+CLI-50275,Asafe da Paz,vcavalcanti@example.org,+55 12 1550-5661,4077.0,519.0,0.0,,Casa,
+CLI-50276,Alexandre Macedo,ana-liviamonteiro@example.org,+55 84 0793-2975,15423.0,366.0,1.0,Noroeste,Casa,2026-04-26
+CLI-50277,Isabelly Cavalcante,luara37@example.com,33 3404-3805,8478.0,636.0,0.0,Águas Claras,Casa,2026-03-14
+CLI-50278,Cauã da Rocha,uabreu@example.com,+55 75 7829-5891,14391.0,,0.0,Jardim Botânico,Apartamento,2025-10-04
+CLI-50279,Ana Liz Rios,jesusmaite@example.com,0900 738 2474,3564.0,761.0,0.0,Valparaíso de Goiás,Casa,2026-06-22
+CLI-50280,Lunna da Luz,costeladavi-luiz@example.com,84 1963-4329,5953.0,466.0,1.0,Ceilândia,Casa,2026-09-14
+CLI-50281,Bryan Sampaio,fpires@example.net,+55 27 8158-6714,5494.0,399.0,0.0,Taguatinga,Apartamento,2026-02-11
+CLI-50282,Sr. João Guilherme Monteiro,,0300 133 7477,26149.0,520.0,0.0,Lago Sul,Apartamento,2026-08-03
+CLI-50283,Dr. Pedro Lucas Araújo,novaesthales@example.net,+55 86 7485-0110,4511.0,927.0,0.0,Taguatinga,Apartamento,2026-05-06
+CLI-50284,Dra. Maria Alice da Cruz,gcavalcanti@example.com,93 6518-7148,3268.0,637.0,0.0,Ceilândia,Casa,2026-02-06
+CLI-50285,Arthur Gabriel Teixeira,fernando00@example.org,55 1161-7919,3442.0,,0.0,Águas Lindas de Goiás,Apartamento,2026-06-30
+CLI-50286,Mirella da Luz,nascimentoanthony@example.net,+55 32 2730-1328,5743.0,330.0,1.0,Taguatinga,Casa,
+CLI-50287,Arthur Gabriel Dias,gomesisis@example.net,19 3393-9586,14554.0,900.0,0.0,Guará,Apartamento,2025-10-30
+CLI-50288,Antônio Brito,ipires@example.org,+55 16 9432-7255,28267.0,703.0,0.0,Asa Sul,Casa,2026-04-01
+CLI-50289,Josué Duarte,emanuelly53@example.net,79 5616-9534,6429.0,,0.0,Ceilândia,Apartamento,2026-05-28
+CLI-50290,Sr. João Pedro Araújo,maria-juliamelo@example.org,14 1704-2351,5894.0,,0.0,Valparaíso de Goiás,Casa,2026-06-20
+CLI-50291,Eduardo Vargas,ocampos@example.com,42 1330-4422,9016.0,651.0,0.0,Águas Claras,Apartamento,2026-06-11
+CLI-50292,Aylla Macedo,aragaoanthony@example.com,+55 11 2988-1340,38215.0,644.0,0.0,Sudoeste / Octogonal,Apartamento,2026-04-05
+CLI-50293,Sra. Antonella Caldeira,hvasconcelos@example.org,47 0006-2847,,667.0,0.0,Guará,Casa,2026-06-21
+CLI-50294,Nina Rodrigues,hadassa55@example.org,,8433.0,577.0,0.0,Jardim Botânico,Casa,2025-09-29
+CLI-50295,Isaac Fernandes,enzocavalcante@example.com,+55 33 4898-5564,17999.0,379.0,1.0,Sudoeste / Octogonal,Apartamento,2026-01-18
+CLI-50296,Léo Silva,montenegrocalebe@example.org,99 9794-6981,7720.0,818.0,0.0,,Casa,2026-07-30
+CLI-50297,Benjamim Pinto,ssa@example.com,48 2021-8859,13478.0,800.0,0.0,Jardim Botânico,Casa,2025-12-23
+CLI-50298,,pietra25@example.org,+55 44 1113-5911,10108.0,497.0,0.0,Jardim Botânico,Apartamento,2025-12-28
+CLI-50299,Gael Henrique Pereira,tfreitas@example.net,38 4934-8118,5015.0,429.0,1.0,Valparaíso de Goiás,Apartamento,2026-02-24
+CLI-50300,Bento Machado,lunada-mota@example.net,,25118.0,548.0,1.0,Asa Norte,Apartamento,2025-12-02
+CLI-50301,Luiz Otávio das Neves,casa-grandejoao-gabriel@example.org,47 1682-3711,7497.0,,0.0,Guará,Casa,2026-09-10
+CLI-50302,Maria Vitória Vieira,marinaviana@example.com,71 3250-9720,7410.0,965.0,0.0,Guará,Apartamento,2025-12-06
+CLI-50303,Thiago Sales,pimentaluna@example.com,+55 79 2082-8999,4893.0,574.0,0.0,Águas Lindas de Goiás,,2026-07-29
+CLI-50304,Kamilly Albuquerque,vinicius38@example.org,+55 19 0745-9849,39448.0,357.0,1.0,Sudoeste / Octogonal,Apartamento,2026-03-11
+CLI-50305,Maria Sophia Vasconcelos,pcavalcanti@example.org,,3449.0,430.0,1.0,Valparaíso de Goiás,Casa,2026-05-01
+CLI-50306,Pedro Lucas Silva,larissa38@example.net,+55 93 5110-2765,6466.0,609.0,0.0,Ceilândia,Casa,2026-05-20
+CLI-50307,Jade Moraes,fernandamendes@example.net,43 2796-3853,14520.0,981.0,0.0,Águas Claras,Casa,2026-02-11
+CLI-50308,Diogo Moreira,nsampaio@example.com,46 6810-5305,5086.0,659.0,0.0,,Apartamento,2026-02-17
+CLI-50309,Maya da Luz,maria-ceciliafarias@example.net,65 1081-7968,4900.0,903.0,,Taguatinga,Casa,2026-08-31
+CLI-50310,Bianca Vieira,marquesana-liz@example.org,,8155.0,942.0,0.0,,Apartamento,2026-06-09
+CLI-50311,Sr. Luiz Felipe Guerra,gabrieldias@example.net,+55 82 9671-4998,,678.0,0.0,Valparaíso de Goiás,,2025-09-24
+CLI-50312,Juliana Sales,da-mataantony@example.com,22 6058-8374,6663.0,339.0,,Ceilândia,Apartamento,2026-01-19
+CLI-50313,Heloísa Monteiro,diogo20@example.org,83 5346-9227,9188.0,687.0,0.0,Jardim Botânico,Casa,2026-01-24
+CLI-50314,Diogo Cavalcante,oazevedo@example.com,+55 68 0673-4899,4302.0,313.0,1.0,Taguatinga,Apartamento,2026-03-12
+CLI-50315,Carolina Costa,vfernandes@example.org,+55 13 3773-7894,8683.0,716.0,0.0,Jardim Botânico,Apartamento,
+CLI-50316,Zoe Casa Grande,eloahnunes@example.com,+55 71 7023-6300,8080.0,525.0,0.0,Guará,,2025-12-30
+CLI-50317,Gustavo Henrique Macedo,ycunha@example.org,+55 44 1401-4608,6037.0,731.0,0.0,Ceilândia,Casa,2026-03-11
+CLI-50318,Vitória Brito,siqueiramaria-helena@example.com,14 4706-7717,5079.0,772.0,0.0,,Casa,2026-07-12
+CLI-50319,Dante Teixeira,qviana@example.net,+55 77 3595-3095,10923.0,608.0,0.0,Jardim Botânico,Casa,2025-12-17
+CLI-50320,Maitê Macedo,nunesisabela@example.org,+55 63 4998-5392,5108.0,351.0,0.0,Valparaíso de Goiás,Apartamento,2026-09-10
+CLI-50321,Antony Moura,kbrito@example.net,+55 13 0742-4139,,903.0,0.0,Taguatinga,Casa,2025-10-08
+CLI-50322,Davi Lucas Barbosa,luiz-gustavoleao@example.org,+55 85 7231-5477,22924.0,531.0,0.0,Sudoeste / Octogonal,Casa,2026-03-18
+CLI-50323,Sr. Luiz Gustavo Siqueira,,48 3420-1682,11153.0,415.0,1.0,Guará,Apartamento,2026-08-16
+CLI-50324,Srta. Pietra Melo,vda-mota@example.com,+55 13 5804-0674,8804.0,663.0,0.0,Jardim Botânico,,2026-02-17
+CLI-50325,Brayan Sales,claraleao@example.org,94 8577-7904,41490.0,841.0,1.0,Lago Sul,Apartamento,2026-01-18
+CLI-50326,Dr. Lorenzo Machado,fnovais@example.com,65 1188-9901,5801.0,918.0,0.0,,Casa,2026-08-02
+CLI-50327,Lavínia Nascimento,vda-rocha@example.org,+55 15 5932-5408,5379.0,578.0,0.0,Ceilândia,Casa,2025-10-10
+CLI-50328,João Pedro Macedo,jda-mata@example.net,16 3843-8380,4860.0,393.0,1.0,Águas Lindas de Goiás,,2025-12-26
+CLI-50329,Dom Câmara,ateixeira@example.net,69 2934-0723,5336.0,629.0,0.0,Águas Lindas de Goiás,,2026-09-06
+CLI-50330,Gabriel Cassiano,aragaobenicio@example.net,63 5116-0787,11614.0,655.0,0.0,Guará,Casa,2026-01-05
+CLI-50331,Diego Siqueira,souzaanthony@example.net,81 7576-6590,4027.0,928.0,0.0,,Casa,
+CLI-50332,Eduardo Costela,mendesbeatriz@example.com,+55 88 2655-9927,11454.0,589.0,0.0,Jardim Botânico,Casa,2026-08-05
+CLI-50333,Ayla Pereira,pietro65@example.org,38 0752-5954,5706.0,769.0,0.0,,Apartamento,2026-07-10
+CLI-50334,Carolina Santos,cavalcantepedro-lucas@example.org,48 7409-3512,5561.0,991.0,0.0,Valparaíso de Goiás,Apartamento,2026-05-01
+CLI-50335,Mariah Guerra,maria-aliceda-conceicao@example.com,+55 77 2661-1135,31424.0,310.0,1.0,Lago Sul,Apartamento,2025-10-14
+CLI-50336,,abreujulia@example.org,+55 86 2996-5833,5207.0,819.0,,Valparaíso de Goiás,Casa,2025-10-20
+CLI-50337,Olivia da Mota,ravi16@example.net,0900 540 8436,3196.0,525.0,0.0,Ceilândia,Apartamento,2026-03-09
+CLI-50338,Eloah Machado,noliveira@example.com,+55 67 2219-5529,,576.0,0.0,Jardim Botânico,Apartamento,2026-01-21
+CLI-50339,Marina Aragão,novaispietra@example.com,16 5113-5373,7684.0,356.0,1.0,Jardim Botânico,Apartamento,2026-09-05
+CLI-50340,Emilly da Conceição,znascimento@example.com,+55 18 7611-2817,4350.0,389.0,0.0,Ceilândia,Apartamento,2025-12-05
+CLI-50341,Cauã Andrade,sampaiomaite@example.org,+55 45 3928-9634,5073.0,636.0,0.0,,Apartamento,2026-05-10
+CLI-50342,Léo Gonçalves,bnunes@example.com,+55 22 1664-8296,8163.0,,0.0,,Apartamento,2026-08-14
+CLI-50343,Miguel Cardoso,qfarias@example.com,+55 53 5227-2709,43829.0,900.0,0.0,Noroeste,Casa,2026-01-03
+CLI-50344,Dra. Lívia Nogueira,albuquerqueana-cecilia@example.org,11 2480-3053,6494.0,672.0,1.0,,Casa,2026-06-14
+CLI-50345,Sr. Raul Nascimento,raelcosta@example.org,31 7871-2665,7567.0,416.0,1.0,,,2026-05-27
+CLI-50346,Dra. Ana Beatriz Duarte,daniela14@example.com,,37608.0,984.0,0.0,Noroeste,Casa,2026-01-29
+CLI-50347,Aurora Siqueira,ucostela@example.org,,5877.0,351.0,1.0,Samambaia,Apartamento,2026-08-31
+CLI-50348,Ian Ramos,bianca55@example.org,+55 73 9068-2205,4194.0,517.0,0.0,,Casa,2026-09-01
+CLI-50349,Aurora Andrade,hmonteiro@example.net,+55 85 1182-2873,41019.0,716.0,0.0,,Apartamento,2026-03-20
+CLI-50350,Sr. Isaque Santos,ldias@example.org,22 7284-3714,9113.0,860.0,0.0,,Casa,2025-10-20
+CLI-50351,Srta. Cecilia Pires,antonyramos@example.org,51 8333-8999,,362.0,1.0,Águas Claras,Casa,2026-04-29
+CLI-50352,Theo Rios,caio36@example.com,66 0607-3289,11003.0,364.0,1.0,Guará,Casa,2026-05-05
+CLI-50353,Heitor Borges,msilveira@example.org,55 1396-5520,6925.0,600.0,0.0,Águas Lindas de Goiás,Apartamento,2026-02-08
+CLI-50354,Maria Isis Correia,montenegromilena@example.com,44 9555-7719,6824.0,949.0,0.0,Samambaia,Casa,2026-05-09
+CLI-50355,Hellena da Mota,manuella16@example.org,,3672.0,665.0,0.0,Valparaíso de Goiás,Casa,2025-12-11
+CLI-50356,Sr. Matteo Porto,correiajoao-lucas@example.net,24 7913-7701,14128.0,593.0,0.0,Guará,Apartamento,2026-02-19
+CLI-50357,Maria Júlia Duarte,qcamargo@example.net,34 0689-2446,10748.0,513.0,0.0,,Apartamento,
+CLI-50358,Mariana da Cunha,vargasbento@example.net,46 4176-8341,6797.0,335.0,,Ceilândia,Apartamento,2026-03-06
+CLI-50359,Mateus Moura,mateusmendes@example.org,+55 27 9075-5580,10768.0,917.0,0.0,Águas Claras,Apartamento,2026-09-20
+CLI-50360,Dra. Brenda Nascimento,,,3568.0,700.0,0.0,Taguatinga,Apartamento,2026-03-26
+CLI-50361,Marcelo Vargas,isis74@example.org,+55 99 7152-0940,13972.0,671.0,0.0,Águas Claras,Casa,2025-12-06
+CLI-50362,Thales Andrade,limaagatha@example.net,53 7549-8426,5371.0,,0.0,,Apartamento,2026-02-15
+CLI-50363,Manuella Jesus,theo52@example.com,+55 84 7632-3412,42244.0,762.0,0.0,Asa Sul,Apartamento,2026-08-01
+CLI-50364,Caroline Duarte,cirinoester@example.org,+55 82 6639-8116,14797.0,810.0,0.0,Jardim Botânico,Casa,2025-11-10
+CLI-50365,Paulo Borges,nicolasda-conceicao@example.net,,35766.0,755.0,0.0,Lago Norte,Casa,2026-04-17
+CLI-50366,Luigi Silveira,diegosampaio@example.net,+55 98 2482-6475,22237.0,765.0,,Lago Norte,Casa,2025-12-30
+CLI-50367,Henry Pastor,melissabarros@example.com,24 2909-4206,5529.0,462.0,0.0,Taguatinga,,2026-04-07
+CLI-50368,Sr. Caio Sales,qrocha@example.org,,15884.0,958.0,0.0,Lago Sul,Casa,2026-06-14
+CLI-50369,Mateus Novaes,apires@example.com,61 8051-8173,5989.0,475.0,1.0,Ceilândia,Casa,2026-04-22
+CLI-50370,Sr. Alexandre Câmara,maria-fernanda89@example.net,67 8400-7597,14923.0,326.0,1.0,Jardim Botânico,Apartamento,
+CLI-50371,Anthony Aparecida,cjesus@example.net,62 8523-6266,10786.0,600.0,0.0,Jardim Botânico,Apartamento,2026-03-23
+CLI-50372,Sr. Liam Monteiro,isaque91@example.org,+55 73 3907-0075,4989.0,451.0,1.0,Valparaíso de Goiás,Casa,2026-01-27
+CLI-50373,Diogo Azevedo,ramosmariah@example.net,,7443.0,436.0,1.0,Guará,Apartamento,2025-10-05
+CLI-50374,,uguerra@example.org,+55 21 4584-2057,7424.0,603.0,0.0,Guará,,2026-06-27
+CLI-50375,Lunna Duarte,qmoraes@example.com,42 0388-7521,5937.0,812.0,0.0,Taguatinga,Casa,2025-12-14
+CLI-50376,Thomas Vasconcelos,,49 7732-0407,7523.0,406.0,1.0,Guará,Apartamento,2025-12-29
+CLI-50377,Sr. Luiz Felipe Melo,cfonseca@example.com,37 3099-8786,3869.0,958.0,1.0,Samambaia,Casa,2025-12-30
+CLI-50378,,valentinamoura@example.org,+55 38 1339-8748,5963.0,697.0,0.0,Samambaia,Casa,2026-04-01
+CLI-50379,Valentim Pinto,ana-juliarocha@example.org,+55 81 0337-5203,15353.0,386.0,0.0,Sudoeste / Octogonal,Casa,2026-07-23
+CLI-50380,João Pedro Santos,correiaelisa@example.net,+55 17 0387-8553,4191.0,363.0,1.0,Águas Lindas de Goiás,Apartamento,2026-02-25
+CLI-50381,Júlia Cardoso,juanda-paz@example.com,,5624.0,639.0,,Taguatinga,Apartamento,2026-07-19
+CLI-50382,Ana Julia da Cunha,castroluiz-miguel@example.net,63 7013-7549,8470.0,,,Guará,Casa,2026-05-16
+CLI-50383,Dr. Vitor Gomes,moraesbento@example.org,+55 15 9441-1902,4266.0,490.0,1.0,Taguatinga,Apartamento,2026-05-14
+CLI-50384,Calebe Almeida,rebecada-luz@example.net,+55 63 7101-8231,14709.0,786.0,0.0,Águas Claras,,2026-05-02
+CLI-50385,Emanuella Silveira,castroryan@example.org,+55 53 3784-7375,5065.0,864.0,0.0,Taguatinga,Casa,2025-11-16
+CLI-50386,Nicolas Pimenta,imoura@example.org,,4580.0,346.0,1.0,Samambaia,Apartamento,2025-11-14
+CLI-50387,João Miguel Fernandes,correiamatteo@example.net,53 5410-3849,5538.0,507.0,0.0,Samambaia,Casa,2025-10-25
+CLI-50388,Matteo da Rosa,rguerra@example.org,+55 97 5016-3645,13792.0,,0.0,,,2026-09-19
+CLI-50389,Sr. Renan Silveira,antonybarros@example.org,,3868.0,318.0,1.0,Águas Lindas de Goiás,Apartamento,2026-06-15
+CLI-50390,Sr. Caio Azevedo,julia71@example.net,46 9624-9812,12731.0,496.0,1.0,Guará,Apartamento,2026-04-11
+CLI-50391,Dr. Pietro Campos,machadobrayan@example.com,61 4495-5248,11418.0,744.0,0.0,Jardim Botânico,Casa,2026-03-25
+CLI-50392,Marcos Vinicius Rodrigues,allanada-mata@example.com,,28430.0,653.0,0.0,Asa Norte,Casa,2026-06-21
+CLI-50393,Sra. Larissa Moreira,erick42@example.com,32 0324-6889,4580.0,995.0,0.0,,Casa,2026-01-05
+CLI-50394,Ravi Montenegro,luiz-miguelbrito@example.net,+55 92 9480-4840,9124.0,560.0,,Águas Claras,Casa,2026-03-02
+CLI-50395,Gabriel Pastor,,79 9100-1470,5711.0,975.0,0.0,Samambaia,Casa,2025-10-22
+CLI-50396,Carlos Eduardo Barros,calebeda-cruz@example.org,82 4273-6110,13262.0,596.0,0.0,Jardim Botânico,Casa,2026-08-30
+CLI-50397,Elisa Andrade,,93 7633-4719,8306.0,774.0,1.0,Jardim Botânico,Apartamento,2026-05-12
+CLI-50398,Gustavo da Rocha,qcasa-grande@example.net,+55 33 3855-2315,4559.0,524.0,0.0,Águas Lindas de Goiás,Casa,2025-11-07
+CLI-50399,Sra. Luana da Conceição,ana-carolinamontenegro@example.net,0500 057 6572,11099.0,345.0,0.0,Águas Claras,Apartamento,2025-10-13
+CLI-50400,Maria Alice Fonseca,ncamargo@example.org,22 0358-9334,5735.0,735.0,0.0,Ceilândia,Casa,2026-01-17
+CLI-50401,Rodrigo Lima,alexandremarques@example.org,+55 14 8496-1148,10444.0,463.0,1.0,Guará,Apartamento,2025-10-18
+CLI-50402,Mariana Vieira,oliver42@example.org,+55 96 3955-2603,9762.0,,0.0,Águas Claras,Apartamento,2026-09-22
+CLI-50403,Isaque Garcia,lara96@example.com,15 3971-6479,4797.0,437.0,0.0,Águas Lindas de Goiás,Apartamento,2026-03-03
+CLI-50404,Dr. Luiz Miguel Barbosa,zborges@example.com,+55 14 2041-8607,8273.0,612.0,0.0,Guará,Apartamento,2026-06-24
+CLI-50405,Gael Henrique Nunes,brunocunha@example.net,46 8922-4865,4241.0,974.0,,Águas Lindas de Goiás,Apartamento,2026-09-23
+CLI-50406,Sr. Pedro Miguel Guerra,sampaiomaria-julia@example.org,+55 46 6783-6029,3998.0,461.0,0.0,Ceilândia,Apartamento,2025-11-13
+CLI-50407,Dr. Luiz Miguel Correia,oliver44@example.com,+55 83 1886-8932,3079.0,386.0,1.0,Ceilândia,Casa,2025-12-26
+CLI-50408,Sra. Letícia Sousa,laviniapimenta@example.net,88 4781-3240,3724.0,510.0,0.0,Samambaia,Apartamento,2026-03-20
+CLI-50409,Danilo Santos,otto10@example.org,+55 31 9644-7385,11267.0,483.0,0.0,Guará,Casa,
+CLI-50410,Joaquim Gonçalves,maria-luisa58@example.com,+55 99 1902-9756,13513.0,420.0,1.0,Jardim Botânico,Apartamento,2026-05-24
+CLI-50411,Manuela Almeida,cunhanicolas@example.com,82 1177-5820,3542.0,876.0,0.0,Taguatinga,Apartamento,2026-04-05
+CLI-50412,Caroline Moraes,fsilva@example.com,14 2806-4602,9385.0,725.0,0.0,Jardim Botânico,Casa,2026-03-15
+CLI-50413,Dra. Natália Castro,ana-julia93@example.com,+55 84 0906-7976,5526.0,319.0,1.0,Samambaia,Casa,2025-10-07
+CLI-50414,João Lucas Vasconcelos,qlima@example.com,+55 73 5424-1812,3176.0,564.0,0.0,Taguatinga,Apartamento,2025-10-04
+CLI-50415,Eduarda Macedo,isabelly55@example.com,61 3612-7101,,331.0,1.0,Sudoeste / Octogonal,Casa,2026-01-19
+CLI-50416,Sra. Mariana Mendonça,lferreira@example.net,+55 17 4766-6019,7851.0,358.0,0.0,Guará,Casa,2025-09-25
+CLI-50417,Olivia da Luz,heloisafernandes@example.com,74 3307-8555,6475.0,333.0,0.0,Águas Lindas de Goiás,Apartamento,2026-09-08
+CLI-50418,Sr. João Fogaça,ccamargo@example.org,+55 62 1037-4173,12249.0,847.0,0.0,Guará,,2026-01-22
+CLI-50419,Sr. Benjamin Melo,lucas66@example.com,+55 21 1552-8769,6139.0,349.0,1.0,Samambaia,Apartamento,2026-01-05
+CLI-50420,Vinicius da Rocha,,+55 32 5764-9911,,832.0,0.0,Águas Claras,Apartamento,2026-07-27
+CLI-50421,Breno Aragão,npinto@example.net,+55 99 1727-4523,9683.0,468.0,1.0,Águas Claras,Casa,2026-08-09
+CLI-50422,Sr. Leandro Sá,mayaramos@example.net,19 9829-1221,6659.0,431.0,0.0,Samambaia,Casa,2026-07-17
+CLI-50423,Isaac Ramos,oliver93@example.net,35 1782-4189,3670.0,557.0,0.0,Águas Lindas de Goiás,,
+CLI-50424,Sra. Sarah das Neves,da-costaleo@example.org,68 1841-5225,28338.0,903.0,1.0,,Apartamento,2025-11-01
+CLI-50425,,nunesdiego@example.net,+55 55 4837-5761,10552.0,932.0,0.0,Guará,Apartamento,2026-08-20
+CLI-50426,Isadora Aparecida,henry52@example.net,+55 12 9356-7881,3163.0,663.0,1.0,Ceilândia,Casa,2026-07-07
+CLI-50427,Stephany Viana,zsilva@example.net,+55 99 4895-2906,37596.0,674.0,0.0,Asa Sul,Casa,2026-08-10
+CLI-50428,Juliana Garcia,fcosta@example.org,+55 54 8046-4681,24826.0,869.0,0.0,Lago Norte,Apartamento,2026-06-11
+CLI-50429,Liz da Luz,riosdavi-lucas@example.com,+55 12 3404-6933,4687.0,421.0,1.0,Valparaíso de Goiás,Casa,2025-10-14
+CLI-50430,Sr. Luan Pastor,ian57@example.org,+55 81 3589-9247,37773.0,800.0,0.0,Asa Sul,Apartamento,2026-03-07
+CLI-50431,Ana Vitória Cardoso,,81 2570-4035,5469.0,899.0,0.0,Ceilândia,Casa,2026-04-11
+CLI-50432,Enzo Ramos,danielalima@example.org,+55 19 7218-9972,41989.0,535.0,0.0,Noroeste,Casa,2026-01-04
+CLI-50433,Dra. Maria Liz Moraes,da-luzravi@example.com,+55 98 3075-1590,9522.0,519.0,0.0,,Casa,2026-09-02
+CLI-50434,Arthur Nascimento,luiz-gustavocassiano@example.com,12 2569-8307,5329.0,862.0,0.0,Samambaia,Apartamento,2026-02-05
+CLI-50435,Luiz Felipe Sales,fariasana-beatriz@example.net,21 0189-5243,6056.0,497.0,0.0,Águas Lindas de Goiás,Casa,2026-05-06
+CLI-50436,Pedro Henrique Cardoso,luna66@example.org,+55 24 5291-3442,5716.0,556.0,0.0,Ceilândia,,2025-10-04
+CLI-50437,Ana Sophia Teixeira,ana-beatrizmartins@example.org,54 0783-2664,6860.0,543.0,0.0,Samambaia,Apartamento,2026-01-13
+CLI-50438,Danilo Cunha,albuquerquemirella@example.org,18 8129-7417,5525.0,569.0,0.0,Taguatinga,,2026-01-12
+CLI-50439,Dr. Asafe Fernandes,cassianoleo@example.com,55 4352-7403,3166.0,307.0,,Samambaia,Casa,2025-10-06
+CLI-50440,Sra. Eloá Marques,maria-lauramonteiro@example.com,88 3134-5287,6802.0,941.0,0.0,Valparaíso de Goiás,Casa,2025-11-16
+CLI-50441,Maria Flor Ribeiro,jfernandes@example.org,18 3044-5053,16579.0,438.0,1.0,Noroeste,,2026-05-28
+CLI-50442,Anthony Casa Grande,znascimento@example.org,37 7847-5421,7631.0,651.0,0.0,Águas Claras,Casa,2026-02-13
+CLI-50443,Gael Leão,portolucca@example.org,82 1303-3578,5546.0,308.0,0.0,Taguatinga,Apartamento,2026-08-14
+CLI-50444,Enrico Porto,thomas21@example.net,+55 66 1022-3210,3562.0,783.0,0.0,,Apartamento,2025-10-03
+CLI-50445,Srta. Laís Oliveira,opinto@example.net,+55 74 9751-5202,14061.0,452.0,1.0,Águas Claras,Apartamento,
+CLI-50446,Antônio Montenegro,hellena52@example.org,+55 92 1949-7254,12442.0,809.0,0.0,Águas Claras,Casa,2026-05-28
+CLI-50447,Sabrina Duarte,agatha44@example.com,53 7012-1389,3958.0,,,Ceilândia,Casa,2026-04-15
+CLI-50448,Maya Barros,jesuspedro@example.net,74 4890-7100,10825.0,456.0,0.0,Jardim Botânico,Casa,2025-11-12
+CLI-50449,Asafe das Neves,isis10@example.org,+55 97 6923-8788,6872.0,930.0,0.0,Valparaíso de Goiás,Casa,2025-10-23
+CLI-50450,Ana Lívia Cardoso,fernando10@example.net,22 6441-5247,43862.0,458.0,1.0,Lago Norte,Casa,2026-03-01
+CLI-50451,Hadassa Pires,asafe27@example.net,,13675.0,906.0,0.0,Águas Claras,Apartamento,2025-11-29
+CLI-50452,Alícia da Cunha,emillyviana@example.net,+55 22 6420-8562,5326.0,587.0,0.0,Valparaíso de Goiás,,2025-10-03
+CLI-50453,Sr. Luiz Otávio Monteiro,da-costabrenda@example.com,53 7117-5276,11835.0,602.0,0.0,Jardim Botânico,Apartamento,2025-11-29
+CLI-50454,Dr. Luiz Felipe Rodrigues,carlos-eduardo60@example.org,82 1913-5687,20876.0,594.0,0.0,Asa Sul,Apartamento,2026-03-14
+CLI-50455,Caio Brito,gabrielsampaio@example.org,+55 87 2896-7110,3092.0,,0.0,Taguatinga,Casa,2025-12-09
+CLI-50456,Murilo Rocha,thales81@example.org,+55 18 9707-5689,5445.0,685.0,0.0,Valparaíso de Goiás,Apartamento,2026-03-12
+CLI-50457,Dra. Rafaela Siqueira,xcostela@example.com,+55 34 5938-2584,18224.0,487.0,0.0,Sudoeste / Octogonal,Apartamento,2026-02-24
+CLI-50458,Vitória Pacheco,rsilveira@example.net,17 0415-3432,4830.0,674.0,0.0,,,2025-11-21
+CLI-50459,Eduarda Cavalcanti,santosgael@example.net,+55 46 5280-7233,,499.0,1.0,Guará,Apartamento,2026-08-08
+CLI-50460,Pedro Miguel Casa Grande,maria-cecilia45@example.net,+55 95 6446-1683,3557.0,937.0,0.0,Taguatinga,Apartamento,2025-11-08
+CLI-50461,Srta. Esther Guerra,ymachado@example.org,97 4366-5025,4701.0,992.0,0.0,Ceilândia,Casa,2026-06-29
+CLI-50462,,ana-vitoria30@example.net,+55 99 5198-7741,,728.0,0.0,Águas Claras,Casa,2026-05-09
+CLI-50463,Luana Caldeira,,+55 18 6886-5724,3090.0,500.0,1.0,Valparaíso de Goiás,Apartamento,2026-08-22
+CLI-50464,Zoe Castro,kevinnascimento@example.org,+55 86 8531-7595,6615.0,548.0,0.0,Águas Lindas de Goiás,Apartamento,2026-07-23
+CLI-50465,Bárbara Garcia,carolina75@example.org,0300 873 3617,3625.0,,0.0,Samambaia,Apartamento,2026-08-05
+CLI-50466,Nicolas da Conceição,rodrigo48@example.org,75 8632-0699,9792.0,507.0,0.0,Águas Claras,Casa,2026-09-21
+CLI-50467,Lucas Pastor,gabriellyda-rocha@example.net,62 1491-0868,8123.0,592.0,0.0,Guará,,2026-09-14
+CLI-50468,Eduarda Vasconcelos,lucca25@example.com,+55 43 4701-2772,3799.0,984.0,,Águas Lindas de Goiás,Casa,2026-09-11
+CLI-50469,Dr. Pedro Henrique Pires,catarina44@example.org,,13181.0,611.0,0.0,Jardim Botânico,Casa,2026-09-06
+CLI-50470,Melina Abreu,zoecarvalho@example.com,+55 54 0718-6296,4416.0,455.0,0.0,Valparaíso de Goiás,Apartamento,2026-04-03
+CLI-50471,Pietra Silva,ian42@example.com,+55 84 9123-9648,3585.0,427.0,1.0,Águas Lindas de Goiás,Casa,2026-04-10
+CLI-50472,João Guilherme Teixeira,barrosheitor@example.net,64 3940-0716,7333.0,739.0,0.0,Jardim Botânico,Apartamento,2026-07-16
+CLI-50473,Yasmin Albuquerque,zoecasa-grande@example.org,46 3443-2766,3814.0,452.0,1.0,Samambaia,Casa,2025-10-17
+CLI-50474,Arthur Mendes,wduarte@example.org,+55 17 0527-4502,6235.0,930.0,0.0,Taguatinga,Apartamento,
+CLI-50475,Joana Casa Grande,igor66@example.com,+55 55 7508-6454,6332.0,917.0,0.0,Águas Lindas de Goiás,Apartamento,2026-01-26
+CLI-50476,Bento da Mota,,13 6164-9942,13581.0,510.0,0.0,Guará,Casa,2026-07-04
+CLI-50477,,gustavo-henrique87@example.org,+55 31 9599-3303,20898.0,456.0,1.0,Sudoeste / Octogonal,Apartamento,2026-04-15
+CLI-50478,Vitor Câmara,gabrielpimenta@example.net,+55 53 6382-1134,11626.0,882.0,0.0,Águas Claras,Casa,2026-08-22
+CLI-50479,Juan Vieira,gda-conceicao@example.net,,4325.0,397.0,0.0,Taguatinga,Casa,2026-06-07
+CLI-50480,Luiz Gustavo Silveira,bryan93@example.org,+55 27 0750-6591,16645.0,914.0,0.0,Sudoeste / Octogonal,Casa,
+CLI-50481,Alícia Pimenta,acardoso@example.org,+55 85 2817-0709,11681.0,972.0,0.0,Águas Claras,Casa,2026-04-23
+CLI-50482,Rael Costa,luiz-miguel02@example.org,,4784.0,408.0,1.0,Valparaíso de Goiás,Casa,2025-09-26
+CLI-50483,Ana Liz Siqueira,laura69@example.net,83 7637-9732,13088.0,574.0,0.0,Águas Claras,Casa,2026-06-07
+CLI-50484,Ana Júlia Lima,scastro@example.net,43 4756-3173,10892.0,561.0,0.0,Guará,Casa,2026-05-21
+CLI-50485,Raul Teixeira,da-motalarissa@example.net,88 9206-4033,6949.0,366.0,1.0,Águas Lindas de Goiás,Casa,2026-03-08
+CLI-50486,Felipe Ferreira,ralbuquerque@example.net,+55 91 7500-6736,5245.0,934.0,0.0,Samambaia,Casa,
+CLI-50487,Renan Carvalho,araujomaria-sophia@example.org,+55 21 0167-9113,13059.0,680.0,1.0,Guará,Casa,2026-06-06
+CLI-50488,Ana Carolina Rezende,maria-sophiada-costa@example.net,+55 41 3271-8953,7348.0,637.0,0.0,Jardim Botânico,,2026-03-28
+CLI-50489,Enzo da Conceição,wduarte@example.org,64 8134-5354,31733.0,928.0,0.0,Lago Sul,Apartamento,2026-01-17
+CLI-50490,Valentim Carvalho,ana36@example.net,+55 97 5343-6806,,849.0,0.0,Taguatinga,Apartamento,2026-03-24
+CLI-50491,,kmonteiro@example.org,13 9116-9225,10870.0,422.0,0.0,Jardim Botânico,Apartamento,2025-12-06
+CLI-50492,Alana Nunes,andraderyan@example.org,0500 898 3790,6684.0,748.0,0.0,Valparaíso de Goiás,Casa,2026-01-03
+CLI-50493,Dra. Ana Laura Nascimento,azevedodavi-miguel@example.org,+55 96 2672-1352,9180.0,535.0,0.0,Jardim Botânico,Apartamento,2026-07-20
+CLI-50494,Cecília Peixoto,luizasa@example.net,+55 11 8857-1673,8637.0,576.0,0.0,Águas Claras,Casa,2025-12-27
+CLI-50495,Leandro da Rocha,otavio59@example.org,0900 843 2295,,,0.0,Sudoeste / Octogonal,Apartamento,2026-05-21
+CLI-50496,Henry Gabriel Viana,sandrade@example.net,,5426.0,831.0,0.0,Ceilândia,Apartamento,2026-06-18
+CLI-50497,Danilo Cunha,laviniacamargo@example.com,22 0765-2485,3928.0,440.0,1.0,Ceilândia,Casa,2025-12-31
+CLI-50498,Srta. Isadora Campos,tnogueira@example.com,+55 97 0218-2051,4613.0,598.0,0.0,Águas Lindas de Goiás,Casa,2026-04-27
+CLI-50499,,crios@example.com,41 5332-3721,6217.0,816.0,0.0,,Casa,2026-04-15
+CLI-50500,Maria Fernanda Siqueira,clarice78@example.org,91 6412-8829,12300.0,462.0,1.0,Águas Claras,Casa,2026-05-18
+CLI-50501,Cecilia Mendonça,ana-vitoriasouza@example.com,+55 17 5500-5219,9484.0,489.0,1.0,Águas Claras,Apartamento,2026-01-13
+CLI-50502,Maria Vitória Fogaça,gabriela70@example.org,77 1058-9692,4364.0,826.0,0.0,Valparaíso de Goiás,Casa,2026-05-05
+CLI-50503,Otávio Correia,anthony-gabriel96@example.com,98 7705-1809,14694.0,389.0,1.0,Jardim Botânico,Apartamento,2026-08-14
+CLI-50504,Dr. Kevin Pereira,thiago13@example.com,+55 14 0950-3994,8957.0,301.0,1.0,Águas Claras,Casa,2026-02-03
+CLI-50505,Isabel Peixoto,isabellamendes@example.com,62 6910-1802,37627.0,765.0,0.0,Asa Sul,,2026-06-08
+CLI-50506,Dra. Laura da Costa,gabrielasousa@example.org,+55 53 5343-5798,5100.0,715.0,0.0,Samambaia,Casa,2026-03-22
+CLI-50507,Lorena Silveira,vsouza@example.com,+55 44 2743-5516,5349.0,342.0,,Valparaíso de Goiás,Casa,2026-03-10
+CLI-50508,Hadassa da Rocha,otaviocastro@example.net,+55 77 9003-4045,5399.0,502.0,0.0,Valparaíso de Goiás,Casa,2026-08-02
+CLI-50509,Gael da Costa,cardosobento@example.org,+55 61 0201-5282,28158.0,,0.0,Lago Sul,Casa,2025-11-01
+CLI-50510,Sr. Théo Azevedo,jjesus@example.com,18 5972-1682,11410.0,517.0,0.0,Guará,Casa,2026-08-09
+CLI-50511,Carlos Eduardo Andrade,joao-miguelnunes@example.org,21 7020-7476,5220.0,709.0,0.0,Ceilândia,Apartamento,2026-06-09
+CLI-50512,Lorenzo Campos,da-conceicaoclara@example.org,+55 18 6416-3527,26417.0,695.0,0.0,Noroeste,Apartamento,2026-05-09
+CLI-50513,Stephany Peixoto,castrolaura@example.com,+55 32 2817-3416,4988.0,319.0,0.0,Samambaia,Casa,2026-01-11
+CLI-50514,Alexia Farias,isis65@example.org,+55 69 6664-5839,4489.0,,0.0,Taguatinga,Apartamento,2026-06-12
+CLI-50515,Srta. Luna Rios,yagomontenegro@example.net,+55 88 7841-8689,,,1.0,Águas Claras,Casa,2025-09-27
+CLI-50516,Lavínia Machado,fcarvalho@example.com,+55 81 5447-2814,11300.0,602.0,0.0,Águas Claras,Apartamento,2026-05-30
+CLI-50517,Lucca Novais,theodas-neves@example.com,+55 81 2950-7129,11310.0,937.0,0.0,Jardim Botânico,Apartamento,2026-01-03
+CLI-50518,Dr. Vinícius Aragão,gabriellygoncalves@example.com,+55 15 0754-0651,44447.0,863.0,0.0,Asa Sul,Casa,2026-01-11
+CLI-50519,Davi Luiz Dias,qsantos@example.net,42 7670-0668,9316.0,738.0,0.0,Jardim Botânico,Casa,2026-05-20
+CLI-50520,Juan Silveira,arthur-gabrielcamargo@example.org,+55 89 6057-2500,3061.0,810.0,0.0,Valparaíso de Goiás,Apartamento,2026-05-28
+CLI-50521,Gael Henrique Caldeira,maria37@example.net,67 4824-0226,3929.0,393.0,1.0,Samambaia,Casa,2026-03-31
+CLI-50522,Sofia Cassiano,emanuel98@example.net,+55 14 5896-4691,6014.0,877.0,0.0,,Apartamento,2025-12-31
+CLI-50523,João Lucas Almeida,bernardovieira@example.org,31 7322-9465,3204.0,752.0,0.0,Valparaíso de Goiás,Casa,2026-02-20
+CLI-50524,Bárbara Alves,isispinto@example.com,+55 34 8934-6814,,534.0,0.0,Taguatinga,Apartamento,
+CLI-50525,Elisa da Cruz,diasgiovanna@example.com,73 4246-6019,5356.0,558.0,0.0,Samambaia,Casa,2026-05-07
+CLI-50526,Esther Albuquerque,rda-rosa@example.org,+55 18 6011-0510,,856.0,0.0,Águas Lindas de Goiás,Apartamento,2025-11-22
+CLI-50527,Emanuelly Sousa,camarapietra@example.com,+55 95 2449-9946,3745.0,459.0,,Ceilândia,Apartamento,2025-10-25
+CLI-50528,Dr. Caio Ferreira,agarcia@example.com,38 9128-4120,6861.0,312.0,0.0,Águas Lindas de Goiás,Casa,2025-10-31
+CLI-50529,Juan Farias,ana-liviaabreu@example.com,44 2381-9429,3870.0,649.0,0.0,Samambaia,Casa,2026-02-08
+CLI-50530,Giovanna Novais,joao-guilherme12@example.org,91 2436-1340,6803.0,735.0,0.0,Ceilândia,Casa,2026-08-09
+CLI-50531,Emilly Campos,melissadas-neves@example.net,53 3840-4167,6564.0,393.0,1.0,Águas Lindas de Goiás,Apartamento,2026-04-01
+CLI-50532,Thales da Luz,auroradas-neves@example.org,85 0973-3417,14470.0,943.0,0.0,Jardim Botânico,,
+CLI-50533,Maria Julia da Cruz,leaoluana@example.org,+55 17 0334-2116,6172.0,842.0,0.0,Taguatinga,Casa,2026-03-31
+CLI-50534,Luiz Henrique Mendes,eda-rocha@example.com,63 2185-1189,4261.0,902.0,0.0,Valparaíso de Goiás,Apartamento,2026-05-26
+CLI-50535,Vicente Novaes,cecilia77@example.org,+55 69 1050-0747,3622.0,752.0,0.0,Valparaíso de Goiás,Apartamento,2026-02-27
+CLI-50536,Dom Carvalho,xsiqueira@example.org,,20411.0,822.0,0.0,,,2026-09-24
+CLI-50537,Lucas Gabriel Carvalho,caldeirajoao-felipe@example.com,75 8529-2025,12379.0,902.0,0.0,Jardim Botânico,Casa,2026-04-23
+CLI-50538,Heitor Marques,goncalvesisis@example.net,+55 51 2031-8288,6182.0,628.0,0.0,,Casa,2026-05-21
+CLI-50539,Mariane Leão,santosjose@example.org,79 2144-4869,8184.0,828.0,0.0,Guará,Casa,
+CLI-50540,João Lucas Pastor,snunes@example.net,92 6497-6617,10037.0,594.0,0.0,Jardim Botânico,Casa,2026-05-05
+CLI-50541,Luna Martins,agathanogueira@example.com,0300 431 6098,3229.0,372.0,,Águas Lindas de Goiás,,2025-11-21
+CLI-50542,Pietra Alves,noahandrade@example.net,99 0207-4914,4139.0,502.0,0.0,Valparaíso de Goiás,Casa,2025-10-15
+CLI-50543,Larissa Fernandes,maria-ceciliasantos@example.net,+55 82 4927-1301,4364.0,933.0,0.0,Valparaíso de Goiás,Casa,2026-06-29
+CLI-50544,Jade Sá,maria-eduarda03@example.org,93 5265-0861,44118.0,324.0,1.0,Asa Sul,Apartamento,2026-06-20
+CLI-50545,Dr. José Pedro Melo,da-pazana-livia@example.com,+55 16 8431-8190,7723.0,898.0,0.0,Jardim Botânico,Apartamento,2026-08-25
+CLI-50546,Sra. Rebeca Câmara,nogueiradanilo@example.net,+55 11 0114-9353,12919.0,623.0,0.0,Jardim Botânico,Apartamento,2026-05-05
+CLI-50547,Juliana Cirino,arthur-miguel17@example.org,48 4725-7415,5161.0,,1.0,Águas Lindas de Goiás,Casa,2026-02-07
+CLI-50548,Anthony Ribeiro,maria-flor71@example.net,+55 84 0259-8247,11001.0,910.0,0.0,Jardim Botânico,Apartamento,2025-11-28
+CLI-50549,Heitor Porto,nogueirajoao-guilherme@example.com,62 1478-0842,44463.0,368.0,1.0,Sudoeste / Octogonal,Casa,2026-04-28
+CLI-50550,,calebe88@example.org,,7380.0,386.0,1.0,Guará,Casa,2026-03-08
+CLI-50551,Agatha Vieira,acassiano@example.org,97 0305-7124,5602.0,522.0,,,Casa,2025-11-01
+CLI-50552,Gustavo Henrique da Cunha,luiz-felipe68@example.org,+55 12 3480-4232,3652.0,654.0,0.0,Valparaíso de Goiás,Apartamento,2026-01-19
+CLI-50553,Marcela da Cruz,fonsecalevi@example.net,+55 22 4281-9927,4938.0,,0.0,Valparaíso de Goiás,Apartamento,2026-02-23
+CLI-50554,Sra. Cecília Jesus,henry76@example.com,45 2833-2356,3529.0,622.0,0.0,Samambaia,Casa,2025-11-17
+CLI-50555,Elisa Nogueira,liviabarbosa@example.com,+55 49 0465-1928,9561.0,700.0,0.0,Guará,,2026-04-08
+CLI-50556,Srta. Cecilia Sá,leopeixoto@example.org,74 1179-7338,14663.0,575.0,0.0,Jardim Botânico,Apartamento,2025-10-17
+CLI-50557,Danilo Gonçalves,alana26@example.net,+55 77 3800-2888,4290.0,508.0,0.0,Águas Lindas de Goiás,Apartamento,2026-03-28
+CLI-50558,Gael da Paz,cavalcantibrenda@example.net,+55 82 7475-4574,14827.0,659.0,0.0,Águas Claras,Casa,2026-05-12
+CLI-50559,Maria Helena Pacheco,fmendes@example.com,61 7426-8281,7335.0,673.0,0.0,Jardim Botânico,Apartamento,2026-08-27
+CLI-50560,Luana Rios,calebrocha@example.net,82 4346-3402,6289.0,546.0,0.0,Águas Lindas de Goiás,Casa,2026-05-01
+CLI-50561,Maria Isis Monteiro,beatrizbarbosa@example.net,+55 75 7383-1578,6326.0,524.0,0.0,Samambaia,Casa,2025-11-19
+CLI-50562,Levi da Rocha,maria-helenaandrade@example.org,74 7539-1812,4156.0,612.0,0.0,Águas Lindas de Goiás,Casa,2026-04-11
+CLI-50563,Gael Montenegro,monteirodante@example.com,82 3703-4939,3778.0,813.0,0.0,Taguatinga,Apartamento,2025-10-26
+CLI-50564,,,+55 66 4980-5239,5854.0,420.0,0.0,Ceilândia,Apartamento,2025-12-14
+CLI-50565,,cauepacheco@example.net,75 4084-3671,,468.0,1.0,Jardim Botânico,Casa,2026-08-03
+CLI-50566,Bernardo Macedo,julianamendes@example.net,+55 84 7941-5260,10135.0,841.0,0.0,Guará,Casa,2025-11-04
+CLI-50567,Raquel Mendes,isouza@example.com,,3552.0,826.0,0.0,Águas Lindas de Goiás,Apartamento,2026-01-26
+CLI-50568,Bella Mendonça,nmendonca@example.org,+55 28 1024-9421,,669.0,0.0,Guará,Apartamento,2026-04-24
+CLI-50569,Ravy da Luz,calebda-mota@example.org,77 9325-0539,5004.0,428.0,1.0,Águas Lindas de Goiás,Apartamento,2026-08-27
+CLI-50570,Guilherme Correia,wcassiano@example.net,93 1584-1814,11096.0,497.0,1.0,Jardim Botânico,Apartamento,2026-02-15
+CLI-50571,Maitê Campos,mateus50@example.net,+55 73 1570-9968,42425.0,646.0,0.0,Noroeste,Casa,2025-12-20
+CLI-50572,Luiz Henrique Barbosa,acosta@example.com,71 6085-6620,8615.0,339.0,1.0,Jardim Botânico,Casa,2025-09-30
+CLI-50573,Gael Gonçalves,kevin06@example.net,+55 62 5665-3024,6403.0,948.0,1.0,Samambaia,Casa,2026-07-31
+CLI-50574,Caio Novais,ffernandes@example.org,13 2847-1275,18069.0,514.0,1.0,Sudoeste / Octogonal,Apartamento,2025-11-18
+CLI-50575,Sofia Marques,anthonynogueira@example.com,17 5472-1895,10681.0,882.0,0.0,Guará,Apartamento,2026-03-19
+CLI-50576,Gael Sampaio,maria-laurasouza@example.net,99 9641-6899,3707.0,631.0,0.0,Samambaia,Casa,2025-10-27
+CLI-50577,Rhavi Castro,mayagoncalves@example.net,+55 84 1209-2308,4740.0,328.0,1.0,Taguatinga,Casa,2026-02-11
+CLI-50578,Sr. Luiz Gustavo Barbosa,xcamara@example.org,97 1062-9488,6779.0,805.0,0.0,Valparaíso de Goiás,Apartamento,2026-02-25
+CLI-50579,Maria Cecília Cunha,,+55 42 6805-8297,13293.0,551.0,0.0,Jardim Botânico,Casa,2025-11-16
+CLI-50580,Lunna das Neves,freitasdiogo@example.net,37 6162-7237,4378.0,453.0,,Ceilândia,Apartamento,2025-11-25
+CLI-50581,José Pedro Fernandes,da-cruzlorena@example.com,54 3328-9053,9882.0,529.0,0.0,,Apartamento,2026-01-02
+CLI-50582,Hadassa Garcia,aylla57@example.com,+55 11 7135-7215,,869.0,0.0,,Apartamento,2025-10-24
+CLI-50583,Ana Fogaça,anthony16@example.net,,4156.0,750.0,0.0,Samambaia,Apartamento,2026-05-30
+CLI-50584,,almeidaluiza@example.net,,9135.0,815.0,0.0,Águas Claras,Casa,2026-05-29
+CLI-50585,Sr. Juan Costela,ygoncalves@example.org,48 2980-7424,13632.0,962.0,0.0,Guará,Casa,2026-06-28
+CLI-50586,Beatriz Viana,maria-eduarda33@example.com,11 3468-8342,13370.0,301.0,0.0,Águas Claras,,2025-10-07
+CLI-50587,Davi Luiz Rocha,gustavo-henrique11@example.org,+55 44 2464-3477,6535.0,710.0,0.0,Valparaíso de Goiás,Casa,2026-09-15
+CLI-50588,Sra. Eduarda Andrade,maya53@example.com,+55 98 0377-2071,14018.0,446.0,1.0,Jardim Botânico,Casa,2026-09-03
+CLI-50589,,da-rochamelina@example.com,+55 12 7550-1364,18237.0,331.0,,Noroeste,Casa,2026-01-09
+CLI-50590,Dr. Marcelo Nascimento,joao-gabrielalmeida@example.net,+55 87 2385-8967,3466.0,400.0,0.0,,Apartamento,2026-06-30
+CLI-50591,Guilherme Costa,caldeirabenjamim@example.net,17 7883-9917,6063.0,501.0,0.0,Samambaia,Casa,2026-09-10
+CLI-50592,Dr. Kevin Ferreira,ravioliveira@example.org,62 4376-0906,3448.0,,0.0,Águas Lindas de Goiás,Casa,2025-12-08
+CLI-50593,Isabel Souza,xazevedo@example.com,74 8453-7353,28221.0,410.0,0.0,Sudoeste / Octogonal,Apartamento,2026-03-13
+CLI-50594,Davi Lucas Vasconcelos,sampaiojulia@example.com,+55 53 3811-2068,5488.0,389.0,,Taguatinga,Apartamento,2025-10-19
+CLI-50595,Lucas Farias,bentorios@example.org,+55 33 8189-1388,10496.0,361.0,1.0,Guará,Apartamento,2026-04-19
+CLI-50596,Ana Carolina Fernandes,thomas01@example.org,,40047.0,869.0,0.0,Noroeste,Casa,2026-07-18
+CLI-50597,Bruno Moura,camargoarthur-gabriel@example.net,+55 69 9022-4146,11946.0,447.0,1.0,Jardim Botânico,Casa,2026-06-20
+CLI-50598,,da-costamarcelo@example.org,13 2620-9875,8972.0,491.0,1.0,Águas Claras,Apartamento,2026-05-10
+CLI-50599,Brayan Abreu,josuesouza@example.org,12 5754-1444,21555.0,963.0,0.0,Asa Norte,Casa,2026-03-30
+CLI-50600,Gabrielly Garcia,montenegrodom@example.com,+55 67 7822-5375,14214.0,430.0,1.0,Águas Claras,Apartamento,2026-04-13
+CLI-50601,Davi Lucca Rezende,lais03@example.net,+55 14 9440-8574,23192.0,940.0,0.0,Lago Sul,Casa,2026-01-01
+CLI-50602,Sophia Dias,pastorotavio@example.com,14 7926-8176,4517.0,590.0,0.0,Águas Lindas de Goiás,Apartamento,2026-01-29
+CLI-50603,Mirella Fonseca,alexia94@example.net,+55 44 3238-8145,38131.0,552.0,,Sudoeste / Octogonal,Casa,2026-05-14
+CLI-50604,Sofia Lima,kevincirino@example.org,37 7588-8498,10229.0,377.0,1.0,,Apartamento,2025-11-24
+CLI-50605,Leandro Silva,rodrigomelo@example.net,17 8793-3798,9780.0,645.0,0.0,Guará,,2026-05-01
+CLI-50606,Dr. Gustavo Henrique Casa Grande,isabellysantos@example.com,+55 73 8276-3213,5626.0,344.0,1.0,Taguatinga,Apartamento,2026-06-15
+CLI-50607,Pedro Casa Grande,vcasa-grande@example.org,82 5197-1105,5137.0,728.0,0.0,Taguatinga,Apartamento,2026-04-17
+CLI-50608,Cauã da Mota,pcosta@example.net,86 3812-3475,3328.0,782.0,0.0,Ceilândia,Casa,2026-02-28
+CLI-50609,Vitor Hugo Porto,costelalivia@example.com,74 2238-9723,9010.0,356.0,1.0,Guará,Apartamento,2026-06-10
+CLI-50610,João Mendonça,joanacasa-grande@example.org,61 8698-2808,5672.0,657.0,0.0,Taguatinga,Apartamento,2026-02-19
+CLI-50611,Anna Liz Souza,yagoda-luz@example.org,+55 77 2465-7023,14921.0,942.0,0.0,Guará,Casa,2025-10-07
+CLI-50612,Alexia Fogaça,brayansampaio@example.net,+55 95 0406-2629,5234.0,758.0,0.0,Valparaíso de Goiás,Apartamento,2025-12-04
+CLI-50613,,jade54@example.com,73 7910-8316,5686.0,340.0,1.0,Valparaíso de Goiás,Apartamento,
+CLI-50614,Lucas Gabriel Borges,alice30@example.net,13 5176-5921,7179.0,670.0,0.0,Águas Claras,Casa,2026-07-30
+CLI-50615,Luana Sousa,yaraujo@example.org,+55 77 8378-1080,5358.0,,0.0,Valparaíso de Goiás,Apartamento,2025-12-29
+CLI-50616,Aurora Mendonça,davi-luiz91@example.org,68 1227-9772,4718.0,419.0,1.0,Ceilândia,Apartamento,2025-11-11
+CLI-50617,Julia da Cruz,inascimento@example.org,+55 48 9418-7331,4043.0,,0.0,Ceilândia,Apartamento,2026-01-10
+CLI-50618,Ana Carolina Monteiro,leonardoda-cruz@example.com,41 6020-5814,5301.0,525.0,0.0,Valparaíso de Goiás,Apartamento,2026-09-20
+CLI-50619,Sr. Augusto Camargo,isabellyda-rosa@example.com,+55 61 7193-0355,11057.0,961.0,0.0,Jardim Botânico,Casa,2026-09-11
+CLI-50620,Marcelo Rodrigues,eduardapacheco@example.net,81 3113-0567,6857.0,,0.0,Samambaia,Apartamento,2025-10-21
+CLI-50621,Isis Gonçalves,fariascaleb@example.org,64 0168-9928,6620.0,473.0,1.0,Taguatinga,Casa,2026-03-01
+CLI-50622,Pietra Pastor,,93 0089-0456,38675.0,590.0,0.0,Lago Norte,Apartamento,2026-03-16
+CLI-50623,Carolina Moreira,hfarias@example.net,+55 47 1541-2310,17764.0,,,Asa Sul,Apartamento,2026-02-03
+CLI-50624,Léo Cardoso,udas-neves@example.org,24 6073-7887,6891.0,410.0,1.0,Ceilândia,Casa,2026-01-10
+CLI-50625,Liz Silva,fmonteiro@example.com,73 7278-9641,4580.0,534.0,0.0,Valparaíso de Goiás,Apartamento,2025-11-25
+CLI-50626,Elisa da Costa,eloah07@example.net,+55 94 7147-5978,10266.0,638.0,0.0,Guará,,2025-12-11
+CLI-50627,Antonella Cunha,vitoriapeixoto@example.com,+55 46 7206-4157,9302.0,351.0,1.0,Águas Claras,Casa,2026-07-12
+CLI-50628,Maria Luiza Câmara,ferreiratheo@example.net,16 1754-8088,5661.0,812.0,0.0,Ceilândia,Apartamento,2026-06-24
+CLI-50629,Ana Laura Costela,hrodrigues@example.net,+55 51 8355-6762,13991.0,651.0,0.0,Guará,Casa,2026-01-13
+CLI-50630,Noah Sá,acasa-grande@example.net,+55 33 5025-0421,4506.0,377.0,1.0,Taguatinga,Apartamento,2025-10-12
+CLI-50631,Maria Alice Teixeira,pietroborges@example.net,+55 34 3566-7760,5111.0,388.0,1.0,Taguatinga,Casa,2025-11-13
+CLI-50632,,montenegrobrayan@example.org,45 9094-4605,7987.0,701.0,0.0,Águas Claras,Apartamento,2026-07-16
+CLI-50633,,yago62@example.net,74 5147-6957,8678.0,,0.0,Guará,Casa,2026-07-09
+CLI-50634,Isabella Sales,vgarcia@example.net,+55 61 4267-3828,8111.0,669.0,0.0,Águas Claras,Casa,2026-04-05
+CLI-50635,Emilly Sampaio,znogueira@example.org,+55 99 2819-3326,9751.0,876.0,0.0,Jardim Botânico,Apartamento,
+CLI-50636,Aylla Gomes,tmachado@example.org,,8844.0,345.0,1.0,Águas Claras,Apartamento,2026-04-04
+CLI-50637,,maria-luisacorreia@example.org,83 9284-0265,4928.0,537.0,0.0,Samambaia,Casa,2026-09-14
+CLI-50638,Gael Henrique Pimenta,,+55 53 0951-7175,4594.0,395.0,,Valparaíso de Goiás,Casa,2025-10-22
+CLI-50639,Dr. Yuri Rodrigues,lunnaaraujo@example.net,+55 82 2602-0386,3857.0,507.0,0.0,Ceilândia,Casa,2025-10-06
+CLI-50640,Yuri Guerra,da-pazmaria-clara@example.org,73 2688-8776,20842.0,346.0,1.0,Asa Norte,Apartamento,2026-05-06
+CLI-50641,Enzo Gabriel Cunha,caua34@example.net,+55 13 2295-4284,,731.0,0.0,Ceilândia,Apartamento,2026-06-30
+CLI-50642,Isaque Pinto,ravy63@example.org,0800 017 5190,4858.0,581.0,0.0,Taguatinga,Apartamento,2026-03-03
+CLI-50643,Julia Nunes,bmarques@example.net,0500 938 1467,16867.0,321.0,0.0,Noroeste,Apartamento,2026-03-28
+CLI-50644,João Pedro Cirino,rnogueira@example.org,95 1787-0233,5725.0,782.0,0.0,,Casa,2026-05-14
+CLI-50645,,lunacavalcanti@example.com,,12568.0,476.0,1.0,Guará,Casa,2025-10-18
+CLI-50646,Rafael Aparecida,aliceda-costa@example.net,+55 17 1334-4248,4278.0,846.0,0.0,,Casa,2025-12-06
+CLI-50647,Thomas Rodrigues,albuquerquekamilly@example.net,+55 33 1024-7537,11593.0,548.0,1.0,Águas Claras,Casa,2025-11-23
+CLI-50648,Dr. Ravi Rocha,almeidaaugusto@example.net,+55 69 0222-4041,4074.0,419.0,1.0,,Apartamento,2025-12-27
+CLI-50649,Ryan Casa Grande,alvesmaria-luiza@example.com,64 2270-9819,3384.0,,1.0,Taguatinga,,2026-08-04
+CLI-50650,Luna Câmara,bfogaca@example.org,15 0228-5474,6477.0,966.0,0.0,Samambaia,Apartamento,2026-04-05
+CLI-50651,Maitê Nascimento,luannunes@example.org,89 5186-6079,4785.0,,1.0,Ceilândia,Apartamento,2026-07-18
+CLI-50652,Hellena Oliveira,theodoro54@example.net,+55 64 3504-0806,7889.0,920.0,0.0,Jardim Botânico,Casa,2026-07-01
+CLI-50653,Anna Liz Melo,goncalvesrael@example.org,0500 007 6783,6287.0,754.0,0.0,Valparaíso de Goiás,Apartamento,2026-02-17
+CLI-50654,Eloá Moraes,nina07@example.com,14 4559-5858,3134.0,942.0,0.0,Valparaíso de Goiás,Casa,2026-01-23
+CLI-50655,Isaac da Costa,pietrasantos@example.com,+55 89 0218-0068,5912.0,384.0,1.0,Águas Lindas de Goiás,Casa,2025-11-22
+CLI-50656,Levi Fernandes,sabrina80@example.org,93 4948-0383,12235.0,739.0,0.0,Jardim Botânico,Apartamento,2026-02-17
+CLI-50657,Dra. Ana Julia Carvalho,breno96@example.net,+55 42 5236-3037,3593.0,667.0,0.0,Valparaíso de Goiás,Casa,2026-03-05
+CLI-50658,Sra. Ana Julia Mendes,domaparecida@example.com,,16541.0,865.0,0.0,Asa Norte,Apartamento,2026-05-28
+CLI-50659,Anna Liz Barbosa,,+55 33 7783-9949,,,1.0,Guará,Apartamento,2026-05-02
+CLI-50660,Asafe Cavalcanti,imontenegro@example.net,+55 45 3285-8511,6812.0,611.0,0.0,Valparaíso de Goiás,Casa,2025-10-25
+CLI-50661,,guerraesther@example.net,+55 71 7147-9998,39325.0,641.0,0.0,Asa Norte,Apartamento,2026-07-12
+CLI-50662,Natália Caldeira,riosvalentina@example.com,14 9815-3518,12475.0,962.0,0.0,,Casa,2025-10-23
+CLI-50663,Yasmin Dias,freitassophie@example.org,24 2602-6904,6332.0,676.0,,Samambaia,Apartamento,2026-01-04
+CLI-50664,Mariane Correia,rael04@example.com,63 3483-7988,5050.0,915.0,0.0,Taguatinga,,2026-08-15
+CLI-50665,Rael Cassiano,portotheo@example.com,0900 420 9423,43646.0,494.0,1.0,Asa Norte,Casa,2025-11-12
+CLI-50666,José Jesus,calebe39@example.net,91 8458-6422,6983.0,456.0,1.0,Valparaíso de Goiás,Apartamento,2026-08-02
+CLI-50667,Luara Sousa,mirellada-conceicao@example.org,+55 99 0461-9291,6536.0,585.0,0.0,Samambaia,Apartamento,2026-01-01
+CLI-50668,Sr. Pedro Peixoto,jpires@example.org,,10889.0,329.0,0.0,Águas Claras,Casa,2025-11-25
+CLI-50669,Sr. Paulo Gonçalves,ana-sophia61@example.com,+55 18 2218-9270,,577.0,0.0,Sudoeste / Octogonal,Apartamento,2025-11-13
+CLI-50670,Srta. Isis Câmara,,69 8156-0497,17359.0,851.0,0.0,Sudoeste / Octogonal,Casa,2025-10-25
+CLI-50671,Danilo Nogueira,antonellamelo@example.com,+55 15 2723-9278,10199.0,762.0,0.0,Guará,Apartamento,2026-05-29
+CLI-50672,Catarina Almeida,ana-liz10@example.net,,12590.0,562.0,0.0,Guará,Casa,
+CLI-50673,,novaisnicolas@example.com,71 3129-0648,12508.0,482.0,0.0,Guará,,2026-09-10
+CLI-50674,Luiz Gustavo Carvalho,ana-ceciliacunha@example.org,97 5057-2742,10697.0,796.0,,Guará,Apartamento,
+CLI-50675,Davi Lucca Ramos,anacasa-grande@example.net,,5652.0,912.0,0.0,Valparaíso de Goiás,Apartamento,2026-03-20
+CLI-50676,Lavínia Novaes,garciavinicius@example.org,85 4111-1787,6798.0,329.0,1.0,Samambaia,Casa,2026-05-15
+CLI-50677,Sr. Rhavi Almeida,antonio34@example.org,+55 73 2086-8097,24902.0,785.0,0.0,Asa Norte,Apartamento,2026-04-19
+CLI-50678,Allana Vieira,emilly73@example.org,,7497.0,787.0,0.0,Jardim Botânico,Apartamento,2026-03-27
+CLI-50679,Yuri Porto,hrezende@example.com,+55 55 5212-9173,5293.0,618.0,0.0,Samambaia,Apartamento,2026-01-01
+CLI-50680,Leandro Nascimento,da-rosatheo@example.com,+55 44 7330-6385,19051.0,755.0,0.0,Sudoeste / Octogonal,Casa,2026-06-02
+CLI-50681,Maria Flor Gomes,francisco23@example.org,19 5184-6435,5378.0,559.0,0.0,Ceilândia,Casa,2026-06-05
+CLI-50682,Maria Cavalcanti,lunnafogaca@example.net,+55 55 6225-0858,43232.0,831.0,0.0,Sudoeste / Octogonal,Casa,2026-02-10
+CLI-50683,João Lucas Andrade,leandro16@example.net,92 8938-2178,,560.0,0.0,Guará,Apartamento,2026-01-21
+CLI-50684,Luigi Camargo,,73 0066-1130,3578.0,593.0,0.0,Samambaia,,
+CLI-50685,Ana Clara Brito,erick75@example.org,+55 43 4129-8389,5585.0,622.0,0.0,Taguatinga,Casa,2026-05-01
+CLI-50686,Julia Vargas,alexandre63@example.org,,14533.0,325.0,1.0,Águas Claras,Apartamento,2026-05-04
+CLI-50687,João Lucas Dias,eduardomachado@example.org,+55 81 3879-4138,35805.0,475.0,,Asa Sul,Casa,2026-03-18
+CLI-50688,Antônio Rodrigues,kduarte@example.com,65 7530-0164,5562.0,784.0,0.0,Valparaíso de Goiás,Apartamento,2026-07-05
+CLI-50689,Ana Sophia da Paz,sousajoao-guilherme@example.org,+55 68 9351-7689,3680.0,926.0,0.0,Samambaia,Apartamento,2026-04-14
+CLI-50690,Enzo Gabriel Azevedo,ufonseca@example.com,46 1315-9435,9774.0,922.0,0.0,Guará,Apartamento,2026-09-19
+CLI-50691,Ayla Duarte,moraestheo@example.net,+55 65 1314-8256,4927.0,403.0,1.0,Samambaia,Casa,2026-09-05
+CLI-50692,Ravy Costela,valentina49@example.com,+55 69 1276-1681,,673.0,0.0,Águas Lindas de Goiás,,
+CLI-50693,João Guilherme Viana,cavalcantemateus@example.com,+55 86 8130-1203,29099.0,828.0,0.0,Lago Sul,Apartamento,2026-06-17
+CLI-50694,,efarias@example.net,+55 48 6651-9715,12827.0,608.0,0.0,Guará,Apartamento,2025-10-27
+CLI-50695,Luiza Macedo,thomasmachado@example.com,,3927.0,553.0,0.0,Ceilândia,,2026-09-07
+CLI-50696,Dra. Julia Cardoso,hellenasiqueira@example.com,83 4328-6752,9082.0,656.0,0.0,Águas Claras,Apartamento,2026-09-21
+CLI-50697,Dr. Emanuel Alves,efernandes@example.org,+55 38 1271-5912,8853.0,926.0,,Guará,,2026-04-07
+CLI-50698,Otto Pastor,lmontenegro@example.com,48 5693-5156,14674.0,972.0,0.0,Águas Claras,Casa,2026-01-22
+CLI-50699,Vinicius Pereira,garciamirella@example.com,75 5749-4121,4931.0,346.0,0.0,Samambaia,Casa,2026-01-20
+CLI-50700,Enrico Melo,apollo23@example.net,+55 18 6399-7426,9016.0,992.0,1.0,Jardim Botânico,Apartamento,2026-01-02
+CLI-50701,Antony Abreu,gabriellypimenta@example.org,32 6095-4658,6066.0,634.0,0.0,Ceilândia,Casa,2026-08-01
+CLI-50702,Vitor Cavalcanti,ayllagomes@example.net,67 5782-3514,5476.0,372.0,1.0,Ceilândia,Casa,2026-06-17
+CLI-50703,Eduarda da Mata,nda-mota@example.net,+55 12 8063-2222,3203.0,,,Ceilândia,Casa,2026-03-02
+CLI-50704,Pedro Henrique da Mata,stephany76@example.org,11 4065-0080,3129.0,422.0,1.0,Valparaíso de Goiás,Apartamento,2026-03-10
+CLI-50705,Dra. Maysa da Rocha,brayanpereira@example.net,82 1080-2167,14803.0,708.0,0.0,Guará,Apartamento,2026-05-13
+CLI-50706,Melina Jesus,abreujulia@example.com,+55 41 8387-5419,6166.0,993.0,0.0,Valparaíso de Goiás,Apartamento,2026-07-25
+CLI-50707,Davi Luiz Fogaça,das-nevesemanuel@example.com,+55 46 7601-5861,5871.0,884.0,0.0,Águas Lindas de Goiás,Apartamento,2025-11-19
+CLI-50708,Mirella Marques,pedro-henrique85@example.com,+55 63 7278-9885,33283.0,904.0,0.0,Sudoeste / Octogonal,Apartamento,2025-11-03
+CLI-50709,Calebe Sá,pimentafernando@example.net,+55 13 3964-1167,26461.0,759.0,0.0,Lago Norte,Apartamento,2025-11-26
+CLI-50710,Sofia Nunes,caldeiraisadora@example.net,+55 31 4066-0342,5957.0,369.0,1.0,Valparaíso de Goiás,Apartamento,2026-08-09
+CLI-50711,Isabel Peixoto,ana-ceciliacassiano@example.net,+55 66 9426-3998,8297.0,649.0,0.0,Jardim Botânico,Apartamento,
+CLI-50712,André Casa Grande,anthony-gabrielda-mata@example.com,86 4123-5437,13369.0,551.0,0.0,Guará,Casa,2026-06-13
+CLI-50713,Luiz Gustavo Barros,silveiravinicius@example.net,,44931.0,349.0,1.0,Asa Sul,,2025-10-31
+CLI-50714,Sophia Sousa,bfernandes@example.net,21 6042-4528,12757.0,912.0,0.0,Águas Claras,Casa,2026-01-06
+CLI-50715,Ana Lívia Rezende,rioslara@example.net,+55 46 0630-1082,7717.0,602.0,0.0,Guará,Apartamento,2026-06-11
+CLI-50716,André Almeida,valentimda-rocha@example.net,49 8651-2773,7964.0,459.0,0.0,Jardim Botânico,Apartamento,2026-05-15
+CLI-50717,Marina Correia,maria-luizadias@example.net,,6155.0,300.0,0.0,Samambaia,Apartamento,2026-01-13
+CLI-50718,Dom Silveira,zoeguerra@example.com,+55 65 9714-3100,5727.0,374.0,0.0,Águas Lindas de Goiás,Casa,2026-09-12
+CLI-50719,Isis Nascimento,santosguilherme@example.net,34 5447-3393,43518.0,304.0,1.0,Sudoeste / Octogonal,Casa,2025-11-01
+CLI-50720,Maria Cecília Rios,camaraana-liz@example.net,15 7244-7079,,875.0,0.0,Guará,Casa,2026-08-18
+CLI-50721,Eloah Sousa,almeidalaura@example.net,37 7149-9832,9840.0,727.0,0.0,Águas Claras,Casa,2025-10-16
+CLI-50722,,ncunha@example.org,,3866.0,831.0,0.0,Taguatinga,Apartamento,2026-03-06
+CLI-50723,Pedro Henrique Pires,cassianopedro-lucas@example.org,+55 12 4680-5017,14204.0,592.0,1.0,Jardim Botânico,Casa,2025-09-28
+CLI-50724,Esther Pinto,luanada-cunha@example.org,+55 67 4026-6526,4898.0,985.0,0.0,Samambaia,Casa,2026-02-07
+CLI-50725,Melina Melo,xgoncalves@example.net,+55 41 5038-3323,9265.0,746.0,0.0,Jardim Botânico,Casa,2026-02-20
+CLI-50726,Carlos Eduardo Farias,esthergarcia@example.net,64 2372-0622,36528.0,483.0,1.0,Lago Sul,Casa,2025-12-05
+CLI-50727,,dpereira@example.com,98 5379-4919,7907.0,882.0,0.0,Águas Claras,Apartamento,2025-11-28
+CLI-50728,,qdias@example.com,+55 89 0964-1843,,350.0,1.0,,Casa,2026-04-20
+CLI-50729,Dom Monteiro,bmonteiro@example.net,+55 31 9768-6288,5517.0,834.0,0.0,Taguatinga,Apartamento,
+CLI-50730,Maria Vitória Viana,thomas50@example.net,+55 34 2223-2077,9033.0,422.0,0.0,Águas Claras,Casa,2026-06-27
+CLI-50731,Esther Alves,usantos@example.com,+55 63 0799-4351,12619.0,589.0,0.0,,Apartamento,2026-09-11
+CLI-50732,Benício Mendes,davi34@example.net,+55 84 6220-6254,11777.0,821.0,,Guará,Apartamento,2026-06-30
+CLI-50733,Maria Fernanda Ribeiro,rodrigo68@example.com,43 6754-4918,6941.0,941.0,0.0,Valparaíso de Goiás,Casa,2025-12-17
+CLI-50734,Kevin Ramos,rebeca50@example.net,66 5496-0684,6252.0,474.0,0.0,Taguatinga,Casa,2026-09-01
+CLI-50735,Sabrina Gomes,rafaela42@example.com,+55 49 1147-4648,,538.0,0.0,Taguatinga,Apartamento,2025-10-28
+CLI-50736,,alicia68@example.org,33 7068-7470,11724.0,805.0,0.0,Jardim Botânico,Casa,2026-06-20
+CLI-50737,Bernardo Vasconcelos,nsiqueira@example.com,27 1434-8622,4496.0,672.0,0.0,Ceilândia,Casa,2026-06-30
+CLI-50738,Sophie da Mata,isaac57@example.com,63 3615-0885,4145.0,486.0,1.0,Valparaíso de Goiás,Casa,2026-06-18
+CLI-50739,Yasmin Farias,rochaolivia@example.com,+55 47 0569-6489,14987.0,,0.0,Jardim Botânico,Casa,2026-03-27
+CLI-50740,Emilly da Mota,,51 6951-0674,6978.0,691.0,0.0,Samambaia,,2026-09-10
+CLI-50741,Ana Liz da Conceição,lucas-gabrielcastro@example.org,35 7705-6902,9360.0,894.0,0.0,Jardim Botânico,Casa,2026-04-09
+CLI-50742,Arthur Lima,maria-cecilia43@example.net,51 0421-4779,3532.0,571.0,0.0,Taguatinga,Apartamento,
+CLI-50743,,maria-helenabarros@example.org,61 2585-0056,18692.0,763.0,0.0,Noroeste,,2026-06-07
+CLI-50744,Vinícius Rios,castrogael@example.com,+55 42 4462-2610,5727.0,688.0,1.0,Valparaíso de Goiás,Casa,2026-07-22
+CLI-50745,Enzo Gabriel Dias,lopesdavi@example.com,+55 98 6135-3845,4343.0,312.0,0.0,Samambaia,Apartamento,
+CLI-50746,Kamilly Ribeiro,vitoriamelo@example.net,+55 61 3832-1218,25215.0,379.0,1.0,Lago Sul,Casa,2026-08-25
+CLI-50747,Manuella Guerra,theojesus@example.net,+55 65 2392-0607,6525.0,580.0,0.0,Samambaia,Apartamento,2025-10-22
+CLI-50748,Stella Cavalcante,emanuellaguerra@example.com,27 6981-7753,13005.0,868.0,0.0,Jardim Botânico,Apartamento,
+CLI-50749,Léo Montenegro,zrodrigues@example.org,12 8394-9515,36354.0,684.0,0.0,Lago Sul,Casa,
+CLI-50750,Davi Luiz Camargo,fernanda79@example.org,+55 91 2071-0763,9946.0,428.0,1.0,Guará,Apartamento,2026-01-15
+CLI-50751,Dr. Vinicius Porto,maria-fernanda89@example.net,84 8981-7521,6336.0,945.0,0.0,Valparaíso de Goiás,Apartamento,2026-04-23
+CLI-50752,Oliver Abreu,cbarbosa@example.com,81 3593-0929,21558.0,721.0,0.0,Noroeste,Apartamento,2026-07-12
+CLI-50753,Dante Costela,julianasilva@example.com,97 6482-4920,6157.0,366.0,1.0,,Apartamento,2025-10-10
+CLI-50754,Caio Jesus,maria-vitoria13@example.org,32 4849-5814,5879.0,,0.0,Samambaia,Casa,2026-06-17
+CLI-50755,Theodoro Vasconcelos,guerraolivia@example.org,71 7175-6594,3379.0,526.0,0.0,Águas Lindas de Goiás,Apartamento,2026-02-01
+CLI-50756,Rafael Cavalcante,lizcarvalho@example.org,62 9627-9876,11347.0,391.0,1.0,Jardim Botânico,Apartamento,2025-09-29
+CLI-50757,Ágatha Melo,cirinojosue@example.com,61 7168-6698,14026.0,454.0,1.0,Guará,Casa,2026-03-13
+CLI-50758,Antonella Silva,enzoaraujo@example.net,+55 92 2863-9079,4861.0,526.0,0.0,,Apartamento,2026-04-09
+CLI-50759,Sr. Enzo Gabriel da Costa,portotheo@example.org,46 3844-9497,7198.0,642.0,0.0,,Apartamento,2025-10-29
+CLI-50760,Carlos Eduardo Barros,fnovais@example.org,+55 92 5001-5980,4279.0,619.0,0.0,Samambaia,Apartamento,2026-07-23
+CLI-50761,Eduarda Siqueira,diasbrenda@example.com,+55 13 7337-7831,4476.0,827.0,0.0,Valparaíso de Goiás,Casa,2026-06-06
+CLI-50762,Maria Liz Sá,mirella92@example.net,53 7449-5697,6382.0,541.0,,Taguatinga,Casa,2025-12-16
+CLI-50763,Benjamin Barbosa,aparecidatheodoro@example.org,+55 44 7654-1985,3729.0,,0.0,Taguatinga,Apartamento,2026-03-12
+CLI-50764,João Felipe Nogueira,da-rosalorena@example.net,21 9390-4294,11203.0,464.0,1.0,Jardim Botânico,,2025-10-13
+CLI-50765,Gabrielly Jesus,larasales@example.net,,3217.0,,,,Apartamento,2026-04-22
+CLI-50766,Srta. Ana Vitória Pastor,theoaraujo@example.org,62 9032-5554,10827.0,786.0,0.0,Jardim Botânico,Casa,2026-02-09
+CLI-50767,Carolina Machado,oliviamartins@example.com,+55 64 0671-0102,3418.0,824.0,0.0,Águas Lindas de Goiás,Casa,2026-08-21
+CLI-50768,Gustavo Farias,rafaelvieira@example.org,67 5487-4125,13503.0,403.0,1.0,Águas Claras,Apartamento,2026-08-07
+CLI-50769,Clara Pinto,nunescaue@example.net,45 0889-1956,17795.0,566.0,0.0,Asa Norte,Apartamento,2025-12-22
+CLI-50770,Sr. Dom Gonçalves,mathiascavalcante@example.net,+55 88 0381-9735,18621.0,526.0,0.0,Noroeste,Casa,
+CLI-50771,Bernardo Mendes,kamilly11@example.com,45 9914-0422,4960.0,,0.0,Valparaíso de Goiás,Apartamento,
+CLI-50772,Davi Luiz Melo,hnovaes@example.net,+55 92 7375-6516,11235.0,878.0,0.0,Águas Claras,Apartamento,2026-07-08
+CLI-50773,Sra. Bianca Mendonça,luigi36@example.com,+55 43 4154-8612,5258.0,549.0,0.0,Taguatinga,Apartamento,2026-08-27
+CLI-50774,Bárbara Rodrigues,mda-mota@example.org,+55 61 3306-8620,5509.0,435.0,1.0,Águas Lindas de Goiás,Apartamento,2025-11-28
+CLI-50775,Olívia Vargas,tcaldeira@example.com,+55 15 0693-4308,3638.0,745.0,0.0,Águas Lindas de Goiás,Casa,2026-08-04
+CLI-50776,Marcelo Machado,vieiradavi-luiz@example.org,84 8900-1913,6331.0,301.0,1.0,Ceilândia,Casa,2025-11-04
+CLI-50777,Arthur Gabriel Rios,garciamaria-isis@example.org,+55 19 4612-5145,11727.0,327.0,0.0,Jardim Botânico,Apartamento,2025-10-20
+CLI-50778,Sarah Carvalho,danilonovais@example.com,,14522.0,923.0,0.0,Guará,Apartamento,
+CLI-50779,Isabella Mendes,guerraantonella@example.net,16 9557-3647,4883.0,524.0,0.0,Taguatinga,Casa,2026-04-12
+CLI-50780,Ana Cecília Sousa,andre85@example.net,68 5792-6907,22800.0,416.0,1.0,Asa Sul,Casa,2026-04-02
+CLI-50781,Clara Almeida,leonardoda-cunha@example.net,+55 95 1674-6097,4596.0,,0.0,Taguatinga,Casa,2026-06-24
+CLI-50782,Sr. Daniel Correia,rafaelmoraes@example.org,0500 022 9264,6675.0,542.0,0.0,Ceilândia,Casa,2025-09-27
+CLI-50783,Lara Cavalcanti,aurora61@example.org,+55 96 3300-7887,13638.0,862.0,0.0,Guará,Casa,2026-06-30
+CLI-50784,Ana Beatriz Rodrigues,leonardonovais@example.net,+55 21 5117-8076,5695.0,455.0,0.0,Taguatinga,Apartamento,2025-12-31
+CLI-50785,Hadassa Caldeira,almeidapaulo@example.org,73 4973-2916,9836.0,595.0,0.0,Águas Claras,Casa,2025-12-11
+CLI-50786,Sr. Daniel Duarte,hcirino@example.com,22 6109-0449,36704.0,926.0,0.0,Lago Norte,Apartamento,2026-04-14
+CLI-50787,Catarina Sousa,henry-gabriel90@example.org,63 4817-4073,3109.0,678.0,0.0,Samambaia,Apartamento,2026-04-19
+CLI-50788,Rael da Cruz,cecilia94@example.org,+55 45 8932-5516,11797.0,926.0,0.0,Guará,Casa,2026-01-16
+CLI-50789,Benício Fogaça,scasa-grande@example.net,+55 41 2578-0052,5606.0,733.0,0.0,Ceilândia,Casa,
+CLI-50790,,davi-luccacardoso@example.com,82 1846-1049,3044.0,857.0,0.0,Águas Lindas de Goiás,Casa,2026-04-14
+CLI-50791,Asafe da Mota,silveiradiego@example.com,27 6254-2977,29429.0,303.0,0.0,Sudoeste / Octogonal,Apartamento,2026-01-02
+CLI-50792,Dr. João Lucas Lima,melissavasconcelos@example.net,+55 85 6451-7559,8104.0,810.0,0.0,Águas Claras,Apartamento,2026-05-25
+CLI-50793,Gabrielly Gomes,zbarbosa@example.com,+55 98 7223-5806,7951.0,773.0,0.0,Guará,Apartamento,2025-12-16
+CLI-50794,Dr. Henry Nunes,miguel54@example.com,61 8806-7173,6144.0,689.0,0.0,Águas Lindas de Goiás,Apartamento,2026-02-12
+CLI-50795,Henry Machado,pedro-miguel29@example.net,48 6899-9418,6331.0,944.0,0.0,Ceilândia,Apartamento,2026-07-06
+CLI-50796,Dr. Luigi Campos,gabrielbrito@example.net,11 8638-4991,13646.0,828.0,0.0,Jardim Botânico,Casa,2026-07-01
+CLI-50797,Luara Nogueira,novaesmarina@example.com,+55 21 0137-9338,,408.0,1.0,Taguatinga,Apartamento,2026-08-17
+CLI-50798,Anna Liz Caldeira,marquestheo@example.com,+55 14 9384-2901,4558.0,464.0,0.0,Valparaíso de Goiás,,2026-08-15
+CLI-50799,Vitor Peixoto,sara73@example.org,+55 85 9749-2700,5016.0,400.0,1.0,Taguatinga,Apartamento,2025-11-04
+CLI-50800,Cecília Castro,hferreira@example.org,86 9865-9028,15756.0,586.0,0.0,Sudoeste / Octogonal,Casa,2025-09-25
+CLI-50801,Letícia Camargo,bfonseca@example.net,+55 63 4262-4853,5722.0,459.0,1.0,Valparaíso de Goiás,Casa,
+CLI-50802,Matheus Abreu,ravibarros@example.net,+55 77 7455-8761,12748.0,744.0,0.0,Águas Claras,Apartamento,2026-01-27
+CLI-50803,Otto Albuquerque,camposluiz-fernando@example.com,+55 15 8503-9199,5784.0,804.0,0.0,Ceilândia,Apartamento,2025-09-28
+CLI-50804,Allana Sampaio,arthur-gabrielmartins@example.net,73 7152-0427,3742.0,368.0,0.0,Taguatinga,Casa,2026-01-24
+CLI-50805,Arthur Miguel Fogaça,vitoria43@example.net,+55 75 6358-3513,5455.0,751.0,0.0,Taguatinga,Apartamento,2025-12-19
+CLI-50806,Alexandre Pimenta,natalia17@example.org,+55 87 7953-1571,40890.0,549.0,0.0,Sudoeste / Octogonal,Casa,2026-05-10
+CLI-50807,Dra. Maria Liz Fonseca,pereirafelipe@example.net,73 1288-2467,37019.0,,0.0,Noroeste,Casa,2025-10-08
+CLI-50808,Rhavi Gonçalves,goncalvesgabriela@example.org,34 0399-4244,6124.0,430.0,1.0,Samambaia,,2025-12-02
+CLI-50809,Olivia Pastor,da-pazlara@example.org,+55 32 8893-4371,30219.0,667.0,0.0,Asa Norte,Casa,2026-04-13
+CLI-50810,Ayla Vasconcelos,gfernandes@example.com,21 3458-4491,7413.0,858.0,0.0,Jardim Botânico,Apartamento,2026-04-19
+CLI-50811,Maria Sophia Fonseca,mateus27@example.org,65 2372-3195,11830.0,724.0,0.0,Águas Claras,Apartamento,2026-09-23
+CLI-50812,Manuela Guerra,moraesarthur-miguel@example.org,,7830.0,,0.0,Águas Claras,Apartamento,2026-08-17
+CLI-50813,Maria Laura Novais,,28 6957-4782,,325.0,1.0,Ceilândia,,2026-04-14
+CLI-50814,Renan Correia,yan60@example.net,+55 94 5617-2341,4661.0,409.0,0.0,Ceilândia,,2026-09-07
+CLI-50815,Francisco Porto,brenda76@example.net,+55 98 8857-1127,,852.0,0.0,Lago Sul,Apartamento,2026-08-15
+CLI-50816,Natália Pastor,evelyn87@example.net,47 1936-4735,14508.0,969.0,0.0,Guará,Casa,2026-05-26
+CLI-50817,Juan da Paz,beniciovasconcelos@example.net,86 1399-2144,25781.0,855.0,0.0,Asa Norte,Apartamento,2026-01-07
+CLI-50818,Alice da Mata,allana61@example.org,+55 35 7656-0261,25525.0,423.0,0.0,Asa Norte,Apartamento,2026-05-31
+CLI-50819,,samuelda-mata@example.org,+55 87 1857-0818,40998.0,,1.0,Lago Sul,Casa,2026-03-03
+CLI-50820,Luiz Otávio Lima,irezende@example.net,+55 51 5040-8598,6391.0,853.0,0.0,Águas Lindas de Goiás,Casa,2026-07-23
+CLI-50821,Larissa Fernandes,naragao@example.org,+55 97 4266-0666,5916.0,740.0,0.0,Ceilândia,Casa,2025-10-21
+CLI-50822,Sr. Thiago Abreu,giovannapires@example.net,73 2169-7872,14015.0,454.0,1.0,Jardim Botânico,Casa,2026-07-21
+CLI-50823,Sophia da Paz,zoearaujo@example.net,33 0502-6949,10893.0,983.0,1.0,Jardim Botânico,Casa,2026-07-25
+CLI-50824,Ravi Albuquerque,barbara36@example.com,63 7941-8578,14877.0,676.0,0.0,Guará,Apartamento,2025-10-20
+CLI-50825,Srta. Lara da Mata,arthurteixeira@example.com,77 5632-9673,,729.0,1.0,Valparaíso de Goiás,Casa,2025-12-07
+CLI-50826,Rael da Mata,luiz-gustavo89@example.net,+55 53 2521-5790,,501.0,0.0,Jardim Botânico,Casa,2026-02-17
+CLI-50827,Mirella Monteiro,peixotonathan@example.com,+55 22 7247-3533,10970.0,,0.0,Águas Claras,Casa,2026-01-26
+CLI-50828,Maya da Cruz,cabreu@example.com,71 9717-1063,17220.0,323.0,1.0,Lago Sul,Apartamento,2026-04-19
+CLI-50829,Fernanda Fogaça,tda-luz@example.com,,5125.0,719.0,0.0,,Apartamento,2026-08-29
+CLI-50830,Fernando Cardoso,enzoramos@example.net,88 9105-0336,26730.0,838.0,0.0,Asa Sul,Apartamento,2025-09-29
+CLI-50831,Mariah Gomes,da-rosamarina@example.org,64 1266-3901,9602.0,383.0,1.0,Guará,Apartamento,
+CLI-50832,Lucca Sá,bvargas@example.net,35 0752-0483,8396.0,439.0,,Águas Claras,Casa,2026-09-08
+CLI-50833,Gael Siqueira,,+55 55 0142-9923,8532.0,948.0,0.0,Guará,Apartamento,2026-07-24
+CLI-50834,Stephany Silveira,joaquimpastor@example.com,+55 17 6685-5328,16060.0,,0.0,Asa Sul,Casa,2025-12-05
+CLI-50835,João Vitor da Paz,marcos-viniciusfreitas@example.org,+55 69 2044-7816,3526.0,627.0,0.0,Samambaia,Apartamento,2026-03-13
+CLI-50836,Isaac Nunes,salesluana@example.org,+55 51 1959-3018,14099.0,504.0,0.0,Guará,Apartamento,2025-11-24
+CLI-50837,Letícia da Paz,da-pazliam@example.org,+55 66 4963-1345,14542.0,745.0,0.0,Guará,Apartamento,2026-09-22
+CLI-50838,Sr. Ryan Aragão,ana-clarateixeira@example.net,,11203.0,598.0,0.0,Jardim Botânico,Apartamento,2026-02-17
+CLI-50839,Théo Cavalcante,cassianoenrico@example.com,+55 48 1698-1842,4563.0,541.0,0.0,Ceilândia,Casa,2026-06-22
+CLI-50840,André das Neves,lizrios@example.net,,4288.0,,0.0,Samambaia,Casa,2026-03-14
+CLI-50841,Ryan Almeida,carvalhoisis@example.net,18 0618-0628,9253.0,497.0,1.0,Jardim Botânico,Apartamento,2026-07-27
+CLI-50842,Luan Cirino,pedro-henriquebrito@example.org,55 8510-2608,6076.0,998.0,0.0,Samambaia,Casa,2025-10-21
+CLI-50843,Bryan Novais,lucca86@example.net,+55 68 2083-9883,13779.0,948.0,0.0,Jardim Botânico,Apartamento,2026-05-11
+CLI-50844,Hadassa da Luz,nicoleandrade@example.org,91 5826-1930,13693.0,885.0,0.0,Jardim Botânico,Apartamento,2025-12-07
+CLI-50845,Joana Pacheco,,+55 88 3282-3327,5275.0,591.0,0.0,Valparaíso de Goiás,Casa,2026-03-08
+CLI-50846,Pedro Peixoto,mgarcia@example.com,+55 93 5729-7579,3132.0,,0.0,Taguatinga,Apartamento,2025-10-19
+CLI-50847,Joaquim Pires,beatrizoliveira@example.org,+55 32 6350-3118,5423.0,,0.0,Valparaíso de Goiás,Casa,2025-12-25
+CLI-50848,Srta. Olívia Jesus,moreiraisaac@example.org,64 7113-3393,20950.0,960.0,,Noroeste,,2025-11-12
+CLI-50849,Alexandre Mendes,joao-lucasmoraes@example.net,+55 96 9689-8953,12202.0,493.0,1.0,Jardim Botânico,Casa,2026-02-25
+CLI-50850,Mathias Vasconcelos,tvargas@example.org,+55 14 1138-5618,6821.0,796.0,0.0,Valparaíso de Goiás,Casa,2026-05-01
+CLI-50851,Mathias Ribeiro,nicolas86@example.org,85 9804-9931,12708.0,458.0,1.0,Guará,Apartamento,2025-12-10
+CLI-50852,Lívia Viana,sabrinasousa@example.net,+55 14 1343-3641,5693.0,689.0,0.0,Samambaia,Casa,2026-02-18
+CLI-50853,Ana Liz Gomes,paulorios@example.org,43 8619-0717,13122.0,997.0,,Guará,Casa,2026-02-07
+CLI-50854,Maria Julia Carvalho,sophiaandrade@example.com,+55 46 1910-5910,38534.0,808.0,0.0,Asa Sul,Apartamento,2026-07-24
+CLI-50855,Ísis Cavalcanti,wsilva@example.com,+55 53 1840-2790,5869.0,848.0,0.0,Águas Lindas de Goiás,Casa,2025-12-15
+CLI-50856,Ravi Lucca Sá,lopesmariah@example.com,+55 21 2657-5446,3274.0,989.0,0.0,Ceilândia,Casa,2026-04-07
+CLI-50857,Luana Oliveira,da-motarael@example.net,+55 27 5791-5334,14070.0,,0.0,Águas Claras,Apartamento,2025-11-26
+CLI-50858,Maria Helena Rezende,aurora93@example.net,+55 77 6002-6140,4406.0,783.0,0.0,Ceilândia,Casa,2026-05-31
+CLI-50859,Olivia Novais,silveiramaria-julia@example.com,+55 68 6623-4067,13657.0,802.0,0.0,Jardim Botânico,Apartamento,2026-09-19
+CLI-50860,Sra. Eduarda Caldeira,vitor-hugomoreira@example.com,82 9377-5102,3329.0,515.0,0.0,Valparaíso de Goiás,Casa,2026-08-14
+CLI-50861,Guilherme Castro,omacedo@example.net,+55 96 2362-4644,36625.0,905.0,0.0,Asa Norte,Casa,2026-08-09
+CLI-50862,Lorena Vieira,luiz-fernando50@example.net,+55 97 4303-8505,9761.0,847.0,0.0,Águas Claras,Casa,
+CLI-50863,,gomescecilia@example.net,+55 33 4604-3850,3700.0,841.0,0.0,Valparaíso de Goiás,Apartamento,2025-12-16
+CLI-50864,Sra. Maria Flor Teixeira,luiz-fernandonascimento@example.com,73 8396-0004,3438.0,,0.0,Samambaia,Apartamento,2025-10-05
+CLI-50865,Valentim Souza,luiz-miguel03@example.com,+55 15 2519-1781,3068.0,598.0,0.0,Águas Lindas de Goiás,Casa,2026-07-16
+CLI-50866,Ana Lívia Cardoso,nmendonca@example.org,+55 17 2707-4901,3444.0,862.0,0.0,Águas Lindas de Goiás,Apartamento,
+CLI-50867,Valentim Azevedo,dom92@example.com,+55 87 1232-0993,,422.0,0.0,Jardim Botânico,Apartamento,2026-01-02
+CLI-50868,Elisa Silva,ssampaio@example.org,31 2442-4102,6130.0,993.0,0.0,Ceilândia,Casa,2026-02-21
+CLI-50869,Vitor Silva,aurora13@example.org,88 4409-1965,3476.0,790.0,0.0,Taguatinga,Casa,2026-02-05
+CLI-50870,Aylla Cunha,clarice27@example.com,+55 32 7326-6378,8728.0,464.0,0.0,Águas Claras,Casa,2025-12-13
+CLI-50871,Gabriel Costa,jandrade@example.net,+55 71 2066-7097,5971.0,804.0,,Ceilândia,Apartamento,2025-11-21
+CLI-50872,Isaque Oliveira,luiz-miguelfonseca@example.net,77 6357-0410,5700.0,368.0,1.0,Samambaia,Apartamento,2025-12-24
+CLI-50873,Luana Ramos,luigi34@example.net,63 3618-3193,12729.0,347.0,1.0,Jardim Botânico,Apartamento,2025-11-10
+CLI-50874,Bruno Ramos,maria-luiza76@example.com,81 0392-9702,3645.0,983.0,0.0,Samambaia,,2026-09-01
+CLI-50875,Sr. Valentim Rocha,salmeida@example.org,+55 97 6124-9588,29120.0,448.0,1.0,,Apartamento,2026-03-04
+CLI-50876,Dr. Pedro Henrique Mendonça,tramos@example.net,,10291.0,847.0,0.0,Guará,Apartamento,
+CLI-50877,,da-conceicaobernardo@example.net,85 3085-9926,6406.0,686.0,0.0,Samambaia,Casa,2025-10-26
+CLI-50878,Alícia Machado,gustavo48@example.com,+55 75 2163-1792,18377.0,601.0,0.0,Lago Sul,Apartamento,2025-12-02
+CLI-50879,Ravi Lucca Carvalho,fonsecaravi@example.com,45 2036-0393,4373.0,357.0,1.0,,Casa,2025-10-04
+CLI-50880,Zoe Teixeira,rezendeeduarda@example.org,53 7729-7538,9152.0,453.0,0.0,Águas Claras,Apartamento,2025-11-27
+CLI-50881,Catarina Aparecida,julianacardoso@example.org,75 3606-6188,3596.0,941.0,1.0,Samambaia,Casa,2026-01-21
+CLI-50882,Thiago Jesus,frios@example.net,15 0758-8199,7687.0,660.0,1.0,Guará,Apartamento,2026-06-28
+CLI-50883,Ana Carolina da Luz,lucca73@example.com,+55 51 2310-2281,34046.0,328.0,1.0,Lago Norte,Apartamento,2026-09-16
+CLI-50884,Isabel Rezende,gabriela37@example.net,32 0482-6267,10741.0,853.0,0.0,,Casa,2026-07-22
+CLI-50885,Gael Henrique da Mota,irios@example.org,+55 38 0902-3831,7775.0,793.0,0.0,Águas Claras,Casa,2025-12-11
+CLI-50886,Isabela Campos,thales58@example.org,91 6270-7777,,479.0,1.0,Taguatinga,,2026-01-07
+CLI-50887,Lorenzo Machado,edias@example.org,+55 61 5764-8651,4343.0,766.0,0.0,Samambaia,Apartamento,2026-06-27
+CLI-50888,Henry Gabriel Viana,goncalvesravi-lucca@example.net,86 3472-2520,5249.0,967.0,0.0,Valparaíso de Goiás,Apartamento,2025-10-03
+CLI-50889,Luiza Ramos,yan47@example.org,+55 96 6952-3883,37440.0,644.0,0.0,Sudoeste / Octogonal,Casa,2026-07-14
+CLI-50890,Yan Barbosa,pietragarcia@example.net,+55 73 3817-0381,19874.0,800.0,0.0,Sudoeste / Octogonal,Casa,2025-11-21
+CLI-50891,Cecília Castro,ana-vitoria88@example.com,82 9237-5712,7751.0,889.0,0.0,Águas Claras,Casa,2025-12-02
+CLI-50892,Dr. Calebe Vargas,qcampos@example.org,+55 28 3833-3078,3374.0,646.0,0.0,Águas Lindas de Goiás,Apartamento,2026-07-14
+CLI-50893,Murilo da Luz,iteixeira@example.com,+55 24 5461-0200,5141.0,382.0,1.0,Samambaia,Casa,2025-12-02
+CLI-50894,Nicole Lima,arthur-miguelcavalcanti@example.net,53 9367-2167,6238.0,385.0,1.0,Ceilândia,Casa,2026-05-20
+CLI-50895,Hadassa Aparecida,joao-miguelaparecida@example.com,+55 38 8627-7991,5010.0,841.0,0.0,Samambaia,Apartamento,
+CLI-50896,Sr. Bryan Almeida,ana-luizapinto@example.net,67 8883-7704,6544.0,791.0,0.0,Taguatinga,Apartamento,2026-06-05
+CLI-50897,João Pedro Albuquerque,ester76@example.org,+55 55 8657-4854,4744.0,789.0,0.0,Ceilândia,Apartamento,2026-03-07
+CLI-50898,Sr. Vitor Hugo Rocha,tpeixoto@example.com,84 0678-2486,14077.0,680.0,0.0,Guará,Casa,2025-10-07
+CLI-50899,José Miguel Aragão,rodriguesluan@example.org,,8794.0,596.0,0.0,Guará,Casa,2026-06-21
+CLI-50900,Maysa Porto,dbarbosa@example.net,+55 79 7744-7766,13336.0,348.0,1.0,Jardim Botânico,Casa,2026-05-02
+CLI-50901,Liz da Costa,zporto@example.net,19 4674-2768,13281.0,709.0,0.0,Jardim Botânico,Apartamento,
+CLI-50902,Ana Sophia da Rocha,smacedo@example.net,+55 42 4148-4303,,669.0,0.0,Valparaíso de Goiás,Casa,2025-10-04
+CLI-50903,Dr. Ravi da Mota,arthur66@example.com,+55 95 6580-9800,6249.0,,1.0,Valparaíso de Goiás,Apartamento,2026-05-04
+CLI-50904,Clarice Garcia,onogueira@example.net,+55 47 9402-5837,4563.0,747.0,0.0,Valparaíso de Goiás,Casa,2026-06-04
+CLI-50905,Enzo Dias,mathiasdias@example.com,22 8420-4530,4605.0,837.0,0.0,Valparaíso de Goiás,Casa,
+CLI-50906,Anna Liz Sampaio,yagoleao@example.com,+55 44 7801-4856,10409.0,363.0,1.0,Guará,Casa,2026-02-06
+CLI-50907,Sr. Gabriel Santos,alvestheo@example.com,+55 87 5901-8373,10866.0,503.0,0.0,Jardim Botânico,Casa,2026-05-29
+CLI-50908,Rhavi Souza,murilo37@example.net,+55 75 4844-2008,6159.0,325.0,1.0,,Casa,2026-04-29
+CLI-50909,Nicole Gomes,casa-grandelaura@example.net,+55 34 7030-9942,3006.0,573.0,0.0,Samambaia,Casa,2025-11-24
+CLI-50910,Dr. Vicente Araújo,fcarvalho@example.com,+55 97 1597-4478,5209.0,854.0,0.0,,Apartamento,2026-01-24
+CLI-50911,Daniela da Paz,leonardocirino@example.com,+55 77 4344-2340,7923.0,944.0,0.0,Jardim Botânico,Apartamento,2026-05-11
+CLI-50912,Alexia Lopes,opereira@example.net,14 0230-2576,5349.0,853.0,0.0,Valparaíso de Goiás,Apartamento,2026-07-15
+CLI-50913,Dr. Bryan da Mota,ana-julianogueira@example.com,49 9238-3245,,767.0,,Lago Sul,Apartamento,2026-03-07
+CLI-50914,Sr. Pedro Miguel da Paz,jose83@example.com,+55 86 0122-8235,7390.0,601.0,0.0,Guará,,2025-12-20
+CLI-50915,João Gabriel Cavalcante,,+55 69 1847-9987,9589.0,376.0,,Jardim Botânico,Casa,2025-12-03
+CLI-50916,Bruno Guerra,sophie27@example.org,+55 85 4797-6938,6938.0,698.0,,Ceilândia,Casa,2026-01-16
+CLI-50917,João Lucas Vieira,antony17@example.org,+55 17 8494-4234,8306.0,922.0,0.0,Águas Claras,,2026-07-28
+CLI-50918,Gustavo Duarte,bernardovieira@example.org,41 4640-2397,6911.0,462.0,1.0,Águas Lindas de Goiás,Apartamento,2026-01-01
+CLI-50919,Luiz Fernando Sá,,89 0294-5971,10712.0,984.0,1.0,Guará,Casa,
+CLI-50920,Oliver Vasconcelos,mcorreia@example.net,+55 44 9275-2439,3257.0,678.0,0.0,Valparaíso de Goiás,Apartamento,2026-01-02
+CLI-50921,Pedro Lucas Sales,kcunha@example.org,22 0327-1775,30687.0,585.0,0.0,Noroeste,Apartamento,2025-12-08
+CLI-50922,Benício Cirino,zdias@example.com,81 6434-3411,13485.0,594.0,0.0,Guará,Apartamento,2025-10-28
+CLI-50923,Maria Eduarda Carvalho,davi-luizfarias@example.com,+55 46 0836-0011,5184.0,573.0,0.0,Ceilândia,Casa,2026-04-23
+CLI-50924,Benjamin Cirino,apollo51@example.org,+55 87 9779-8963,17674.0,417.0,0.0,Lago Norte,Casa,2026-04-04
+CLI-50925,Luiz Miguel Machado,qandrade@example.com,41 5547-0829,8846.0,625.0,0.0,Jardim Botânico,Apartamento,2026-08-03
+CLI-50926,,anaramos@example.net,81 8784-6311,7831.0,402.0,1.0,Águas Claras,Apartamento,2026-04-26
+CLI-50927,Lívia Correia,gael-henriquecaldeira@example.net,+55 48 2732-9151,38875.0,799.0,0.0,Lago Norte,Apartamento,2025-10-01
+CLI-50928,Henry Ribeiro,,87 8115-4322,7272.0,401.0,0.0,Jardim Botânico,Apartamento,2026-04-12
+CLI-50929,Caroline Carvalho,albuquerquejoao@example.org,47 9042-2702,6342.0,741.0,0.0,Ceilândia,Apartamento,2025-10-18
+CLI-50930,Vinicius Nogueira,da-conceicaoana-luiza@example.org,11 6882-6954,23809.0,699.0,,Asa Sul,Apartamento,2026-04-13
+CLI-50931,Mariana da Paz,vianaleandro@example.org,33 3417-6582,,588.0,0.0,Ceilândia,Apartamento,2026-05-05
+CLI-50932,Melina Pimenta,qcirino@example.com,51 4239-2841,5752.0,415.0,0.0,Águas Lindas de Goiás,Apartamento,2026-04-18
+CLI-50933,Sr. Luiz Fernando Borges,gcirino@example.org,21 3490-5200,12830.0,387.0,1.0,Águas Claras,Apartamento,2026-07-08
+CLI-50934,Benjamim Cardoso,ulopes@example.org,+55 81 3557-4116,7295.0,847.0,0.0,,Apartamento,2025-11-08
+CLI-50935,Cecilia Fogaça,allana62@example.com,16 1809-0818,5411.0,457.0,1.0,Ceilândia,Apartamento,2025-10-01
+CLI-50936,Otto Pimenta,sabrina35@example.com,+55 15 3670-4561,5643.0,901.0,0.0,Ceilândia,Apartamento,2026-01-24
+CLI-50937,Pedro Lucas Viana,jose-miguel64@example.net,15 4209-8716,12932.0,943.0,0.0,Águas Claras,Casa,2026-09-16
+CLI-50938,,samuel98@example.net,55 2187-9398,3471.0,808.0,0.0,Águas Lindas de Goiás,Casa,2026-09-15
+CLI-50939,Helena Pereira,limacecilia@example.org,+55 14 1582-6053,43407.0,406.0,1.0,Sudoeste / Octogonal,Casa,2026-08-07
+CLI-50940,Ísis Ramos,ana-carolina50@example.com,12 8194-9702,12041.0,558.0,0.0,Águas Claras,Casa,2026-02-22
+CLI-50941,Amanda Fogaça,cauesampaio@example.com,89 5894-5504,23335.0,944.0,0.0,Lago Norte,Apartamento,2026-09-15
+CLI-50942,Sr. Noah Correia,henry-gabriel95@example.com,+55 18 1219-0502,13466.0,396.0,1.0,Jardim Botânico,Casa,2026-08-18
+CLI-50943,Bento Ribeiro,nathanpinto@example.net,89 1284-1937,6189.0,621.0,0.0,Águas Lindas de Goiás,,2026-08-21
+CLI-50944,Dra. Maria Isis Melo,esteralves@example.com,15 7880-0875,5905.0,626.0,0.0,Taguatinga,Apartamento,2025-10-06
+CLI-50945,Lucas Gabriel Siqueira,breno24@example.org,+55 92 3927-1194,8831.0,923.0,0.0,Guará,Casa,2025-10-06
+CLI-50946,Sra. Sara Casa Grande,marceloda-paz@example.net,0500 997 2901,4499.0,992.0,1.0,Taguatinga,Apartamento,2025-12-16
+CLI-50947,Maria da Mota,pintoagatha@example.org,+55 21 7628-5946,3011.0,992.0,0.0,Valparaíso de Goiás,Apartamento,2025-09-25
+CLI-50948,Isabelly Nascimento,helenapereira@example.org,+55 63 4799-0930,3396.0,997.0,0.0,Samambaia,Casa,2026-08-18
+CLI-50949,Yasmin Vieira,igor19@example.net,88 5184-6459,8089.0,393.0,,,Casa,2026-08-06
+CLI-50950,Fernando Correia,vpastor@example.com,+55 31 9363-2456,,863.0,0.0,,Apartamento,
+CLI-50951,Arthur Miguel Gonçalves,zpires@example.org,62 5232-4912,7696.0,439.0,1.0,Águas Claras,Apartamento,2026-01-09
+CLI-50952,Pedro Miguel Rios,lunaalbuquerque@example.net,0800 449 9506,3179.0,666.0,0.0,Águas Lindas de Goiás,Casa,2025-11-20
+CLI-50953,Ester da Costa,santosravi@example.org,+55 22 3871-4520,3277.0,706.0,0.0,Valparaíso de Goiás,,2026-05-01
+CLI-50954,Alice Lima,pereiraemanuel@example.net,,9480.0,781.0,0.0,Águas Claras,Apartamento,
+CLI-50955,Luiz Otávio Vargas,,+55 64 1761-6922,6681.0,817.0,0.0,Valparaíso de Goiás,Apartamento,2026-06-15
+CLI-50956,Luiz Gustavo Martins,beniciocosta@example.net,+55 85 1313-3704,14156.0,892.0,0.0,Águas Claras,Apartamento,2025-11-22
+CLI-50957,Elisa Lima,arthur-gabriel14@example.org,+55 95 5268-2270,4733.0,851.0,0.0,Taguatinga,Apartamento,2026-08-25
+CLI-50958,José da Cunha,julianaoliveira@example.net,+55 96 9844-3854,6734.0,479.0,0.0,Ceilândia,Casa,2025-10-11
+CLI-50959,,augusto54@example.org,+55 86 9175-1709,7666.0,629.0,0.0,Jardim Botânico,Apartamento,2026-06-18
+CLI-50960,Anthony Gabriel Oliveira,salesyasmin@example.net,+55 15 7724-6191,5325.0,457.0,0.0,Valparaíso de Goiás,Casa,2025-12-06
+CLI-50961,Eduardo Sales,xda-paz@example.net,41 0580-9962,13803.0,859.0,0.0,Águas Claras,Apartamento,2026-07-03
+CLI-50962,Renan Leão,,+55 77 9859-1824,11122.0,379.0,1.0,Águas Claras,,2025-11-19
+CLI-50963,Isabela Mendonça,joao-pedroleao@example.org,69 0161-4728,,723.0,0.0,Ceilândia,Casa,2026-09-07
+CLI-50964,Emilly Pires,ana-carolinanascimento@example.org,+55 81 5196-9971,6224.0,981.0,0.0,Ceilândia,Casa,2026-02-15
+CLI-50965,Clara Araújo,santosmatheus@example.com,+55 82 8739-6731,11278.0,783.0,0.0,Jardim Botânico,Apartamento,2026-09-02
+CLI-50966,Antony Câmara,gabrielly28@example.org,37 7650-1758,4493.0,954.0,0.0,Águas Lindas de Goiás,Apartamento,2025-09-29
+CLI-50967,Ester Camargo,vargaserick@example.org,+55 96 9072-0724,11717.0,491.0,1.0,Jardim Botânico,Casa,2025-10-30
+CLI-50968,Bernardo Sá,da-mataisis@example.net,+55 31 1358-6930,6200.0,664.0,0.0,Ceilândia,Apartamento,2025-09-28
+CLI-50969,Leonardo da Costa,fonsecasofia@example.com,,5929.0,350.0,,Águas Lindas de Goiás,Apartamento,2025-12-26
+CLI-50970,Davi Machado,davi66@example.org,84 8466-3347,39953.0,741.0,1.0,Asa Norte,Casa,2025-10-01
+CLI-50971,Caleb Caldeira,,66 5562-3202,8878.0,,0.0,Jardim Botânico,Casa,2025-11-01
+CLI-50972,Pietra Gomes,rodriguesotavio@example.org,38 3255-9028,4935.0,850.0,0.0,Ceilândia,Casa,2026-05-11
+CLI-50973,Lucca Campos,liviamachado@example.org,+55 99 3866-4882,8259.0,869.0,0.0,Guará,Apartamento,2026-03-25
+CLI-50974,Mirella Freitas,auroraporto@example.net,73 9603-8168,8839.0,674.0,0.0,Águas Claras,Apartamento,2026-05-09
+CLI-50975,Nina Cardoso,rebecafonseca@example.org,+55 98 3083-2667,5616.0,817.0,0.0,Ceilândia,Casa,2026-07-29
+CLI-50976,,randrade@example.org,+55 68 1198-6102,8543.0,832.0,0.0,Guará,Casa,
+CLI-50977,Isadora Rocha,,38 8098-9640,11487.0,742.0,0.0,Águas Claras,Apartamento,2026-03-26
+CLI-50978,Sr. Luan Jesus,zpastor@example.org,21 5279-8678,15709.0,,,Sudoeste / Octogonal,Casa,2025-11-05
+CLI-50979,,jose-miguel66@example.com,+55 84 9833-4078,4590.0,323.0,1.0,Taguatinga,Apartamento,2025-10-31
+CLI-50980,Sra. Maysa Martins,mateus05@example.net,+55 12 5152-1913,6703.0,352.0,0.0,Samambaia,Casa,
+CLI-50981,Otávio Araújo,cardosolucca@example.net,17 1362-4753,3108.0,340.0,0.0,Ceilândia,Casa,2026-04-12
+CLI-50982,Gabrielly da Mota,nicolas63@example.org,+55 64 8342-8279,3495.0,,0.0,Valparaíso de Goiás,Apartamento,
+CLI-50983,Srta. Sofia Siqueira,luna03@example.net,22 6126-0312,,985.0,0.0,Águas Lindas de Goiás,Apartamento,2026-06-07
+CLI-50984,Caroline Monteiro,mariana71@example.org,+55 17 6924-7355,6333.0,942.0,0.0,Ceilândia,Apartamento,2026-03-20
+CLI-50985,Luiz Miguel Novais,diegomonteiro@example.com,66 2350-3333,3426.0,319.0,1.0,Valparaíso de Goiás,Apartamento,2026-03-30
+CLI-50986,Maria Laura Gomes,arthur02@example.net,42 2454-4541,6415.0,,0.0,,Casa,2026-06-14
+CLI-50987,,nicolesantos@example.org,+55 21 5459-6830,6262.0,492.0,0.0,Valparaíso de Goiás,Casa,2026-04-15
+CLI-50988,Daniel Vargas,joanacarvalho@example.net,+55 51 4152-0963,3395.0,862.0,0.0,Águas Lindas de Goiás,Apartamento,2026-04-26
+CLI-50989,Marina Aparecida,caua63@example.org,37 2563-0236,27984.0,392.0,0.0,Lago Norte,Apartamento,2026-09-12
+CLI-50990,Daniela Caldeira,vnascimento@example.com,+55 83 2315-5147,4931.0,609.0,0.0,Valparaíso de Goiás,Apartamento,2026-01-12
+CLI-50991,Dr. Levi Viana,mourajade@example.com,0300 414 2763,3496.0,481.0,0.0,Samambaia,Casa,2026-04-23
+CLI-50992,Yuri da Cruz,matheus35@example.net,62 8305-6827,5939.0,992.0,0.0,Samambaia,Apartamento,2026-04-21
+CLI-50993,Evelyn Melo,mendoncamilena@example.org,38 9219-8402,10385.0,535.0,0.0,Águas Claras,Apartamento,2026-09-24
+CLI-50994,Emilly Almeida,nunesluana@example.com,+55 98 4476-1743,14185.0,662.0,0.0,Águas Claras,Apartamento,2026-01-18
+CLI-50995,Melissa Rocha,oliveirathomas@example.net,+55 65 3665-0177,6181.0,549.0,1.0,Samambaia,,2026-01-23
+CLI-50996,Maria Isis Andrade,ncavalcanti@example.com,33 0567-3842,5479.0,829.0,0.0,Ceilândia,Apartamento,2025-12-02
+CLI-50997,Dante da Paz,tferreira@example.org,+55 63 6938-1101,10412.0,788.0,0.0,Guará,Apartamento,2026-07-22
+CLI-50998,,cavalcantesophia@example.org,63 0057-3836,,969.0,0.0,Samambaia,Apartamento,2026-01-29
+CLI-50999,Maria Luiza Câmara,nathan58@example.org,34 6971-4568,10433.0,920.0,0.0,Guará,Casa,2025-10-21
+CLI-51000,Benicio Fonseca,carlos-eduardo10@example.org,+55 27 4447-8767,42698.0,596.0,1.0,Lago Norte,Casa,2026-08-09
+CLI-51001,Luiza Silva,talbuquerque@example.org,+55 14 4019-5358,6972.0,304.0,1.0,Samambaia,Apartamento,2026-09-02
+CLI-51002,Enzo Gabriel Campos,cduarte@example.org,0800 399 8055,5053.0,,0.0,Valparaíso de Goiás,Casa,2026-02-16
+CLI-51003,Maya Moreira,ana-claracardoso@example.net,+55 71 7934-6969,4442.0,641.0,0.0,Samambaia,Apartamento,2026-02-23
+CLI-51004,Maria Liz Cavalcante,almeidaluana@example.org,+55 87 5050-2901,24272.0,583.0,0.0,Asa Norte,Casa,2026-04-21
+CLI-51005,Ana Beatriz Dias,aylla22@example.com,98 5086-8581,4694.0,887.0,0.0,Valparaíso de Goiás,,2025-12-07
+CLI-51006,Mariane Monteiro,irodrigues@example.com,+55 71 6013-1839,38304.0,631.0,0.0,Sudoeste / Octogonal,Apartamento,2026-01-04
+CLI-51007,Ana Carolina Fernandes,milenaaparecida@example.com,65 0681-7403,5591.0,837.0,0.0,Samambaia,Apartamento,2026-04-02
+CLI-51008,Miguel Aragão,barrosenrico@example.net,+55 92 7906-9144,5076.0,571.0,0.0,Taguatinga,Casa,2025-12-06
+CLI-51009,Cauê Andrade,emanuelly08@example.net,85 9025-7245,9377.0,440.0,0.0,Jardim Botânico,Apartamento,2026-04-25
+CLI-51010,Sarah Cirino,davi-miguel13@example.org,82 9678-8190,5597.0,874.0,0.0,Samambaia,Apartamento,2026-02-03
+CLI-51011,,nleao@example.com,28 4297-5162,23466.0,429.0,0.0,Lago Norte,,2026-03-08
+CLI-51012,,alexandre94@example.org,65 2575-9821,6868.0,573.0,0.0,Valparaíso de Goiás,Casa,2026-06-27
+CLI-51013,Eloah Albuquerque,moraesmaria-luiza@example.org,,5981.0,423.0,0.0,Ceilândia,Casa,2026-02-12
+CLI-51014,Luiz Gustavo da Rosa,davi-lucassilveira@example.org,77 2777-3533,4409.0,897.0,0.0,Valparaíso de Goiás,Casa,2026-01-13
+CLI-51015,Noah da Cruz,,+55 74 3640-4067,5001.0,413.0,1.0,Águas Lindas de Goiás,Apartamento,2026-09-14
+CLI-51016,Marcela Peixoto,pedro-lucasteixeira@example.net,+55 28 2461-2203,23874.0,918.0,0.0,Asa Sul,Casa,
+CLI-51017,Cauã Cunha,siqueiragabriel@example.org,41 3184-0252,14262.0,503.0,0.0,Águas Claras,Apartamento,2026-03-31
+CLI-51018,Vinicius Alves,asilveira@example.net,+55 73 4051-6669,5403.0,691.0,0.0,Taguatinga,Casa,2026-03-16
+CLI-51019,Henry Leão,ana-vitoria36@example.org,69 6802-2302,4987.0,985.0,1.0,Ceilândia,Casa,2025-11-15
+CLI-51020,Renan Costa,elisaleao@example.net,82 4575-2238,3373.0,373.0,0.0,,Apartamento,2025-11-03
+CLI-51021,Alice Leão,lucas-gabrielmonteiro@example.org,69 2663-5525,5706.0,871.0,0.0,Taguatinga,Casa,2025-12-17
+CLI-51022,Dr. Thales Peixoto,isabelly14@example.com,+55 44 9269-0144,5352.0,621.0,0.0,Taguatinga,Apartamento,2026-04-06
+CLI-51023,Manuela Alves,jmontenegro@example.com,+55 88 0935-6032,11671.0,508.0,0.0,Águas Claras,Casa,2025-11-08
+CLI-51024,Rael Garcia,drodrigues@example.com,+55 55 4024-8819,10910.0,533.0,0.0,Guará,Apartamento,2025-11-14
+CLI-51025,Sr. Mateus Azevedo,cardosoluiz-henrique@example.com,17 9538-0259,3521.0,925.0,0.0,Ceilândia,Casa,2026-07-15
+CLI-51026,Ana Clara Sales,bentocamargo@example.org,79 0579-0097,19024.0,973.0,0.0,Asa Norte,Apartamento,2026-07-04
+CLI-51027,Ana Carolina da Rosa,cavalcanteluara@example.org,42 1373-6690,18136.0,423.0,1.0,Asa Norte,Casa,2026-04-03
+CLI-51028,Sr. Matteo Vieira,luiz-miguelmendonca@example.net,71 0656-5447,,583.0,0.0,Guará,Casa,2026-09-07
+CLI-51029,Maria Isis Nunes,zoelima@example.net,94 4957-9788,10900.0,501.0,0.0,Guará,Casa,
+CLI-51030,Srta. Eloah Gomes,garciagabrielly@example.org,+55 31 6243-2650,4703.0,797.0,0.0,Samambaia,Casa,2025-11-04
+CLI-51031,Luiz Henrique Sá,rael83@example.org,53 6270-6336,7113.0,476.0,1.0,Jardim Botânico,Casa,2026-09-08
+CLI-51032,Pedro Lucas Nunes,apollomachado@example.org,+55 68 2535-1106,35874.0,503.0,0.0,Noroeste,Casa,2025-11-17
+CLI-51033,Leandro Rocha,amacedo@example.com,75 9435-1595,23270.0,645.0,0.0,,Casa,2026-09-12
+CLI-51034,Benjamin da Cunha,theoribeiro@example.com,89 9673-8657,6968.0,772.0,0.0,Taguatinga,Casa,2026-05-04
+CLI-51035,Kaique Fonseca,miguel93@example.com,55 4424-3971,5326.0,988.0,0.0,Valparaíso de Goiás,Apartamento,2025-12-22
+CLI-51036,Arthur Gabriel Casa Grande,cfernandes@example.com,68 6053-0084,,425.0,0.0,Samambaia,Casa,2026-06-25
+CLI-51037,Théo Souza,,+55 61 5126-2587,9263.0,,0.0,Guará,Apartamento,2025-11-08
+CLI-51038,Ravy da Luz,eduarda79@example.net,+55 62 2375-0618,8450.0,897.0,0.0,Jardim Botânico,Apartamento,2025-10-04
+CLI-51039,Igor Camargo,arthur40@example.org,32 1459-7534,5137.0,926.0,0.0,Águas Lindas de Goiás,Apartamento,2026-02-28
+CLI-51040,Sr. Antônio Porto,lorena14@example.net,+55 11 7538-6355,12374.0,446.0,1.0,Jardim Botânico,Apartamento,2026-01-17
+CLI-51041,Clara Sá,uguerra@example.org,47 0918-6177,9110.0,602.0,0.0,Guará,Apartamento,2026-08-08
+CLI-51042,Leonardo Castro,mmartins@example.com,48 7671-7739,11345.0,747.0,0.0,,Apartamento,2026-02-18
+CLI-51043,Luiz Miguel Novais,emachado@example.net,+55 15 1646-9704,5084.0,,0.0,Valparaíso de Goiás,Apartamento,2025-12-23
+CLI-51044,Srta. Maria Fernanda Rodrigues,dsilveira@example.net,61 7000-5275,6238.0,878.0,0.0,Águas Lindas de Goiás,,2026-02-09
+CLI-51045,Thomas Almeida,anacosta@example.com,83 9976-8298,10754.0,574.0,0.0,Águas Claras,Apartamento,2025-12-16
+CLI-51046,Stephany Pacheco,silveiraana-vitoria@example.net,92 3757-5485,5954.0,830.0,0.0,Águas Lindas de Goiás,Apartamento,2026-03-30
+CLI-51047,Larissa Lopes,marianeandrade@example.com,,11412.0,710.0,0.0,Guará,Casa,2025-11-12
+CLI-51048,Vitor Gabriel Pacheco,samuelsilveira@example.net,+55 33 0253-5668,5587.0,637.0,,Taguatinga,Apartamento,2026-06-17
+CLI-51049,Benicio Leão,ana-beatrizramos@example.com,42 3785-4025,10742.0,309.0,,Guará,Apartamento,2026-06-15
+CLI-51050,Dr. Bento Correia,cecilia83@example.net,47 6466-3133,,352.0,,Valparaíso de Goiás,Casa,2026-03-12
+CLI-51051,Dr. Pedro Miguel Alves,nathan75@example.org,16 7161-1429,4334.0,807.0,0.0,Ceilândia,Casa,2025-12-16
+CLI-51052,Ravi Correia,mendoncanathan@example.com,+55 65 2298-9777,4860.0,463.0,1.0,Águas Lindas de Goiás,Casa,2026-01-28
+CLI-51053,Stella Fonseca,isislima@example.org,99 4805-6284,12037.0,711.0,0.0,Águas Claras,Apartamento,2025-10-15
+CLI-51054,Srta. Laura Marques,pietracorreia@example.org,44 6360-7916,3490.0,569.0,0.0,Águas Lindas de Goiás,Casa,2025-11-24
+CLI-51055,Esther Cardoso,maria-alice66@example.com,94 9266-6356,11406.0,651.0,0.0,Águas Claras,Apartamento,2026-06-07
+CLI-51056,Diego Cavalcante,qrezende@example.net,62 0128-7208,12146.0,766.0,0.0,Águas Claras,Casa,2026-03-13
+CLI-51057,Alice da Cunha,heitorrezende@example.com,91 7348-9319,8690.0,889.0,0.0,Jardim Botânico,Apartamento,2026-08-20
+CLI-51058,Srta. Isis Lima,arthur-miguelmendes@example.net,+55 53 7694-9500,4896.0,764.0,0.0,Águas Lindas de Goiás,Apartamento,2026-07-09
+CLI-51059,Ana Casa Grande,,92 6472-0844,26084.0,998.0,0.0,Asa Sul,Apartamento,2025-10-18
+CLI-51060,Camila Moreira,milenalima@example.com,28 5244-4914,9791.0,471.0,1.0,,Casa,2026-03-12
+CLI-51061,Olívia da Costa,barbara64@example.net,27 7961-2357,6788.0,901.0,0.0,Ceilândia,Apartamento,2026-05-13
+CLI-51062,Catarina Sousa,heloisafarias@example.net,+55 95 4313-6670,30736.0,659.0,0.0,Sudoeste / Octogonal,Apartamento,
+CLI-51063,Larissa Cavalcanti,cavalcantimarina@example.net,73 8732-1455,,958.0,0.0,Águas Claras,Casa,2026-08-08
+CLI-51064,Henrique Novais,eda-mota@example.com,44 7030-2913,6853.0,896.0,0.0,Samambaia,Casa,2026-05-31
+CLI-51065,Dra. Maria Liz Lopes,,+55 91 6487-5469,35920.0,330.0,0.0,,Apartamento,
+CLI-51066,Srta. Juliana Caldeira,,85 1016-8012,13574.0,589.0,0.0,Águas Claras,Apartamento,2026-04-30
+CLI-51067,João Garcia,miguel81@example.org,+55 84 5917-7075,13918.0,369.0,,Guará,Apartamento,2025-12-18
+CLI-51068,Maria Liz Fernandes,clarice61@example.net,91 1836-8005,3847.0,526.0,0.0,Águas Lindas de Goiás,Apartamento,2026-04-29
+CLI-51069,Dr. Bryan da Paz,nina23@example.org,21 9220-5814,8614.0,870.0,0.0,Guará,Casa,2026-07-11
+CLI-51070,Esther Fernandes,biancacunha@example.org,+55 16 0327-2611,13333.0,602.0,0.0,Águas Claras,Apartamento,2026-03-18
+CLI-51071,João Miguel Costa,pporto@example.com,+55 17 6759-4568,,827.0,0.0,Samambaia,Apartamento,2025-10-02
+CLI-51072,Ravi Lucca Freitas,davi-miguel51@example.org,,12474.0,786.0,0.0,Guará,Casa,2026-07-06
+CLI-51073,Lorena Fogaça,mathias19@example.net,89 6157-1876,11132.0,385.0,0.0,Águas Claras,Apartamento,2026-01-18
+CLI-51074,Gabrielly Rodrigues,barbosalavinia@example.net,+55 45 1704-2972,19651.0,968.0,0.0,Sudoeste / Octogonal,Apartamento,2026-06-04
+CLI-51075,Ana Sophia Moura,natalia17@example.org,+55 24 9775-8086,44415.0,702.0,0.0,Asa Norte,Casa,2026-03-27
+CLI-51076,Davi Luiz Moura,,91 7702-2942,4902.0,454.0,1.0,Samambaia,Apartamento,2026-06-03
+CLI-51077,Srta. Ana Vitória Sousa,olivia18@example.net,+55 34 2255-9460,10130.0,711.0,0.0,Guará,Casa,2025-11-16
+CLI-51078,Dr. Daniel Barbosa,gnascimento@example.org,97 7428-0166,12357.0,619.0,0.0,Águas Claras,Apartamento,2026-01-21
+CLI-51079,,luizanunes@example.net,+55 98 3124-9100,3404.0,791.0,0.0,Valparaíso de Goiás,,
+CLI-51080,Leonardo Sales,duartedavi-luiz@example.com,16 3290-6174,11209.0,812.0,,Jardim Botânico,,2026-05-23
+CLI-51081,Olivia Abreu,,+55 89 3818-4748,3313.0,843.0,0.0,Taguatinga,Apartamento,2025-11-02
+CLI-51082,Yago Costa,elisa76@example.org,92 0871-7132,10677.0,309.0,,Guará,Apartamento,
+CLI-51083,Pietro Oliveira,thomasrodrigues@example.com,38 3785-8983,5567.0,485.0,1.0,Águas Lindas de Goiás,,2026-03-08
+CLI-51084,Sr. Leonardo Rocha,camaravitor-gabriel@example.org,13 9940-3526,14606.0,417.0,0.0,Guará,Casa,2025-11-20
+CLI-51085,Nicole da Costa,renan24@example.net,+55 43 1065-5938,41569.0,821.0,0.0,Noroeste,Casa,
+CLI-51086,Enrico Souza,asales@example.org,83 1073-8583,,789.0,0.0,Samambaia,Apartamento,2026-07-22
+CLI-51087,Dom Caldeira,sophie54@example.org,+55 55 4515-2686,11779.0,753.0,0.0,Guará,Casa,2025-10-27
+CLI-51088,Dr. Breno Sousa,gaparecida@example.org,43 8780-1060,3544.0,941.0,0.0,Águas Lindas de Goiás,Apartamento,2026-09-02
+CLI-51089,Aylla Gonçalves,dduarte@example.com,95 8260-5088,3021.0,513.0,0.0,Ceilândia,Apartamento,2025-10-17
+CLI-51090,Sr. Arthur Caldeira,mateus24@example.com,67 9018-6633,8047.0,834.0,0.0,Jardim Botânico,Casa,2026-08-23
+CLI-51091,Srta. Ana Luiza Correia,silveirabenicio@example.net,44 0596-3274,11522.0,810.0,0.0,Guará,Apartamento,2026-09-10
+CLI-51092,Diogo Azevedo,znovais@example.org,+55 54 7782-0223,,595.0,,Jardim Botânico,Apartamento,2026-08-09
+CLI-51093,Léo Pacheco,almeidaandre@example.net,94 4800-6797,,819.0,0.0,Águas Lindas de Goiás,Apartamento,2026-02-18
+CLI-51094,Lucas Câmara,mirellabrito@example.net,+55 38 7217-6540,14065.0,695.0,0.0,Guará,Apartamento,2025-12-26
+CLI-51095,Júlia Fernandes,agatha51@example.org,77 9326-7274,6342.0,623.0,0.0,Taguatinga,Apartamento,2026-03-23
+CLI-51096,Henrique da Mota,tcassiano@example.org,+55 48 9199-7726,11407.0,568.0,0.0,Águas Claras,Apartamento,
+CLI-51097,Manuella Cardoso,ravi-luccacasa-grande@example.net,94 5036-3915,5659.0,717.0,0.0,Taguatinga,Apartamento,2026-05-05
+CLI-51098,Enrico Vieira,calebecardoso@example.com,+55 24 3610-3130,6815.0,561.0,0.0,Samambaia,Apartamento,2026-09-15
+CLI-51099,Dr. Gustavo Alves,lopesjoao-gabriel@example.com,98 8486-5647,5901.0,975.0,0.0,Taguatinga,Apartamento,2026-08-30
+CLI-51100,Théo Costela,,82 8699-2461,24898.0,622.0,0.0,Noroeste,Casa,2025-09-26
+CLI-51101,,,13 5909-0954,4827.0,419.0,1.0,Águas Lindas de Goiás,Casa,2025-11-08
+CLI-51102,Ana Lívia Albuquerque,rafaela26@example.org,+55 98 3748-7596,13792.0,763.0,0.0,Jardim Botânico,Apartamento,2026-01-08
+CLI-51103,Emanuel Porto,henriquecavalcante@example.com,71 1374-3670,7317.0,538.0,0.0,Águas Claras,Casa,2025-10-01
+CLI-51104,Igor Fogaça,vda-mata@example.com,+55 31 6244-1617,5205.0,656.0,0.0,Valparaíso de Goiás,Casa,2025-10-30
+CLI-51105,Gustavo da Cunha,carvalhoheloisa@example.org,+55 43 3068-9927,6910.0,763.0,0.0,Samambaia,Apartamento,2026-01-28
+CLI-51106,Sr. Dom Freitas,joao-guilhermepacheco@example.com,+55 98 7070-8025,4695.0,782.0,0.0,Valparaíso de Goiás,Apartamento,2026-03-12
+CLI-51107,Maitê Garcia,liamda-mota@example.net,67 2417-7690,43454.0,628.0,0.0,Sudoeste / Octogonal,Casa,2026-07-24
+CLI-51108,Sophie Aragão,uda-cruz@example.com,91 9365-6635,,573.0,0.0,Samambaia,,
+CLI-51109,Yan Novais,monteiromaria-julia@example.net,+55 75 0645-4545,7989.0,643.0,0.0,Águas Claras,Apartamento,2026-08-31
+CLI-51110,Otávio Freitas,maria-sophia97@example.net,43 1327-3585,10597.0,835.0,0.0,Águas Claras,Apartamento,2026-07-02
+CLI-51111,Dr. André Ribeiro,costaana-laura@example.net,48 8858-8809,3495.0,885.0,0.0,Ceilândia,Casa,2026-03-22
+CLI-51112,Helena Camargo,oda-rocha@example.org,+55 92 6351-5123,,890.0,0.0,Noroeste,Apartamento,2026-01-19
+CLI-51113,Ana Laura Freitas,leonardo54@example.com,+55 42 2764-2857,10720.0,582.0,1.0,Jardim Botânico,Casa,2026-05-20
+CLI-51114,Maitê Castro,henrique12@example.com,,28163.0,465.0,0.0,Asa Norte,,2025-10-21
+CLI-51115,Ravi das Neves,yan73@example.org,,3486.0,610.0,0.0,Ceilândia,Apartamento,2026-06-22
+CLI-51116,Alícia Brito,arthur-gabrielcunha@example.net,51 6261-6467,11972.0,542.0,0.0,,Apartamento,2026-02-20
+CLI-51117,Maria Luísa da Conceição,fogacaisaque@example.com,+55 34 0742-4399,4966.0,578.0,0.0,Samambaia,Apartamento,2025-11-01
+CLI-51118,Yan Guerra,vlima@example.org,,7724.0,661.0,0.0,Jardim Botânico,Apartamento,2026-09-05
+CLI-51119,Rebeca Abreu,hnascimento@example.net,+55 53 9580-4903,6027.0,735.0,0.0,Águas Lindas de Goiás,Apartamento,2025-12-07
+CLI-51120,Sr. Arthur Miguel Oliveira,pedro-henriquemelo@example.com,+55 82 4825-7562,3773.0,888.0,,Águas Lindas de Goiás,Apartamento,2026-05-31
+CLI-51121,Amanda Pereira,otavio89@example.net,+55 41 7469-6415,22063.0,938.0,0.0,Noroeste,Casa,2025-11-17
+CLI-51122,Kamilly Barbosa,sfogaca@example.com,+55 44 8390-6863,4461.0,,0.0,Samambaia,Casa,2026-06-20
+CLI-51123,,,+55 99 1936-7722,13552.0,900.0,0.0,Águas Claras,Casa,2025-11-08
+CLI-51124,Bryan Albuquerque,ravi-luccaaparecida@example.com,+55 22 8227-5702,7702.0,345.0,,Guará,Apartamento,2026-03-09
+CLI-51125,Maria Alice Machado,cassianojose-miguel@example.com,+55 87 7349-0556,8160.0,443.0,1.0,Águas Claras,Apartamento,2025-12-18
+CLI-51126,,bcastro@example.org,19 9672-8086,6057.0,316.0,0.0,Ceilândia,Casa,2025-11-05
+CLI-51127,Arthur Gabriel Silva,marquesana-laura@example.com,0800 198 8205,17932.0,850.0,,Asa Norte,Apartamento,2025-12-11
+CLI-51128,Rafaela Siqueira,costajosue@example.org,96 9324-2485,24429.0,675.0,0.0,Lago Sul,Apartamento,2026-05-15
+CLI-51129,Leandro Novaes,icaldeira@example.com,+55 85 7869-2660,12679.0,,0.0,Jardim Botânico,Casa,2026-02-03
+CLI-51130,Vitor Gabriel Barros,marquesmaria-isis@example.org,44 8124-0513,4739.0,395.0,1.0,Ceilândia,Casa,2026-07-24
+CLI-51131,Heloísa Monteiro,saraoliveira@example.com,91 6337-2617,11996.0,896.0,0.0,Guará,Casa,2026-03-08
+CLI-51132,Lunna Rezende,mouraheitor@example.com,69 7293-2524,6672.0,704.0,0.0,Águas Lindas de Goiás,Casa,2025-12-07
+CLI-51133,,rcorreia@example.org,+55 37 5847-3476,,608.0,0.0,Jardim Botânico,Casa,2026-04-18
+CLI-51134,Sr. Asafe Cirino,vargasana-liz@example.org,32 2624-4854,35207.0,931.0,0.0,Noroeste,Casa,2026-05-28
+CLI-51135,Luiz Fernando Garcia,vasconcelosagatha@example.com,+55 28 1272-6516,20569.0,973.0,0.0,Sudoeste / Octogonal,Apartamento,2026-08-11
+CLI-51136,Ana Laura Azevedo,mateus55@example.com,15 1605-1423,14382.0,687.0,0.0,Águas Claras,Casa,2026-03-23
+CLI-51137,Srta. Maria Helena Barros,antonio80@example.net,82 2020-2733,13930.0,407.0,1.0,Águas Claras,Apartamento,2026-03-22
+CLI-51138,Davi Lucas Ferreira,das-nevesjuan@example.net,+55 24 2336-8576,7073.0,549.0,0.0,Águas Claras,,2026-06-07
+CLI-51139,Bruno Marques,gustavo83@example.com,+55 84 4056-7631,11034.0,,0.0,Jardim Botânico,Casa,2025-10-18
+CLI-51140,Rebeca Cavalcanti,cunhadiego@example.net,77 0034-0911,5569.0,381.0,1.0,Taguatinga,,2026-09-03
+CLI-51141,Luiz Fernando Lopes,correiahenrique@example.com,79 2258-6852,12939.0,786.0,0.0,Guará,Casa,2026-07-24
+CLI-51142,,qnovaes@example.org,+55 13 2467-0612,14194.0,982.0,0.0,Guará,Casa,2026-01-27
+CLI-51143,Sr. Antônio Macedo,kamilly03@example.com,12 7336-5863,10284.0,909.0,0.0,Guará,Casa,2026-05-18
+CLI-51144,Thiago Pires,luanacamara@example.com,0300 548 5800,9210.0,683.0,0.0,Guará,Casa,2026-05-02
+CLI-51145,Dr. Bento Aragão,gabrielrezende@example.net,84 4955-2622,5090.0,954.0,1.0,Ceilândia,Apartamento,2026-05-10
+CLI-51146,Renan Nogueira,gabriela60@example.com,68 3203-8195,3316.0,488.0,1.0,Taguatinga,Casa,2025-11-05
+CLI-51147,,jose17@example.com,45 5940-2144,34633.0,851.0,0.0,Asa Norte,Casa,2025-10-09
+CLI-51148,Sarah da Cunha,rael63@example.net,24 2682-2743,,491.0,1.0,Águas Claras,Apartamento,2026-05-27
+CLI-51149,Cecília Ferreira,apollo16@example.org,98 5439-8742,5952.0,930.0,,Samambaia,Casa,2026-08-19
+CLI-51150,Mariah Martins,smoreira@example.net,+55 96 6695-0779,4656.0,844.0,0.0,Taguatinga,Apartamento,2026-05-20
+CLI-51151,Sr. Rodrigo Novaes,gsousa@example.com,+55 18 0000-2187,6214.0,773.0,,Taguatinga,Apartamento,2026-06-09
+CLI-51152,Sr. João Gabriel Vieira,joao-gabrielmendes@example.com,+55 65 3425-2444,5533.0,704.0,0.0,Valparaíso de Goiás,Casa,2026-07-08
+CLI-51153,Luana Guerra,benicio47@example.org,65 4790-1950,13794.0,380.0,0.0,Guará,Casa,2025-12-01
+CLI-51154,Marcos Vinicius Almeida,piresmaria@example.com,75 5796-4201,3787.0,738.0,0.0,Águas Lindas de Goiás,Apartamento,2026-08-20
+CLI-51155,Ayla Macedo,rafaela54@example.org,54 2079-4842,12818.0,490.0,1.0,Jardim Botânico,Apartamento,2026-08-30
+CLI-51156,Dr. Yan Pinto,zcirino@example.org,+55 68 0570-8812,13648.0,592.0,0.0,Guará,Casa,2025-09-25
+CLI-51157,Sarah Marques,ravy39@example.org,,6837.0,473.0,0.0,Valparaíso de Goiás,Apartamento,2026-06-02
+CLI-51158,Vitória Guerra,rafael75@example.net,33 2041-0392,5724.0,339.0,0.0,Águas Lindas de Goiás,Apartamento,2025-10-19
+CLI-51159,Sra. Anna Liz Novais,isa@example.org,+55 93 6250-7208,3604.0,826.0,0.0,Águas Lindas de Goiás,Apartamento,2026-06-17
+CLI-51160,Marcos Vinicius Rocha,josefonseca@example.com,,12444.0,450.0,1.0,Jardim Botânico,Apartamento,2026-08-02
+CLI-51161,Brenda Fernandes,bella43@example.org,+55 55 9453-7714,10024.0,931.0,0.0,Guará,,2026-03-27
+CLI-51162,Dr. Benício Mendes,mayacosta@example.com,88 0174-8398,12091.0,709.0,0.0,Jardim Botânico,Apartamento,2026-09-11
+CLI-51163,Isis Siqueira,falbuquerque@example.com,77 0771-4100,11311.0,948.0,0.0,Águas Claras,Apartamento,2026-06-23
+CLI-51164,Sr. João Vitor Gonçalves,emanuelly48@example.org,+55 77 9562-1448,12534.0,536.0,0.0,,,2025-12-29
+CLI-51165,Cauã Sampaio,jose83@example.com,+55 12 4067-2848,12916.0,479.0,1.0,Águas Claras,Apartamento,2025-12-16
+CLI-51166,Paulo Castro,,91 9020-1244,3033.0,577.0,0.0,Taguatinga,Apartamento,2026-08-29
+CLI-51167,Felipe Carvalho,breno34@example.com,,6431.0,687.0,0.0,Ceilândia,Casa,2026-08-29
+CLI-51168,Felipe Fernandes,beatrizmelo@example.org,86 3215-6993,19368.0,441.0,1.0,Lago Sul,Casa,2026-04-08
+CLI-51169,Maria Clara Camargo,freitasmateus@example.net,,6174.0,836.0,0.0,Samambaia,Casa,2026-01-10
+CLI-51170,Luna Caldeira,gabriellyda-luz@example.com,+55 12 6674-4677,33058.0,701.0,0.0,Lago Norte,Casa,2026-09-02
+CLI-51171,Thales da Mata,da-mataleticia@example.net,69 6580-8940,13601.0,372.0,0.0,Águas Claras,Apartamento,2026-01-16
+CLI-51172,Olivia Machado,pferreira@example.net,+55 74 6382-9211,22194.0,403.0,1.0,Lago Sul,Casa,2026-01-06
+CLI-51173,Alícia Gomes,rodriguesmariah@example.net,+55 14 3276-6448,6458.0,429.0,1.0,Ceilândia,Apartamento,2026-03-22
+CLI-51174,Dr. Ravi Siqueira,ferreiralucas@example.org,0900 374 0583,4316.0,863.0,0.0,Ceilândia,Casa,2025-12-17
+CLI-51175,Leandro Ramos,agatha16@example.com,+55 51 8180-7534,14837.0,,0.0,Jardim Botânico,Apartamento,2025-10-19
+CLI-51176,Gael Henrique da Cunha,bgomes@example.net,+55 79 0965-8344,,560.0,0.0,Águas Claras,Apartamento,2026-03-20
+CLI-51177,Sra. Ana Clara Pastor,davi-miguelabreu@example.net,48 0920-6094,,978.0,0.0,Águas Lindas de Goiás,Casa,2025-11-08
+CLI-51178,Aurora Cirino,pintopietro@example.net,48 5171-4994,6445.0,767.0,0.0,Taguatinga,Casa,2026-07-12
+CLI-51179,José Costela,portodavi-lucas@example.com,77 6766-3649,6525.0,493.0,1.0,Águas Lindas de Goiás,Apartamento,
+CLI-51180,Allana Almeida,araujoigor@example.com,+55 94 8577-8219,3522.0,691.0,,Valparaíso de Goiás,Casa,2026-05-17
+CLI-51181,Rafael Cavalcanti,davi86@example.com,49 6130-2881,4804.0,521.0,0.0,Samambaia,Apartamento,2026-09-09
+CLI-51182,Ana Sophia Correia,da-pazpietro@example.net,+55 22 7235-6497,,818.0,0.0,Taguatinga,Apartamento,2025-10-23
+CLI-51183,Clara Pacheco,rsousa@example.net,91 2209-9458,6309.0,558.0,0.0,Taguatinga,Casa,2026-04-22
+CLI-51184,Enzo Gabriel da Paz,moraesantony@example.net,+55 43 3264-9634,5190.0,639.0,0.0,Ceilândia,Casa,2026-04-07
+CLI-51185,Lavínia Pastor,martinskamilly@example.com,42 0131-2225,39668.0,321.0,1.0,Lago Sul,,2025-11-08
+CLI-51186,Zoe Monteiro,barrosyan@example.net,69 3175-6560,6689.0,978.0,0.0,Taguatinga,Apartamento,2026-01-15
+CLI-51187,Mariane Camargo,nunesbruna@example.org,+55 95 1925-8936,34626.0,856.0,0.0,Sudoeste / Octogonal,Casa,2026-02-06
+CLI-51188,Arthur Miguel Moraes,theocorreia@example.net,+55 19 5859-8487,8411.0,506.0,0.0,Jardim Botânico,Casa,
+CLI-51189,Lavínia Cassiano,maria-isisda-paz@example.org,53 6351-2595,,815.0,0.0,Taguatinga,Apartamento,2026-03-20
+CLI-51190,Vinícius Camargo,lorena76@example.net,+55 92 9120-8955,7263.0,886.0,0.0,Guará,Apartamento,2025-12-02
+CLI-51191,Manuella Fogaça,rochalais@example.org,+55 94 0989-9984,40957.0,316.0,1.0,Lago Sul,Apartamento,2025-10-22
+CLI-51192,Brayan Andrade,brayanfarias@example.org,74 0116-8608,12229.0,968.0,0.0,Jardim Botânico,Casa,2026-08-25
+CLI-51193,Bento Correia,ida-luz@example.org,,4473.0,676.0,,Samambaia,Apartamento,2026-03-07
+CLI-51194,Maitê Sousa,poliveira@example.com,99 3977-3023,42249.0,925.0,0.0,Asa Sul,Apartamento,2026-07-12
+CLI-51195,Srta. Mariah Marques,dante85@example.com,,3874.0,692.0,0.0,Taguatinga,Casa,2026-04-04
+CLI-51196,Luiz Fernando Almeida,nunesjose-miguel@example.net,,26943.0,878.0,0.0,,Apartamento,2026-07-19
+CLI-51197,Evelyn Pastor,olivercavalcante@example.net,+55 96 8782-7299,13229.0,487.0,1.0,Águas Claras,Apartamento,
+CLI-51198,Asafe Melo,costarenan@example.com,96 0120-0350,6703.0,594.0,1.0,Ceilândia,Casa,2026-06-11
+CLI-51199,Mariane Vasconcelos,marquesgabriel@example.com,32 1800-2154,9225.0,832.0,0.0,Jardim Botânico,Casa,2026-01-31
+CLI-51200,Nicolas Gonçalves,ffarias@example.com,45 7239-6521,4750.0,795.0,0.0,Ceilândia,Casa,2026-09-18
+CLI-51201,Diogo Camargo,ravisouza@example.com,42 2461-1447,5200.0,622.0,0.0,Valparaíso de Goiás,Apartamento,2026-03-11
+CLI-51202,,heitorcasa-grande@example.net,93 2768-6718,4769.0,396.0,0.0,Taguatinga,Casa,2025-11-16
+CLI-51203,Luna Rodrigues,,+55 48 6208-1821,4609.0,727.0,0.0,Valparaíso de Goiás,Apartamento,2026-09-08
+CLI-51204,Amanda Pastor,caiovargas@example.org,38 0050-3698,3750.0,747.0,0.0,Ceilândia,Apartamento,2026-07-12
+CLI-51205,Daniela Novais,nda-mata@example.org,13 9096-9197,13664.0,939.0,0.0,Jardim Botânico,Casa,2026-03-15
+CLI-51206,Maria Luiza Oliveira,silveiranicolas@example.org,63 2536-2592,38480.0,803.0,0.0,Sudoeste / Octogonal,,2025-12-16
+CLI-51207,Dra. Mariana Brito,maria-julia67@example.net,71 0903-7693,,576.0,0.0,Lago Sul,Casa,2025-10-12
+CLI-51208,Benjamim Correia,marcelamontenegro@example.com,+55 37 4055-3145,5439.0,612.0,0.0,Taguatinga,Apartamento,2026-06-06
+CLI-51209,Dr. Henry Gabriel Monteiro,joao-pedro25@example.com,+55 51 5747-7989,5633.0,491.0,1.0,Samambaia,Casa,2026-09-19
+CLI-51210,,ypereira@example.net,35 3770-9806,5710.0,630.0,0.0,Samambaia,Casa,2026-01-19
+CLI-51211,Caio Macedo,lucca46@example.org,95 3826-4441,4736.0,524.0,0.0,Samambaia,Apartamento,2026-01-13
+CLI-51212,Bárbara Guerra,rafael02@example.com,93 3317-7068,6260.0,758.0,0.0,Águas Lindas de Goiás,Apartamento,2025-12-24
+CLI-51213,Heitor Cassiano,claricesa@example.net,91 0540-1304,8104.0,770.0,1.0,Guará,Apartamento,2025-12-04
+CLI-51214,Pedro Lucas da Paz,aragaomaria-laura@example.org,+55 28 4780-8831,10840.0,703.0,0.0,Guará,Apartamento,2026-09-23
+CLI-51215,Benjamim Macedo,esantos@example.net,+55 31 3847-1306,21539.0,915.0,1.0,Lago Sul,,2025-11-02
+CLI-51216,Alícia da Mata,pimentaluiz-fernando@example.com,13 3355-9549,12770.0,982.0,0.0,Jardim Botânico,Casa,
+CLI-51217,Dr. Thomas Guerra,lda-cruz@example.org,38 4734-6689,13564.0,461.0,0.0,Águas Claras,Casa,2026-06-10
+CLI-51218,Srta. Nina da Cruz,ateixeira@example.net,14 0191-1608,13156.0,385.0,0.0,Jardim Botânico,,2026-05-15
+CLI-51219,Sr. Bento Pimenta,correiaemanuella@example.com,+55 61 9400-1061,6267.0,334.0,,Águas Lindas de Goiás,Apartamento,2025-12-11
+CLI-51220,Davi Luiz Albuquerque,,68 8988-1310,9980.0,747.0,0.0,Jardim Botânico,Apartamento,2025-11-12
+CLI-51221,Camila Castro,enascimento@example.com,88 6722-9698,3884.0,797.0,0.0,,,2025-12-30
+CLI-51222,Melissa da Costa,jnovaes@example.com,+55 43 5453-7448,6377.0,768.0,0.0,Samambaia,Casa,2026-08-09
+CLI-51223,Maria Sophia Oliveira,erick87@example.com,65 0837-9457,3119.0,411.0,1.0,Samambaia,Casa,2026-09-17
+CLI-51224,Sr. Thomas Novaes,stephany04@example.org,+55 69 3078-9902,6638.0,466.0,1.0,Valparaíso de Goiás,Casa,2025-12-19
+CLI-51225,Helena Teixeira,marcelada-mata@example.org,66 1034-1399,14008.0,958.0,0.0,Águas Claras,Apartamento,2026-04-21
+CLI-51226,Dra. Letícia Moura,cauemachado@example.com,98 7967-7072,10350.0,635.0,0.0,Guará,Casa,2026-01-04
+CLI-51227,Evelyn Sá,,,10274.0,543.0,0.0,Águas Claras,Casa,2026-04-01
+CLI-51228,,aragaotheo@example.net,+55 66 3356-2851,5964.0,922.0,0.0,Águas Lindas de Goiás,Casa,
+CLI-51229,Dr. Ian Fogaça,pedro96@example.net,+55 28 8863-4646,37044.0,795.0,,Asa Norte,Casa,
+CLI-51230,Miguel Mendes,kmacedo@example.com,,5524.0,625.0,0.0,Águas Lindas de Goiás,Apartamento,2026-01-29
+CLI-51231,Antônio da Mota,da-costakevin@example.org,,29594.0,,0.0,Noroeste,Casa,2025-11-21
+CLI-51232,Milena da Mata,wfonseca@example.net,83 3487-8281,31552.0,698.0,0.0,Asa Sul,Apartamento,2026-07-15
+CLI-51233,Luiz Fernando Vargas,,53 7860-8802,14582.0,798.0,0.0,Águas Claras,Casa,2025-10-16
+CLI-51234,Luiz Otávio Moura,luisa29@example.net,+55 69 1222-1870,10241.0,686.0,0.0,Guará,Apartamento,2026-02-10
+CLI-51235,Sra. Luara Teixeira,joao-miguelribeiro@example.com,82 0654-1185,13701.0,427.0,1.0,Águas Claras,Casa,2026-06-30
+CLI-51236,Emanuel Peixoto,murilo98@example.org,17 9998-0755,24159.0,777.0,0.0,Asa Norte,Apartamento,2026-01-30
+CLI-51237,Sra. Manuela Vargas,estermontenegro@example.net,+55 47 5144-9019,4192.0,530.0,0.0,Taguatinga,Apartamento,
+CLI-51238,Maria Laura Novais,ana-claranunes@example.org,34 5604-2515,12307.0,525.0,0.0,Jardim Botânico,Apartamento,2026-04-26
+CLI-51239,Leonardo Barbosa,,21 2776-2864,39584.0,819.0,0.0,Asa Sul,Casa,2026-01-24
+CLI-51240,Srta. Alana Nascimento,isabel25@example.org,14 9946-7995,6875.0,704.0,0.0,Ceilândia,Apartamento,2026-02-09
+CLI-51241,Maria Cecília Moraes,allana98@example.org,85 0637-9805,34488.0,765.0,0.0,Lago Sul,Casa,2025-11-30
+CLI-51242,Giovanna da Mata,beatriz64@example.com,77 8895-3164,11455.0,567.0,0.0,Águas Claras,Apartamento,2026-04-24
+CLI-51243,Otávio Pires,castroarthur-gabriel@example.net,66 5644-2330,11771.0,820.0,0.0,Guará,Apartamento,2026-03-23
+CLI-51244,Alice Teixeira,orios@example.net,+55 17 1991-9536,,713.0,0.0,Jardim Botânico,Casa,2026-06-24
+CLI-51245,Dom Mendonça,isaac96@example.com,+55 87 0089-7218,6454.0,412.0,0.0,Valparaíso de Goiás,,2026-01-04
+CLI-51246,Davi Lucca Vieira,tgoncalves@example.net,+55 18 4311-5381,16020.0,,0.0,Sudoeste / Octogonal,Casa,2026-06-02
+CLI-51247,Vitor Hugo Vasconcelos,maria-luizaviana@example.org,41 7814-4425,,556.0,0.0,,,2026-02-04
+CLI-51248,Agatha da Rosa,gsampaio@example.org,35 3259-1116,5744.0,467.0,1.0,Ceilândia,Casa,2026-05-03
+CLI-51249,Henry Gabriel Oliveira,gustavo-henriqueviana@example.org,0300 527 5553,41712.0,569.0,0.0,Noroeste,Apartamento,2026-03-31
+CLI-51250,Ester Machado,martinscecilia@example.com,,3005.0,384.0,1.0,Samambaia,Apartamento,2025-09-26
+CLI-51251,Natália Gonçalves,,27 8589-3095,8954.0,,0.0,Guará,Apartamento,2026-04-27
+CLI-51252,Yago Guerra,,53 5940-5572,38013.0,632.0,0.0,Asa Norte,Apartamento,2026-02-11
+CLI-51253,Vinicius Castro,castrohenry-gabriel@example.net,38 9578-7428,14337.0,460.0,1.0,Guará,Casa,2025-12-21
+CLI-51254,Sr. Rodrigo Viana,maria-alice53@example.net,93 4516-6011,13719.0,444.0,1.0,Guará,Apartamento,
+CLI-51255,Felipe Rocha,emanuellycamara@example.org,+55 88 6510-3639,9047.0,735.0,0.0,Jardim Botânico,Apartamento,2026-01-13
+CLI-51256,Júlia Mendonça,amonteiro@example.net,82 4286-8145,3652.0,339.0,0.0,Samambaia,Apartamento,2026-01-28
+CLI-51257,Henry Gabriel Pereira,qvieira@example.org,+55 81 0547-9682,10984.0,804.0,1.0,Jardim Botânico,Casa,2026-03-10
+CLI-51258,Elisa Camargo,lorena25@example.net,+55 92 5538-5001,3726.0,857.0,0.0,Samambaia,Casa,2025-12-24
+CLI-51259,,kamilly71@example.net,28 2483-0195,6947.0,806.0,0.0,Ceilândia,Casa,
+CLI-51260,Brenda Câmara,bramos@example.net,18 4512-7972,11529.0,799.0,,Guará,Casa,2025-09-25
+CLI-51261,Dr. Enzo Gabriel Albuquerque,zda-mata@example.com,63 6508-5015,43572.0,455.0,0.0,Asa Sul,Apartamento,2026-02-06
+CLI-51262,Isis Cunha,mathiasporto@example.org,+55 88 5446-5459,25444.0,932.0,0.0,Lago Sul,Apartamento,2026-08-26
+CLI-51263,Laís Novais,monteirolorena@example.org,82 8069-4960,5765.0,732.0,0.0,Samambaia,Casa,2025-10-29
+CLI-51264,João Pedro Caldeira,davi-miguel18@example.org,+55 46 7694-7694,32198.0,,0.0,Lago Sul,Casa,2026-02-24
+CLI-51265,Júlia Duarte,alice84@example.net,43 1065-1473,12730.0,949.0,0.0,Águas Claras,Apartamento,2025-12-01
+CLI-51266,Emilly Dias,gvargas@example.com,96 9612-2349,14486.0,709.0,0.0,Águas Claras,,2026-08-06
+CLI-51267,,bcostela@example.org,96 3352-6795,36123.0,849.0,0.0,Noroeste,Apartamento,2026-04-13
+CLI-51268,Joaquim Novais,breno96@example.net,15 4928-3136,7626.0,876.0,0.0,Guará,Casa,2026-07-31
+CLI-51269,Breno Silva,azevedobenicio@example.net,85 9517-5349,4283.0,891.0,0.0,Samambaia,,2025-10-08
+CLI-51270,Lívia Rezende,dnascimento@example.net,31 5461-2446,14683.0,803.0,0.0,Guará,Apartamento,2025-11-08
+CLI-51271,Daniela Nascimento,vasconcelosmaria-laura@example.org,+55 11 6542-6464,15871.0,417.0,,Sudoeste / Octogonal,Apartamento,2026-06-18
+CLI-51272,Bruna da Cunha,balmeida@example.net,+55 44 3170-6415,22383.0,978.0,0.0,Asa Sul,Casa,2026-04-20
+CLI-51273,Otto Oliveira,bruno72@example.net,+55 63 6905-4891,7989.0,353.0,1.0,Jardim Botânico,Apartamento,2026-05-24
+CLI-51274,Letícia Novaes,vinicius39@example.net,+55 83 5630-5056,9443.0,809.0,0.0,Águas Claras,Apartamento,2026-09-21
+CLI-51275,Sr. Davi Luiz Siqueira,borgeshenrique@example.com,81 3437-1354,5971.0,557.0,0.0,Águas Lindas de Goiás,Casa,2026-06-09
+CLI-51276,Marcela Melo,renan53@example.net,95 1700-5811,14890.0,875.0,0.0,Jardim Botânico,Casa,2026-02-17
+CLI-51277,Kaique Vieira,olivia84@example.org,98 6109-1907,4032.0,818.0,0.0,Valparaíso de Goiás,Casa,2026-04-25
+CLI-51278,Luiz Felipe Araújo,barbosajosue@example.org,18 9079-1242,3077.0,333.0,,,Apartamento,2026-04-05
+CLI-51279,Letícia Mendes,luigifonseca@example.org,+55 73 3883-3648,,378.0,1.0,Lago Norte,Apartamento,2026-03-28
+CLI-51280,Paulo Cirino,jpacheco@example.com,97 7529-1800,7151.0,437.0,0.0,Águas Claras,Casa,2026-02-09
+CLI-51281,,,+55 44 0594-5125,6050.0,454.0,1.0,Ceilândia,Casa,2026-02-23
+CLI-51282,Henry Gabriel Nunes,arthur74@example.org,34 3556-2133,13054.0,608.0,0.0,Jardim Botânico,Casa,2025-12-21
+CLI-51283,Isabella Vasconcelos,zgomes@example.com,35 4731-6542,4295.0,802.0,0.0,Samambaia,Casa,2026-03-06
+CLI-51284,Sra. Maria Sophia Pastor,pietro56@example.net,+55 31 4609-9829,3258.0,340.0,1.0,Samambaia,Casa,2026-04-10
+CLI-51285,Calebe Albuquerque,alice75@example.org,49 4586-7689,5093.0,842.0,0.0,Ceilândia,,2025-11-19
+CLI-51286,Yago Abreu,varaujo@example.org,81 1921-5322,4236.0,716.0,0.0,Ceilândia,Casa,2026-08-24
+CLI-51287,Srta. Heloísa Mendes,moraesotto@example.net,+55 92 3483-9406,3680.0,553.0,0.0,,Apartamento,2026-05-23
+CLI-51288,Caio Fonseca,da-cunhaana-sophia@example.net,19 2878-1275,6139.0,,,Valparaíso de Goiás,Apartamento,
+CLI-51289,Emilly Gonçalves,siqueiravitoria@example.com,81 8057-5751,5979.0,384.0,0.0,Águas Lindas de Goiás,Apartamento,2026-04-04
+CLI-51290,Liam Aparecida,flopes@example.org,+55 49 9259-2359,5683.0,400.0,0.0,Samambaia,Apartamento,2026-06-13
+CLI-51291,Dr. Nicolas Rios,jesusdaniela@example.com,+55 93 0590-2157,4418.0,850.0,0.0,Taguatinga,Apartamento,2025-12-26
+CLI-51292,Sarah Casa Grande,arocha@example.org,+55 37 9952-9189,5580.0,502.0,0.0,Valparaíso de Goiás,Casa,2026-09-19
+CLI-51293,Sra. Maria Júlia Machado,qcavalcante@example.org,18 9009-8407,5156.0,598.0,0.0,Ceilândia,Casa,2025-12-04
+CLI-51294,João Miguel Barbosa,maria-flor28@example.net,+55 75 1375-7945,31869.0,797.0,0.0,Asa Norte,Casa,2026-01-31
+CLI-51295,Stella Almeida,levimoura@example.net,+55 62 5825-5605,28344.0,829.0,0.0,Lago Sul,Apartamento,2026-04-24
+CLI-51296,Sra. Olivia Cunha,larasales@example.org,48 1746-1979,6497.0,987.0,0.0,Valparaíso de Goiás,Casa,2025-10-30
+CLI-51297,Sara Pacheco,ana-liz93@example.net,+55 41 6866-6163,12574.0,973.0,0.0,Águas Claras,Apartamento,2026-05-11
+CLI-51298,Léo Fogaça,garciaguilherme@example.com,16 1052-6762,31687.0,619.0,0.0,Lago Sul,Apartamento,2026-02-04
+CLI-51299,Dr. Matteo Barros,vitoriamonteiro@example.org,+55 73 2959-7416,9679.0,886.0,0.0,Guará,Apartamento,2026-06-16
