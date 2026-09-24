@@ -1,0 +1,38 @@
+1 Precificação Inteligente e Avaliação Automatizada (AVM)
+Obejtivo: Estimar  valor real de venda ou locação de um imóvel de forma automatizada, diminuindo o tempo de negociação e evitando imóveis parados por preços fora da realidade do mercado.
+•	Dados brutos necessários:
+o	Características do imóvel: Área útil/total, número de quartos/banheiros, vagas de garagem, idade do imóvel e estado de conservação.
+o	Localização exata: Coordenadas de GPS, bairro, proximidade de comércios, escolas, transporte público e índices de criminalidade.
+o	Histórico de transações: Preços reais de vendas e locações passadas (e não apenas o valor anunciado) na mesma região.
+o	Tendências de mercado: Índices de inflação, taxas de juros (Selic) e variação do IPCA/IGP-M.
+
+2 . Recomendação Personalizada de Imóveis
+Obejtivo: Funciona como a Netflix ou o Spotify, mas para imóveis. O sistema analisa o comportamento do usuário e sugere os imóveis com maior probabilidade de conversão.
+•	Dados brutos necessários:
+o	Dados de navegação (Clickstream): Histórico de cliques, imóveis favoritados, tempo de permanência em cada página e filtros aplicados no site/app.
+o	Perfil do cliente: Renda estimada, profissão, composição familiar e objetivos (morar ou investir).
+o	Histórico de leads: Características dos imóveis que o cliente já visitou presencialmente ou demonstrou interesse via chat.
+
+
+
+3. Análise de Crédito e Prevenção de Inadimplência
+Obejtivo: Avalia o risco de um locatário ficar inadimplente ou de um comprador não conseguir o financiamento, acelerando a aprovação de contratos com segurança.
+•	Dados brutos necessários:
+o	Histórico financeiro: Comprovantes de renda, score de crédito (Serasa/SPC), histórico de pagamentos e dívidas ativas.
+o	Dados sociodemográficos: Idade, estabilidade no emprego atual e profissão.
+o	Dados de comportamento interno: Histórico de interações e pontualidade em contratos anteriores (caso já seja cliente).
+
+4. Atendimento Automatizado (Chatbots e Agentes de Voz)
+Objetivo: Triagem e qualificação de leads 24 horas por dia através de IA generativa, respondendo dúvidas frequentes e agendando visitas automaticamente.
+•	Dados brutos necessários:
+o	Base de Conhecimento: Histórico de conversas reais de corretores (transcrições de chats e áudios), FAQs da imobiliária e regras de negócio.
+o	Disponibilidade da agenda: Integração com os calendários dos corretores em tempo real.
+o	Catálogo de imóveis: Informações detalhadas e atualizadas sobre o inventário disponível.
+
+
+5. Manutenção Preditiva (para Gestão de Aluguel e Propriedades)
+Objeitvo: Antecipa problemas estruturais em imóveis administrados pela imobiliária, reduzindo custos de reparo urgentes e melhorando a relação com inquilinos e proprietários.
+•	Dados brutos necessários:
+o	Histórico de chamados: Registro de todas as manutenções passadas (problemas hidráulicos, elétricos, pintura) e a frequência com que ocorrem.
+o	Dados do imóvel: Idade do prédio, materiais de construção utilizados e histórico de reformas.
+

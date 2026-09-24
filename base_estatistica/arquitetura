@@ -1,0 +1,8 @@
+Camada de Dados (O CRM Simulado): 
+Banco SQLite + API FastAPI rodando na porta http://localhost:8000. Ela guarda a lista de imóveis e leads criados artificialmente.
+
+
+Camada de IA/ML (O Core): Notebooks Jupyter (.ipynb) ou scripts Python onde você treina os modelos usando scikit-learn ou conecta com a API da OpenAI (caso queira criar o chatbot). Depois de treinado, salve o modelo (arquivo .pkl ou .joblib).
+
+
+Camada do Usuário/Corretor: Uma interface web simples construída em Streamlit (uma biblioteca Python fantástica para criar telas de dados rapidamente). O Streamlit vai consultar o seu CRM simulado, enviar os dados para o seu modelo de IA e exibir o resultado na tela.

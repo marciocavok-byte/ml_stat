@@ -1,0 +1,30 @@
+Instalar biblioteca Faker, combinada com o Pandas e NumPy
+
+
+
+
+# Exemplo conceitual de geração de dados de imóveis com a biblioteca Faker
+from faker import Faker
+import random
+import pandas as pd
+
+fake = Faker('pt_BR') # Gera dados no formato brasileiro
+
+dados_imoveis = []
+for _ in range(1000): # Simula 1000 imóveis
+    area = random.randint(40, 300)
+    quartos = random.randint(1, 4)
+    # Simula uma lógica onde a área e quartos influenciam o preço
+    preco_base = (area * 5000) + (quartos * 20000) + random.randint(-30000, 30000)
+    
+    dados_imoveis.append({
+        "id_imovel": fake.uuid4(),
+        "endereco": fake.street_address(),
+        "bairro": random.choice(["Asa Sul", "Asa Norte", "Guará", "Ceilância"]),
+        "area_m2": area,
+        "quartos": quartos,
+        "vagas_garagem": random.randint(0, 2),
+        "preco_venda_simulado": preco_base
+    })
+
+df = pd.DataFrame(dados_imoveis)
