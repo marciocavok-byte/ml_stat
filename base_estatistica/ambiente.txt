@@ -1,0 +1,14 @@
+Opção 1 Simular um CRM no Ambiente de Dev
+
+Rodar um CRM gratuito e de código aberto na sua máquina usando Docker. 
+O SuiteCRM ou o Odoo são excelentes para isso.
+Como funciona: 
+Instalaçao de  CRM em um container, acessa a interface web dele para ver o comportamento visual 
+e usa a API REST nativa para fazer com que os modelos de IA extraiam dados de leads ou atualizem a pontuação de crédito de um cliente.
+
+
+Opção 2 Criar uma API Mock (Mais Rápida e Leve)
+
+Cria endpoints simples (ex: GET /api/v1/leads ou POST /api/v1/imoveis/precificar).
+Essa API lê e escreve os dados diretamente de um banco de dados local leve, como o SQLite, ou até de arquivos JSON.
+
